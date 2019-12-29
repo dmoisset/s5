@@ -1,5 +1,7 @@
 # Table of Contents
 
+ 1. [Introduction to Star5er](README.md)
+
 ## New/modified rules
 
  1. [Skills for the future](rules/skills.md): New character skills
