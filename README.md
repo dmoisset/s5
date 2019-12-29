@@ -14,4 +14,8 @@ Star5er is a homebrew tabletop roleplaying game, heavily based on the 5th editio
 
 This is not a standalone game. You will need to know the rules of D&D to play this; those rules are [freely available online](https://dnd.wizards.com/articles/features/systems-reference-document-srd), or included with other goodies in published books. 
 
-You don't need any previous knowledge about the Starfinder Roleplaying Game, but if you want to know more about the races, classes, setting, etc, you'll definitely find the published Starfinder material useful.
+You don't need any previous knowledge about the Starfinder Roleplaying Game, but if you want to learn more about the races, classes, locations, and anything about the setting, you'll definitely find the published Starfinder material useful.
+
+## Get started!
+
+If you want to learn more, you can follow with the [Table of Contents](TOC.md)
