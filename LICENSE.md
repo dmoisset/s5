@@ -21,7 +21,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
     **Open Game License v 1.0** Copyright 2000, Wizards of the Coast, Inc.
 
-    **System	Reference	Document 5.1** Copyright	2016,	Wizards	of	the	Coast,	Inc.;	Authors	Mike	Mearls,	Jeremy	Crawford, Chris	Perkins,	Rodney	Thompson,	Peter	Lee,	James	Wyatt,	Robert	J.	Schwalb,	Bruce	R. Cordell,	Chris	Sims,	and	Steve	Townshend,	based	on original	material	by	E.	Gary	Gygax	and	Dave	Arneson.	
+    **System Reference Document 5.1** Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
 
     **Starfinder Core Rulebook** Copyright 2017, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Amanda Hamon Kunz, Jason Keeley, Robert G. McCreary, Stephen Radney-MacFarland, Mark Seifter, Owen K.C. Stephens, and James L. Sutter, with Alexander Augunas, Judy Bauer, John Compton, Adam Daigle, Crystal Frasier, Lissa Guillet, Thurston Hillman, Erik Mona, Mark Moreland, Jessica Price, F. Wesley Schneider, Amber E. Scott, and Josh Vogt.
 
