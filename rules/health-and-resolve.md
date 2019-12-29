@@ -1,7 +1,14 @@
 # Health and Resolve
-## Hit Dice
 
-Star5er characters do not have a pool of hit dice. If they need to recover they use Stamina Points as described below
+The star5er system uses some rules for health that are significantly different to D&D (inspired on the Starfinder RPG). These rules try to make the feel of the game slightly different than epic fantasy; characters may get some wounds that take a few days to recover, but at the same time, a wounded character should be able to function and go on adventure without ruining the player experience. This also allows making a reliable ship doctor and advanced medical equipment more relevant to the stories that you'll tell while playing Star5er. The rules have less of a chance based element (including how your max HP is determied), making some forms of recovery more reliable.
+
+Besides the usual hit points (and occassional temporary hit points), a Star5er Player Character has the following resources:
+* Stamina Points: these are used to absord damage before using your hit points.
+* Resolve Points: these are used to delay death, stabilize, and power some special abilities.
+
+A Star5er character does NOT have the following:
+* A hit dice pool: Your stamina is easy to recover during short rests, not requiring hit dice
+* Death save successes/failures: your resolve points are used to prevent close death.
 
 ## Hit Points and Stamina
 
