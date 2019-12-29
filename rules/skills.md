@@ -148,7 +148,7 @@ The following alphabetical list describes all the Star5er skills. The skills lab
   quicksand and other natural hazards. You can also use this skill to calm down a domesticated animal, keep a mount
   from getting spooked, or intuit an animal’s intentions and to control live mounts when you attempt a risky maneuver.
 
-## Coverting 5e content
+## Converting 5e content
 
 If you're are using content designed for 5th edition D&D in your Star5er game, you may find that it refers to skills
 that no longer exit. You may find a magical mask that gives you advantage on Wisdom (Animal Handling) checks, a
