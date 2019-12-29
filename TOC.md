@@ -2,8 +2,8 @@
 
 ## New/modified rules
 
- 1. Skills for the future: New character skills
- 1. Health and Resolve
+ 1. [Skills for the future](rules/skills.md): New character skills
+ 1. [Health and Resolve](rules/health-and-resolve.md)
  1. Combat with modern weapons
  1. Strange, new worlds: New environment rules
 
