@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the Star5er RPG
 
-You can use the [editor on GitHub](https://github.com/dmoisset/s5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find my resources for playing sci-fantasy game with the world most popular role-playing game, called Star5er (pronounce "star-fiver").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website contains material based on published content under the [Open Gaming License](LICENSE.md). The author of this website is unaffiliated in any way with Wizards of the Coast, Inc. nor with Paizo Publishing, LLC.  None of these companies have directly contributed to this work, but 
 
-### Markdown
+## What is Star5er
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Do you play Dungeons & Dragons? Would you like to play a similar games with futuristic technology, faster-than-light starships and bold crews, mixed up in a fantastic world of mystical priests, magical monsters, and space orc pirates wielding holy plasma rifles? Then this is for you.
 
-```markdown
-Syntax highlighted code block
+Star5er is a homebrew tabletop roleplaying game, heavily based on the 5th edition of the world most popular role-playing game, published by Wizards of the Coast, Inc. If you're familiar with that game, it should be really easy to start playing this game. It introduces some changes and new rules to be able to play in a futuristic sci-fi/space setting. The sci-fi content is itself heavily based (without any intention to hide it) on the Starfinder Roleplaying Game, published by Paizo Publishing, LLC.
 
-# Header 1
-## Header 2
-### Header 3
+## What do you need?
 
-- Bulleted
-- List
+This is not a standalone game. You will need to know the rules of D&D to play this; those rules are [freely available online](https://dnd.wizards.com/articles/features/systems-reference-document-srd), or included with other goodies in published books. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmoisset/s5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You don't need any previous knowledge about the Starfinder Roleplaying Game, but if you want to know more about the races, classes, setting, etc, you'll definitely find the published Starfinder material useful.
