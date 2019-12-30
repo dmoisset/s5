@@ -91,6 +91,7 @@ their own thrust, such as maneuvering jets, are not affected. A character in a z
 10 times her normal amount.
 
 ### Falling
+
 Use the PHB rules for falling damage under standard gravity. For planets with high or low gravity, double or halve the
 damage amounts, respectively. Falling in extreme gravity deals as least triple the listed damage, and potentially even
 more.
