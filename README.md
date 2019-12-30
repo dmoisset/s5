@@ -18,4 +18,6 @@ You don't need any previous knowledge about the Starfinder Roleplaying Game, but
 
 ## Get started!
 
-If you want to learn more, you can follow with the [Table of Contents](TOC.md). It is organized to be read in order
+If you want to learn more, you can follow with the [Table of Contents](TOC.md). It is organized to be read in order.
+
+If a section of paragraph is labeled with the :five: icon, the content of that section is identical to the equivalent one in the System Reference Document (the free online rules for D&D); that means that you may skip it if you're familiar with it. I have included those sections to avoid cross referencing too much and improve readability.
