@@ -18,4 +18,4 @@ You don't need any previous knowledge about the Starfinder Roleplaying Game, but
 
 ## Get started!
 
-If you want to learn more, you can follow with the [Table of Contents](TOC.md)
+If you want to learn more, you can follow with the [Table of Contents](TOC.md). It is organized to be read in order
