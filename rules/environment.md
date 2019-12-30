@@ -9,8 +9,8 @@ It should definitely be used as a guide for ideas and description. Mechanically,
    CRB has conflicting rules (example: movement rules in forest terrain, or drowning rules)
 1. If an environment is described only in the CRB and its description can be applied without referencing any Starfinder
    specific concept, use it. (Example: effect of high gravity on falling damage or movement speed.)
-1. If the CRB has any rule that references starfinder specific concepts, you’ll find an adapted rule in this section
-   (example: something imposing the “sickened” condition which doesn’t exist in 5e, or asking for skill checks that have
+1. If the CRB has any rule that references starfinder specific concepts, you'll find an adapted rule in this section
+   (example: something imposing the "sickened" condition which doesn't exist in 5e, or asking for skill checks that have
    a different DC scale in 5e). 
 
 ##  Space
@@ -64,11 +64,11 @@ cease coping with the density of the oxygen inhaled and lose the strength to kee
 Most CRB rules for creatures under different levels of gravity can be normally applied. There is a single section
 with changes:
 
-**The “off-kilter” condition:** This is a special form of the “Restrained” condition when you are floating in Zero-G
+**The "off-kilter" condition:** This is a special form of the "Restrained" condition when you are floating in Zero-G
 without means of propulsion. It has the same effects, but you can end it by using a bonus action to grab a fixed object
 and right yourself, or to throw a heavy object and rebalance. An adjacent creature can also spend its action to remove
-the condition on you. Note that the restrained condition gives you a speed of 0 but that doesn’t stop you from being
-moved by other effects or inertia. If you start your turn with this condition you’re considered to have spent all of
+the condition on you. Note that the restrained condition gives you a speed of 0 but that doesn't stop you from being
+moved by other effects or inertia. If you start your turn with this condition you're considered to have spent all of
 your movement even if you grab something during your turn. You can gain some additional movement by using your Dash
 action as normal to push against other object.
 
@@ -85,7 +85,7 @@ solid object (such as by the boot clamps available with most armor) receives adv
 
 If provided with sufficient handholds, a creature with a climb speed can move along a wall at full speed, as can any
 creature that succeeds at a DC 15 Acrobatics or Athletics check. Creatures that fly via methods that require an atmosphere,
-such as wings or turbofans, can’t use their fly speeds in a vacuum; once they reenter an atmosphere, they can recover and
+such as wings or turbofans, can't use their fly speeds in a vacuum; once they reenter an atmosphere, they can recover and
 get their bearings within 1d4 rounds, after which they can fly normally. Magical flight and methods of flight that provide
 their own thrust, such as maneuvering jets, are not affected. A character in a zero-gravity environment can lift and carry
 10 times her normal amount.
@@ -126,8 +126,8 @@ roll below 16 afflict you with radiation sickness
 ### Radiation Sickness
 
 Exposure to radiation may leave longer term sequels, with symptoms like nausea, vomiting, and loss of hair. This
-“radiation sickness” is not contagious and can be treated. Radiation sickness is contracted as described in the
-“Radiation exposure” section.
+"radiation sickness" is not contagious and can be treated. Radiation sickness is contracted as described in the
+"Radiation exposure" section.
 
 A creature that contracts radiation sickness gains the poisoned condition and a level of fatigue. Those conditions
 can not be removed by the usual means, and the only way to lose them is being cured of the radiation sickness.
@@ -135,7 +135,7 @@ can not be removed by the usual means, and the only way to lose them is being cu
 After each long rest, an affected creature must make a Constitution saving throw vs poison, with the DC based on
 the radiation level at the time the sickness was contracted. On a failure, it gains another level of fatigue that
 can not be removed. On a success, one of the levels of fatigue go away. If a successful saving throw reduces the
-infected creature’s level of Exhaustion below 1, the creature recovers from the disease.
+infected creature's level of Exhaustion below 1, the creature recovers from the disease.
 
 Medical care can improve recovery. Another character giving treatment using a Medical kit or facility can attempt
 a Wis(Medicine) check with the same DC as the radiation. On a success, the afflicted creature is prevented from
