@@ -7,6 +7,7 @@
  1. [Skills for the future](rules/skills.md): New character skills
  1. [Health and Resolve](rules/health-and-resolve.md)
  1. [Combat with modern weapons](rules/combat.md)
+ 1. [Damage types](rules/damage.md)
  1. [Strange, new worlds](rules/environment.md): New environment rules
 
 ## Building characters
