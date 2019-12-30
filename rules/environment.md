@@ -10,6 +10,26 @@ ancient alien megastructures. The following section contains rules to help you a
 including rules for the vastness of space, for various types of planets and the different terrains that may be found on
 them, and for environmental effects and hazards that may come into play in a variety of settings.
 
+## Hazards
+
+### Suffocating :five:
+
+A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+
+When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier
+(minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points
+or be stabilized until it can breathe again.
+
+For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2
+rounds to reach air before it drops to 0 hit points.
+
+### Falling
+
+:five:A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+
+For environments with high or low gravity, double or halve the damage amounts, respectively. Falling in extreme gravit deals as least triple the listed damage, and potentially even more.
+
+
 ##  Space
 
 The immeasurable gulf of space is home to everything on the Material Plane, housing more stars and planets than could ever
@@ -30,7 +50,7 @@ Starships and space stations designed to be inhabited are usually shielded again
 
 ### Vacuum
 
-A creature introduced to a vacuum immediately runs out of breath (see Suffocating in the PHB) and takes 1d6 bludgeoning
+A creature introduced to a vacuum immediately runs out of breath (see [Suffocating](#suffocating) above) and takes 1d6 bludgeoning
 damage when exposure start and at the beginning of each turn (no saving throw). Because a vacuum has no effective
 temperature, the void of outer space presents no dangers from cold temperatures.
 
@@ -63,7 +83,7 @@ normal atmosphere. Conversely, the increased weight of the air grants advantage 
 Dexterity (Piloting) checks to keep an aircraft in flight.
 
 Severely thick atmospheres are far more dangerous. Every minute, a creature in such an atmosphere must succeed at
-a Constitution save (DC = 10 + 1 per previous check) or begin to suffocate (see Suffocating in the PHB) as its lungs
+a Constitution save (DC = 10 + 1 per previous check) or begin to suffocate (see [Suffocating](#suffocating) above) as its lungs
 cease coping with the density of the oxygen inhaled and lose the strength to keep pumping air into its bloodstream.
 
 ### Thin
@@ -160,12 +180,6 @@ such as wings or turbofans, can't use their fly speeds in a vacuum; once they re
 get their bearings within 1d4 rounds, after which they can fly normally. Magical flight and methods of flight that provide
 their own thrust, such as maneuvering jets, are not affected. A character in a zero-gravity environment can lift and carry
 10 times her normal amount.
-
-### Falling
-
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
-
-For environments with high or low gravity, double or halve the damage amounts, respectively. Falling in extreme gravit deals as least triple the listed damage, and potentially even more.
 
 ## Radiation
 
