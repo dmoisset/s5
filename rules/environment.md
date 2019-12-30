@@ -50,7 +50,7 @@ Starships and space stations designed to be inhabited are usually shielded again
 
 ### Vacuum
 
-A creature introduced to a vacuum immediately runs out of breath (see [Suffocating](#suffocating) above) and takes 1d6 bludgeoning
+A creature introduced to a vacuum immediately runs out of breath (see [Suffocating](#suffocating-five) above) and takes 1d6 bludgeoning
 damage when exposure start and at the beginning of each turn (no saving throw). Because a vacuum has no effective
 temperature, the void of outer space presents no dangers from cold temperatures.
 
@@ -83,7 +83,7 @@ normal atmosphere. Conversely, the increased weight of the air grants advantage 
 Dexterity (Piloting) checks to keep an aircraft in flight.
 
 Severely thick atmospheres are far more dangerous. Every minute, a creature in such an atmosphere must succeed at
-a Constitution save (DC = 10 + 1 per previous check) or begin to suffocate (see [Suffocating](#suffocating) above) as its lungs
+a Constitution save (DC = 10 + 1 per previous check) or begin to suffocate (see [Suffocating](#suffocating-five) above) as its lungs
 cease coping with the density of the oxygen inhaled and lose the strength to keep pumping air into its bloodstream.
 
 ### Thin
