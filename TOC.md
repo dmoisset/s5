@@ -12,27 +12,33 @@
 
 ## Building characters
 
- 1. Races
- 1. Classes
- 1. Backgrounds
- 1. Feats
+ 1. [Races](character/races.md)
+ 1. Modified classes & archetypes
+    1. [Envoy](character/classes/bard.md) (Bard variant)
+    1. [Operative](character/classes/rogue.md) (Rogue variant)
+    1. [Soldier](character/classes/fighter.md) (Fighter variants)
+    1. [Technomancer](character/classes/wizard.md) (Wizard variant)
+ 1. New classes
+    1. [Mechanic](character/classes/mechanic.md)
+    1. [Mystic](character/classes/mystic.md)
+    1. [Solarian](character/classes/solarian.md)
+ 1. [Backgrounds](character/backgrounds.md)
+ 1. [Feats](character/feats.md)
 
 ## Equipment
 
- 1. General equipment rules
- 1. Armor
- 1. Weapons
- 1. Other equipment
+ 1. [General equipment rules](equipment/index.md)
+ 1. [Armor](equipment/armor.md)
+ 1. [Weapons](equipment/weapons.md)
+ 1. [Other equipment](equipment/other.md)
 
 ## Space Travel
 
- 1. Space travel rules
- 1. Building starships
- 1. Starship combat
+ 1. [Space travel rules](starship/navigation.md)
+ 1. [Building starships](starship/build.md)
+ 1. [Starship combat](starship/combat.md)
  
 ## Magic
 
- 1. Spell Lists
- 1. New Spell descriptions
- 
- 
+ 1. [Spell Lists](spells/lists.md)
+ 1. [Spell descriptions](spells/index.md)
