@@ -6,7 +6,7 @@ monsters. While not all races are appropriate for player characters, many of the
 traits entry is a member of a potentially playable race, provided that your GM approves it.
 
 
-The following description contains mechanical traits for each race. For general details, and other attributes like age or alignment check the [Starfinder SRD](https://www.aonsrd.com/Races.aspx?ItemName=All).
+The following description contains mechanical traits for each race. For general details, and other attributes like age or physical measures check the [Starfinder SRD](https://www.aonsrd.com/Races.aspx?ItemName=All).
 
 ## Android
 
