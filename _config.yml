@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
+title: Star5er
+description: A sci-fi/fantasy role playing game
 plugins:
   - jemoji
