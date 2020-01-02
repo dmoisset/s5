@@ -123,7 +123,7 @@ By 15th level, you have acquired greater mental strength. You gain proficiency i
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has 
 advantage against you while you aren't incapacitated.
 
-### Stroke of Luck
+### Stroke of Luck :five:
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you 
 can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
