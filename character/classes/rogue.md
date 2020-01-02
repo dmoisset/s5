@@ -31,8 +31,6 @@ As a rogue, you gain the following class features.
 
 ### Hit Points
 
-**Hit Dice:** 1d8 per rogue level
-
 **Hit Points each Level:** 3
 
 **Stamina Points each Level:** 2 + your Constitution modifier (min 0)
