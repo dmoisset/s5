@@ -304,3 +304,111 @@ reaction. If your readied action was a spell, you still spend the slot for the s
 
 As a bonus action you can spend 2 RP to grant an ally within 60 ft 1 RP that she can spend before the beginning of your next 
 turn (or lose if not spent). You can not use this improvisation on the same ally again until you finish a long rest.
+
+## College of Expertise (Bard College)
+
+An envoy can choose this college at third level as an Ennvoy College option. This college allows the Envoy to unlock certain 
+talents related to the skills they chose as part of their Expertise feature.
+
+### Expertise Talent
+
+At 3th, 6th, 10th, 14th and 18th level you gain an expertise talent from the list below. The talent must be tied to a skill 
+that you have expertise in (you may take the expertise skill at the same level that you pick the talent). You can instead, 
+only once per character, choose to gain another expertise skill instead of an expertise talent.
+
+Note that not all skills have associated talents; make sure to choose on your Expertise skills that allow you to benefit 
+from this feature.
+
+Some talents description ask you to make a “non-expert skill check”, which means adding your proficiency bonus once instead 
+of twice to gain the benefit of the talent instead.
+
+#### Altered Bearing (Deception)
+
+As an action, you can make a non-expert DC 10 Cha(Deception) check to alter minor details of your appearance to be harder to 
+recognize. Wisdom (Perception) checks to note who you are or to recognize you later are done at disadvantage.
+
+#### Analyst (Insight)
+
+When using Wisdom (Insight) you never get false information (but you can get a “you’re not sure” if you fail).
+
+#### Convincing Liar (Deception)
+
+After rolling a Cha(Deception) check you can choose to consider it a non-expert check, but instead roll an additional d20 
+and choose which one to use. At 10th level you can choose to spend a resolve point and not lose the expertise bonus.
+
+#### Cultural Savant (Culture)
+
+If you’re trying to use Int(Culture) skill to recall something and have enough time, you can take a few minutes to get a 
+result equivalent to having rolled a 20 on a non-expert check.
+
+#### Cunning Disguise (Deception)
+
+When you are disguised or attempting to pass as somebody else, you can make a non-expert check, and instead the first time 
+that a creature would have the chance to see through it, treat its Wis(Perception) or Wis(Insight) check as if it had been a 
+natural 1. This happens once per disguise, or twice after 10th level.
+
+#### Engineering Adept (Engineering)
+
+When repairing or disabling a device you can make a non-expert Int(Engineering) check to take half the time it would 
+normally take.
+
+#### Expert Forger (Computers)
+
+You can forge a document using an Int(Computers) check as an action, instead of the few minutes that it would normally take.
+
+#### Fast Hack (Computers)
+
+When hacking a computer you can make a non-expert Int(Engineering) check to take half the time it would normally take 
+(minimum 1 action). At 10th level, on a success you negate a single countermeasure of the target system. You can not use 
+this to negate another countermeasure in the same system until your next long rest.
+
+#### Inspired Medic (Medicine)
+
+After rolling an Int(Medicine) check you can choose to consider it a non-expert check, but instead roll an additional d20 
+and choose which one to use. At 10th level you can choose to spend a resolve point and not lose the expertise bonus.
+
+#### Keen Observer (Insight)
+
+When interacting for a minute with a creature under a charm, enchantment, or other form of mind influence, the GM can allow 
+a non-expert Wis(Insight) check to learn about it. The GM may roll this in secret.
+
+#### Menacing Gaze (Intimidate)
+
+As an action, you can choose enemies within a 60 foot cone. They must succeed in a Wisdom saving throw or be frightened 
+until the beginning of your next turn. Additional uses of this talent against the same creature are ineffective until you 
+take a long rest.
+
+#### Rattling Presence (Intimidate)
+
+You can choose an enemy within 30 feet to demoralize. The enemy must succeed on a Wisdom saving throw or be frightened 
+(although this frightened effect does not prevent it from moving towards you) for 2 rounds, or 4 rounds if you are 10th 
+level or higher.
+
+#### Skilled Linguist (Culture)
+
+When choosing this talent, you gain three languages of your choice. You can also use a non-expert Int(Culture) checks to try 
+to decode half a page of a cyphered text as an action (it would normally take a few minutes)
+
+#### Slick Customer (Culture)
+
+After rolling an Cha(Persuasion) check you can choose to consider it a non-expert check, but instead roll an additional d20 
+and choose the best roll. At 10th level you can choose to spend a resolve point and not lose the expertise bonus.
+
+#### Student of Technology (Engineering)
+
+If you’re trying to use Int(Engineering) skill to identify technological creatures or technology and have enough time, you 
+can take a few minutes to get a result equivalent to having rolled a 20 on a non-expert check. If the technology was 
+manufactured by a group or individual you’re familiar with (corporations, military organizations), you recognize who crafted 
+it.
+
+#### Surgeon (Medicine)
+
+You can use Medicine to treat deadly wounds on a patient once each day in addition to the normal allowances for the medical 
+equipment you are using. Because performing this level of advanced medicine is difficult and time consuming, the DC for this 
+additional treatment increases by 5 and the skill check takes 1 hour.
+
+#### Well Informed (Persuasion)
+
+When you’ve been in a populated area at least 24 hours you can use a non-expert Cha(Persuasion) skill check to find out 
+local events/rumors (or who to ask about some topic) as an action instead of a few hours
+
