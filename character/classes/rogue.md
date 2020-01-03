@@ -142,7 +142,7 @@ dirty—achieving your objective is all that matters.
 ### Operative Exploits
 
 At 3rd level, you gain one of the special tricks called “operative exploits” listed below. You get 2 additional exploits at 
-9th  level, 2 more t 13th level and 2 more at 17th level. You must meet any requirements listed for the exploit to gain it. 
+9th  level, 2 more at 13th level and 2 more at 17th level. You must meet any requirements listed for the exploit to gain it. 
 The DC for exploits that require a saving throw is 10+proficiency+Dexterity bonus.
 
 * **Alien Archive:** You can use double your proficiency bonus on checks to know about a creature and its abilities
@@ -171,11 +171,9 @@ The DC for exploits that require a saving throw is 10+proficiency+Dexterity bonu
 
   You can use this to deactivate a construct. If a construct hit by this effect fails a Constitution saving throw, it’s 
   stunned until the beginning of your next turn. A construct is vulnerable to this only once every 24 hours.
-
 * **Debilitating Sniper** (requires level 9): When using a Sniper weapon on a shot that would qualify(except for the weapon 
   type) as a sneak attack, you can apply an extra effect on the sneak attack granted by this class, but you don’t add the 
   sneak attack additional damage.
-
 * **Elusive Hacker** (requires level 9): If you trigger a computer countermeasure by failing a skill check, roll again vs 
   the same DC. If this second check is succesful, the action is still unsuccessful but doesn't trigger the countermeasure.
 * **Ever Vigilant** (requires level 9): You still have your passive perception while sleeping, as long as what you’re 
@@ -236,7 +234,8 @@ additional operative exploit, even if you don’t meet the prerequisites for it.
 * **Detective:** Insight (you read your opponent to land a sneak attack); Glimpse the truth exploit
 * **Explorer:** Survival (you use your surroundings to position yourself for a sneak attack); Ever vigilant exploit
 * **Ghost:** Stealth(you move without being noticed to land a sneak attack); Cloaking Field exploit
-* **Hacker:** Computers(you create a distraction with surrounding equipment to land a sneak attack. This may not work in non-civilized locations); Elusive hacker exploit
+* **Hacker:** Computers(you create a distraction with surrounding equipment to land a sneak attack. This may not work in 
+  non-civilized locations); Elusive hacker exploit
 * **Spy:** Deception(You feint your opponent to land a sneak attack); Master of Disguise exploit
 * **Thief:** Sleight of Hands(you conceal your weapons and motions to land a sneak attack); Holographic distraction exploit
 
