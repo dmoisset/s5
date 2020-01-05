@@ -193,6 +193,27 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 spent studying your spell cache and memorizing the incantations and gestures you must make to cast the spell: at least 1 
 minute per spell level for each spell on your list.
 
+#### Spellcasting Ability
+
+Intelligence is your spellcasting ability for your technomancer spells, since you learn your spells through dedicated study 
+and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your 
+Intelligence modifier when setting the saving throw DC for a technomancer spell you cast and when making an attack roll with 
+one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+#### Ritual Casting
+
+You can cast a technomancer spell as a ritual if that spell has the ritual tag and you have the spell in your spell cache. 
+You don't need to have the spell prepared.
+
+#### Learning Spells of 1st Level and Higher
+
+Each time you gain a technomancer level, you can add two technomancer spells of your choice to your spell cache for free. 
+Each of these spells must be of a level for which you have spell slots, as shown on the Technomancer table. On your 
+adventures, you might find other spells that you can add to your spell cache.
 
 #### Multiclassing
 
@@ -200,29 +221,40 @@ For multiclassing purposes, count ⅔ of the Technomancer levels+1 for determini
 
 ### Arcane Recovery
 
-As per the [wizard rules](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Arcane-Recovery&amp;sa=D&amp;ust=1578096734130000) you can recover some spell slots on a short rest
+You have learned to regain some of your magical energy by studying your spell cache. Once per day when you finish a short 
+rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less 
+than half your technomancer level (rounded up), and none of the slots can be 5th level or higher.
+
+For example, if you're a 4th-level technomancer, you can recover up to two levels worth of spell slots. You can recover 
+either a 2nd-level spell slot or two 1st-level spell slots.
 
 ### Arcane Tradition
 
-Many technomancers take the new “school of technomancy”, although you can choose one of the ancient schools of magic as a 
-tradition. If your school had a 2nd level class feature that reduced costs of copying certain spells to your spellbook, it 
-allows you to recover (as UPBs) half the cost of the spell when you transfer a gem to the cache, and reduce the time of the 
-process by half.
+When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one specific school: the school of technomancy is described below, although others may be available.
 
-Note that the school of technomancy provides additional benefits at 18th level (besides the usual benefits at 2nd, 6th, 10th 
-and 14th of other schools)
+Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level and 18th level.
 
-### Ability Score Improvement
+### Ability Score Improvement :five:
 
-[As in the PHB](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Ability-Score-Improvement&amp;sa=D&amp;ust=1578096734131000), you increase ability scores at levels 4, 8, 12, 16 and 19.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Spell Mastery
+### Spell Mastery :five:
 
-[As described in the PHB](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Spell-Mastery&amp;sa=D&amp;ust=1578096734132000), at 18th level you learn to cast at will a 1st level and a 2nd level spell.
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level 
+technomancer spell and a 2nd-level technomancer spell that are in your spell cache. You can cast those spells at their 
+lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, 
+you must expend a spell slot as normal.
 
-### Signature Spells
+By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-[As described in the PHB](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Signature-Spells&amp;sa=D&amp;ust=1578096734132000), at 20th level you always have prepared two 3rd level spells.
+### Signature Spells :five:
+
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-
+level technomancer spells in your spell cache as your signature spells. You always have these spells prepared, they don't 
+count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a 
+spell slot. When you do so, you can't do so again until you finish a short or long rest.
+
+If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 ## School of Technomancy (Arcane Tradition)
 
@@ -273,7 +305,7 @@ __Spell Grenade.__ You can spend 1 RP to store a “touch” ranged spell into a
 
 At 10th level, the following Magic Hacks become available too:
 
-__Diviner’s Tap.__ You hack a computer to provide surveillance. This requires 10 minutes and a successful Int(Computers) check vs the computer base DC (if you fail, you can’t retrying). This tap lasts for a week, or until you set another tap. See [the CRB](https://www.google.com/url?q=http://aonsrd.com/MagicHacks.aspx?ItemName%3DDiviner%2527s%2520Tap&amp;sa=D&amp;ust=1578096734136000) to know what kind of information you get from this ability.
+__Diviner’s Tap.__ You hack a computer to provide surveillance. This requires 10 minutes and a successful Int(Computers) check vs the computer base DC (if you fail, you can’t retrying). This tap lasts for a week, or until you set another tap. You can program your tap either to give you general information about user activity on the device or to receive a mental alarm when a user accesses or transmits data about a specific topic (getting an idea of the information found). For instance, a user might hold a video call to talk about your exploits. If you chose to receive general information, you might know that a video call took place but not the call’s topic. If you chose to have the tap receive an alarm when the topic is you, you’d get the gist of the conversation (but not a complete transcript).
 
 __Flash Teleport.__ You can cast misty step by spending 1 RP instead of a spell slot. You are not required to have it prepared or even in your spell cache.
 
@@ -309,11 +341,11 @@ __Spell Library.__ Your spell cache gains a capacity of 5 spells. When you get t
 
 At 6th level you modify your capacitor to be able to hold some spells for a long period of time. After preparing your spells, you can cast a spell that you have prepared into your cache which will affect you for 24 hours or until you end your next long rest. You do not need to hold concentration for this spell even if the spell usually requires it. The spell must be cast at its lowest possible level.
 
-The capacitor can hold the following spells: Detect Radiation, Disguise Self, Keen Senses, Unseen Servant. If the spell casted this way is dispelled or dismissed, you can recast the same one in the same way by concentrating for 5 minutes; this restores the remaining duration.
+The capacitor can hold the following spells: *Detect Radiation*, *Disguise Self*, *Keen Senses*, *Unseen Servant*. If the spell casted this way is dispelled or dismissed, you can recast the same one in the same way by concentrating for 5 minutes; this restores the remaining duration.
 
-At 10th level your spell gets another separate slot where you can cast and hold Darkvision, Lesser Resistant Armor, Life Bubble or Spider Climb
+At 10th level your spell gets another separate slot where you can cast and hold *Darkvision*, *Lesser Resistant Armor*, *Life Bubble* or *Spider Climb*
 
-At 14th level, your spell gets another separate slot where you can cast and hold Detect Magic, Fly, Levitate, See Invisibility or Tongues.
+At 14th level, your spell gets another separate slot where you can cast and hold *Detect Magic*, *Fly*, *Levitate*, *See Invisibility* or *Tongues*.
 
 ### Fuse Spells
 
