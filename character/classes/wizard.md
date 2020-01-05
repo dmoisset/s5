@@ -10,43 +10,6 @@ necessary, can blast a foe into atoms.
 
 Star5er does not have wizards, but technomancers are quite similar (both rules-wise as in role). 
 
-## Class Features
-
-### Hit Points
-
-__Hit Points:__ 2 per level
-
-__Stamina Points:__ 2 + your Constitution modifier per level
-
-### Proficiencies
-
-__Armor:__ A technomancer is proficient with Light Armor
-
-__Weapons:__ A technomancer is also proficient with simple modern weapons
-
-__Tools:__ None
-
-__Saving Throws:__ Intelligence, Wisdom
-
-__Skills:__ Choose two from Computers, Engineering, Insight, Physical Science, Piloting, Life Science, Mysticism.
-
-### Equipment
-
-You start with
-
-*   (a) A tactical baton or (b) a survival knife
-*   (a) laser pistol, azimuth with a 20 charges battery or (b) semi-auto tactical pistol with 30 rounds or 
-    (c) pulsecaster pistol with a 20 charges battery.
-*   A stationwear flight suit
-*   An essential kit
-*   Your spell cache
-
-### Spellcasting
-
-Spellcasting works mostly as described in the PHB, except for the number of spell slots and spellbooks.
-
-The number of spell slots per level follows the progression on the table below. For multiclassing purposes, count ⅔ of the 
-Technomancer levels+1 for determining the number of spell slots.
 
 <table>
   <tbody>
@@ -56,13 +19,7 @@ Technomancer levels+1 for determining the number of spell slots.
       <th colspan="7" rowspan="1">Spell Slots per Level</th>
     </tr>
     <tr>
-      <th>1st</th>
-      <th>2nd</th>
-      <th>3rd</th>
-      <th>4th</th>
-      <th>5th</th>
-      <th>6th</th>
-      <th>7th</th>
+      <th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th>
     </tr>
     <tr>
       <td>1st</td>
@@ -78,91 +35,35 @@ Technomancer levels+1 for determining the number of spell slots.
     </tr>
     <tr>
       <td>4th</td>
-      <td>3</td>
-      <td>4</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>3</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>5th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>6th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>7th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>8th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>9th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>10th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>1</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>11th</td>
-      <td>4</td>
-      <td>4</td>
-      <td>3</td>
-      <td>3</td>
-      <td>2</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
     </tr>
     <tr>
       <td>12th</td>
@@ -203,14 +104,57 @@ Technomancer levels+1 for determining the number of spell slots.
   </tbody>
 </table>
 
+## Class Features
+
+### Hit Points
+
+__Hit Points:__ 2 per level
+
+__Stamina Points:__ 2 + your Constitution modifier per level
+
+### Proficiencies
+
+__Armor:__ A technomancer is proficient with Light Armor
+
+__Weapons:__ A technomancer is also proficient with simple modern weapons
+
+__Tools:__ None
+
+__Saving Throws:__ Intelligence, Wisdom
+
+__Skills:__ Choose two from Computers, Engineering, Insight, Physical Science, Piloting, Life Science, Mysticism.
+
+### Equipment
+
+You start with
+
+*   (a) A tactical baton or (b) a survival knife
+*   (a) laser pistol, azimuth with a 20 charges battery or (b) semi-auto tactical pistol with 30 rounds or 
+    (c) pulsecaster pistol with a 20 charges battery.
+*   A stationwear flight suit
+*   An essential kit
+*   Your spell cache
+
+### Spellcasting
+
+#### Cantrips
+
+At 1st level, you know three cantrips of your choice from the technomancer spell list. You learn additional technomancer 
+cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Technomancer table.
+
 #### Spell Cache
 
-Technomancers do not have spellbooks. They store their technomancer spells into a device called “spell cache”, which can be 
-a piece or technology (either a device or an implant), a magic item such as a staff, or a brand/tattoo/modification in your 
-body. You don’t need your cache to cast spells, but you need it to change the spells you have prepared.
+As the culmination of your early study of the fundamental forces of the galaxy, you have created a spell cache that allows 
+you to store and access spells. Your spell cache could be a device such as a handheld computer or technological implant; an 
+item such as a ring or staff; or a symbol such as a brand, tattoo, or other permanent modification to your body. While you 
+don’t need your spell cache to cast your spells, once per day, you can activate your spell cache to cast any one spell you 
+know and are capable of casting, even if you’ve expended all your spell slots for that spell’s level. 
 
 If your spell cache is damaged, you can repair it as part of the benefits of getting a long rest. If it is destroyed, you 
 can rebuild it after a week with an 8 hour long ritual (although the new cache comes empty).
+
+At 1st level, your spell cache contains six 1st-level technomancer spells of your choice. Your spell cache is the repository 
+of the technomancer spells you know, except your cantrips, which are fixed in your mind.
 
 Your spell cache has a limited capacity of spells equals 4 + 2 × your technomancer level. Each of these spells must be of a 
 level you’re able to cast. You can do the following things to manage the content of your cache.
@@ -232,7 +176,27 @@ level you’re able to cast. You can do the following things to manage the conte
 
 #### Preparing and Casting Spells
 
-The [rules ](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Preparing-and-Casting-Spells&amp;sa=D&amp;ust=1578096734129000)[in](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Preparing-and-Casting-Spells&amp;sa=D&amp;ust=1578096734129000)[ the PHB](https://www.google.com/url?q=https://www.5esrd.com/classes/wizard/%23TOC-Preparing-and-Casting-Spells&amp;sa=D&amp;ust=1578096734129000) can be used here, but using your spell cache instead of a spellbook.
+The Technomancer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these 
+spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long 
+rest.
+
+You prepare the list of technomancer spells that are available for you to cast. To do so, choose a number of wizard spells 
+from your spell cache equal to your Intelligence modifier + your technomancer level (minimum of one spell). The spells must 
+be of a level for which you have spell slots.
+
+For example, if you're a 4th-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 
+16, your list of prepared spells can include seven spells of 1st or 2nd level, in any combination, chosen from your spell 
+cache. If you prepare the 1st-level spell *magic missile*, you can cast it using a 1st-level or a 2nd-level slot. Casting 
+the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time 
+spent studying your spell cache and memorizing the incantations and gestures you must make to cast the spell: at least 1 
+minute per spell level for each spell on your list.
+
+
+#### Multiclassing
+
+For multiclassing purposes, count ⅔ of the Technomancer levels+1 for determining the number of spell slots.
 
 ### Arcane Recovery
 
