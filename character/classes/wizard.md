@@ -35,7 +35,7 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     <tr>
       <td>3rd</td>
       <td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
-      <td>—</td>
+      <td>Cache Recall</td>
     </tr>
     <tr>
       <td>4th</td>
@@ -167,9 +167,8 @@ cantrips of your choice at higher levels, as shown in the Cantrips Known column 
 
 As the culmination of your early study of the fundamental forces of the galaxy, you have created a spell cache that allows 
 you to store and access spells. Your spell cache could be a device such as a handheld computer or technological implant; an 
-item such as a ring or staff; or a symbol such as a brand, tattoo, or other permanent modification to your body. While you 
-don’t need your spell cache to cast your spells, once per day, you can activate your spell cache to cast any one spell you 
-know and are capable of casting, even if you’ve expended all your spell slots for that spell’s level. 
+item such as a ring or staff; or a symbol such as a brand, tattoo, or other permanent modification to your body. You 
+don’t need your spell cache to cast your spells.
 
 If your spell cache is damaged, you can repair it as part of the benefits of getting a long rest. If it is destroyed, you 
 can rebuild it after a week with an 8 hour long ritual (although the new cache comes empty).
@@ -254,6 +253,11 @@ either a 2nd-level spell slot or two 1st-level spell slots.
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one specific school: the school of technomancy is described below, although others may be available.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level and 18th level.
+
+### Cache Recall
+
+When you reach 3rd level you can activate your spell cache to cast any one spell you 
+know and are capable of casting without spending a spell slot. After using this ability you can not do it again until you take a long rest.
 
 ### Ability Score Improvement :five:
 
