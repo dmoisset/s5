@@ -172,7 +172,7 @@ level you’re able to cast. You can do the following things to manage the conte
     the level being transferred. This process takes 10 minutes per spell level
 *   __Learning spells when levelling up.__ Each time you gain a technomancer level your spell cache will get two new free 
     slots. You can fill those for free with two technomancer spells of your choice and of any level that you’re able to 
-    cast. This replaces PHB rules about adding spells to your spellbook.
+    cast.
 
 #### Preparing and Casting Spells
 
