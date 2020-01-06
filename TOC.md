@@ -10,6 +10,13 @@
  1. [Damage types](rules/damage.md)
  1. [Strange, new worlds](rules/environment.md): New environment rules
 
+## Equipment
+
+ 1. [General equipment rules](equipment/index.md)
+ 1. [Armor](equipment/armor.md)
+ 1. [Weapons](equipment/weapons.md)
+ 1. [Other equipment](equipment/other.md)
+
 ## Building characters
 
  1. [Races](character/races.md)
@@ -24,13 +31,6 @@
     1. [Solarian](character/classes/solarian.md)
  1. [Backgrounds](character/backgrounds.md)
  1. [Feats](character/feats.md)
-
-## Equipment
-
- 1. [General equipment rules](equipment/index.md)
- 1. [Armor](equipment/armor.md)
- 1. [Weapons](equipment/weapons.md)
- 1. [Other equipment](equipment/other.md)
 
 ## Space Travel
 
