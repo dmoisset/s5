@@ -39,7 +39,7 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     </tr>
     <tr>
       <td>4th</td>
-      <td>3</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>4</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
       <td>Ability Score Improvement</td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     <tr>
       <td>6th</td>
       <td>4</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
-      <td>Arcane Tradition Feature</td>
+      <td>Arcane Tradition Feature, Cache Capacitor(1)</td>
     </tr>
     <tr>
       <td>7th</td>
@@ -65,26 +65,26 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     <tr>
       <td>9th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td>10th</td>
-      <td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td>
       <td>Arcane Tradition Feature</td>
     </tr>
     <tr>
-      <td>11th</td>
-      <td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
+      <td>10th</td>
+      <td>5</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td>
       <td>—</td>
     </tr>
     <tr>
+      <td>11th</td>
+      <td>5</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
+      <td>Cache Capacitor(2)</td>
+    </tr>
+    <tr>
       <td>12th</td>
-      <td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
+      <td>5</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
       <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>13th</td>
-      <td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td>
+      <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td>
       <td>—</td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     <tr>
       <td>15th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td>
-      <td>—</td>
+      <td>Cache Capacitor(3)</td>
     </tr>
     <tr>
       <td>16th</td>
@@ -105,12 +105,12 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     <tr>
       <td>17th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
-      <td>—</td>
+      <td>Arcane Tradition Feature</td>
     </tr>
     <tr>
       <td>18th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
-      <td>Spell Mastery, Arcane Tradition Feature</td>
+      <td>Spell Mastery</td>
     </tr>
     <tr>
       <td>19th</td>
@@ -252,16 +252,25 @@ either a 2nd-level spell slot or two 1st-level spell slots.
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one specific school: the school of technomancy is described below, although others may be available.
 
-Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level and 18th level.
+Your choice grants you features at 2nd level and again at 6th, 9th, and 14th level and 17th level.
 
 ### Cache Recall
 
-When you reach 3rd level you can activate your spell cache to cast any one spell you 
-know and are capable of casting without spending a spell slot. After using this ability you can not do it again until you take a long rest.
+When you reach 3rd level you can activate your spell cache to cast any one spell you know of up to 3rd level and are capable of casting without spending a spell slot. After using this ability you can not do it again until you take a long rest.
 
 ### Ability Score Improvement :five:
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Cache Capacitor
+
+At 6th level you modify your capacitor to be able to hold some spells for a long period of time. After preparing your spells, you can cast a spell that you have prepared into your cache which will affect you for 24 hours or until you end your next long rest. You do not need to hold concentration for this spell even if the spell usually requires it. The spell must be cast at its lowest possible level.
+
+The capacitor can hold the following spells: *Detect Radiation*, *Disguise Self*, *Keen Senses*, *Unseen Servant*. If the spell casted this way is dispelled or dismissed, you can recast the same one in the same way by concentrating for 5 minutes; this restores the remaining duration.
+
+At 11th level your spell gets another separate slot where you can cast and hold *Darkvision*, *Lesser Resistant Armor*, *Life Bubble* or *Spider Climb*
+
+At 15th level, your spell gets another separate slot where you can cast and hold *Detect Magic*, *Fly*, *Levitate*, *See Invisibility* or *Tongues*.
 
 ### Spell Mastery :five:
 
@@ -285,8 +294,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 ### Magic Hack
 
-At 2nd level you learn a Magic Hack. You get an additional magic hack at 6th level, and 10th level. You get two additional 
-magic hacks at 14th and 18th level.
+At 2nd level you learn a Magic Hack. You get an additional magic hack at 6th level, and another at 9th level. You get two additional magic hacks at 14th level and an additional two at 17th level.
 
 Some Magic Hacks affect the attributes of a spell; you can only use one of those per spell cast.
 
@@ -328,7 +336,7 @@ __Magic Negation.__ You can use 1 RP to temporarily suppress a magic effect. You
 
 __Spell Grenade.__ You can spend 1 RP to store a “touch” ranged spell into a grenade. This takes the usual time to cast that spell (and does not include throwing the grenade, which is usually an action). If you don’t throw the grenade before the end of your next turn, the spell effect is lost (the grenade works as usual). You are considered proficient with the grenade while the spell affects it. The grenade works as usual, when it explodes you can choose a single creature within its blast and it’s affected by the spell.
 
-At 10th level, the following Magic Hacks become available too:
+At 9th level, the following Magic Hacks become available too:
 
 __Diviner’s Tap.__ You hack a computer to provide surveillance. This requires 10 minutes and a successful Int(Computers) check vs the computer base DC (if you fail, you can’t retrying). This tap lasts for a week, or until you set another tap. You can program your tap either to give you general information about user activity on the device or to receive a mental alarm when a user accesses or transmits data about a specific topic (getting an idea of the information found). For instance, a user might hold a video call to talk about your exploits. If you chose to receive general information, you might know that a video call took place but not the call’s topic. If you chose to have the tap receive an alarm when the topic is you, you’d get the gist of the conversation (but not a complete transcript).
 
@@ -362,19 +370,9 @@ __Seeking Shot.__ As an action, you spend a RP and make a single attack with a r
 
 __Spell Library.__ Your spell cache gains a capacity of 5 spells. When you get the extra capacity, you can also fill the space with spells of your choice from the class spell list.
 
-### Cache Capacitor
-
-At 6th level you modify your capacitor to be able to hold some spells for a long period of time. After preparing your spells, you can cast a spell that you have prepared into your cache which will affect you for 24 hours or until you end your next long rest. You do not need to hold concentration for this spell even if the spell usually requires it. The spell must be cast at its lowest possible level.
-
-The capacitor can hold the following spells: *Detect Radiation*, *Disguise Self*, *Keen Senses*, *Unseen Servant*. If the spell casted this way is dispelled or dismissed, you can recast the same one in the same way by concentrating for 5 minutes; this restores the remaining duration.
-
-At 10th level your spell gets another separate slot where you can cast and hold *Darkvision*, *Lesser Resistant Armor*, *Life Bubble* or *Spider Climb*
-
-At 14th level, your spell gets another separate slot where you can cast and hold *Detect Magic*, *Fly*, *Levitate*, *See Invisibility* or *Tongues*.
-
 ### Fuse Spells
 
-At 18th level you can combine spell slots into higher level spell slots. When casting a spell, you can use 1RP to spend several slots together and cast the spell at a slot of the sum of the other slot levels. You can not build slots that are higher level than your maximum slot level in this way.
+At 17th level you can combine spell slots into higher level spell slots. When casting a spell, you can use 1RP to spend several slots together and cast the spell at a slot of the sum of the other slot levels. You can not build slots that are higher level than your maximum slot level in this way.
 
 By spending 2 RP you can fuse a 6th and a 7th level slot to cast Wish as a 9th level spell.
 
