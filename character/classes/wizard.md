@@ -17,6 +17,7 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
       <th colspan="1" rowspan="2">Level</th>
       <th colspan="1" rowspan="2">Cantrips Known</th>
       <th colspan="7" rowspan="1">Spell Slots per Level</th>
+      <th colspan="1" rowspan="2">Features</th>
     </tr>
     <tr>
       <th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th><th>6th</th><th>7th</th>
@@ -24,82 +25,102 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
     <tr>
       <td>1st</td>
       <td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>Spellcasting, Arcane Recovery</td>
     </tr>
     <tr>
       <td>2nd</td>
       <td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>Arcane Tradition</td>
     </tr>
     <tr>
       <td>3rd</td>
       <td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>4th</td>
       <td>3</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>5th</td>
       <td>4</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>6th</td>
       <td>4</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>Arcane Tradition Feature</td>
     </tr>
     <tr>
       <td>7th</td>
       <td>4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>8th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>9th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>10th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td>
+      <td>Arcane Tradition Feature</td>
     </tr>
     <tr>
       <td>11th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>12th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td>
+      <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>13th</td>
       <td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>14th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td>
+      <td>Arcane Tradition Feature</td>
     </tr>
     <tr>
       <td>15th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>16th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
+      <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>17th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>18th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
+      <td>Spell Mastery, Arcane Tradition Feature</td>
     </tr>
     <tr>
       <td>19th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td>
+      <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>20th</td>
       <td>5</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td>
+      <td>Signature Spell</td>
     </tr>
   </tbody>
 </table>
