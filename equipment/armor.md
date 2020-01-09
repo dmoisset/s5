@@ -93,8 +93,8 @@ damage coming from laser or plasma weapons).
 
 ## Light Armor
 
-|Armor|Tier|EP|Price|Slots|Bulk|AC|Stealth|Resistances|Notes|
-|-----|----|--|----:|-----|----|--|-------|-----------|-----|
+|Armor|Tier|EP|Price|Slots|Bulk|AC|Stealth|Resistances|
+|-----|----|--|----:|-----|----|--|-------|-----------|
 |Stationwear, flight suit|+2|1|95|0|L|10 + Dex|||
 |Second skin|+2|1|250|1|L|11 + Dex|||
 |Estex suit I|+2|1|410|2|1|10 + Dex|Disadvantage||
@@ -104,9 +104,9 @@ damage coming from laser or plasma weapons).
 |Lashunta tempweave, basic|+2|4|1950|1|L|12 + Dex|||
 |Defrex hide|+2|4|2250|0|L|13 + Dex|||
 |Estex suit II|+3|5|2700|3|1|10 + Dex|Disadvantage||
-|D-suit I|+3|5|2980|1|L|11 + Dex|||just better slot level
+|D-suit I|+3|5|2980|1|L|11 + Dex|||
 |Kasatha microcord II|+3|6|3670|1|1|11 + Dex|Disadvantage|slashing|
-|Ysoki refractor suit|+3|6|4120|2|L|12 + Dex|Disadvantage|"laser| plasma"|
+|Ysoki refractor suit|+3|6|4120|2|L|12 + Dex|Disadvantage|laser, plasma|
 |Freebooter armor II|+3|6|4720|1|L|12 + Dex||bludgeoning|
 |Estex suit III|+3|7|5500|4|1|11 + Dex|Disadvantage||
 |D-suit II|+3|7|6900|2|L|12 + Dex|||
@@ -116,16 +116,16 @@ damage coming from laser or plasma weapons).
 |Carbon skin, white carbon|+4|10|19650|3|1|13 + Dex|Disadvantage|piercing|
 |Freebooter armor III|+4|10|16900|3|L|13 + Dex||bludgeoning|
 |Kasatha microcord IV|+4|11|23800|3|1|13 + Dex|Disadvantage|slashing|
-|Hardlight series, squad|+4|12|30750|4|L|13 + Dex||"piercing| bludgeoning"|
+|Hardlight series, squad|+4|12|30750|4|L|13 + Dex||piercing, bludgeoning|
 |D-suit IV|+5|13|45800|4|L|14 + Dex|||
 |Estex suit IV|+5|13|49250|6|1|13 + Dex|Disadvantage||
 |Freebooter armor IV|+5|14|60600|4|L|14 + Dex||bludgeoning|
-|Swarmsuit|+5|15|95200|4|L|14 + Dex||"laser| plasma"|
-|Hardlight series, elite|+5|15|123500|4|L|13 + Dex||"piercing| bludgeoning"|
+|Swarmsuit|+5|15|95200|4|L|14 + Dex||laser, plasma|
+|Hardlight series, elite|+5|15|123500|4|L|13 + Dex||piercing, bludgeoning|
 |Carbon skin, diamond|+5|15|126400|4|1|14 + Dex|Disadvantage|piercing|
 |Shotalashu armor|+5|16|149500|5|L|14 + Dex|||
-|D-suit V|+6|17|244300|5|L|14 + Dex|||just better slot level
+|D-suit V|+6|17|244300|5|L|14 + Dex|||
 |Freebooter armor V|+6|18|367650|5|L|14 + Dex||bludgeoning|
 |D-suit VI|+6|19|552000|6|L|14 + Dex|||
 |Carbon skin, nanotube|+6|20|825000|6|1|14 + Dex|Disadvantage|piercing|
-|Hardlight series, specialist|+6|20|928000|6|L|13 + Dex||"piercing| bludgeoning"||
+|Hardlight series, specialist|+6|20|928000|6|L|13 + Dex||piercing, bludgeoning||
