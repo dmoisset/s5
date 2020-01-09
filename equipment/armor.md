@@ -93,8 +93,8 @@ damage coming from laser or plasma weapons).
 
 ## Light Armor
 
-|Armor|Tier|EP|Price|Slots|Bulk|AC|Stealth|Resistances|
-|-----|----|--|----:|-----|----|--|-------|-----------|
+|Armor|Tier|EP |Price|Slots|Bulk|AC bonus|Stealth|Resistances|
+|-----|----|--:|----:|:---:|:--:|--------|-------|-----------|
 |Stationwear, flight suit|+2|1|95|0|L|10 + Dex|||
 |Second skin|+2|1|250|1|L|11 + Dex|||
 |Estex suit I|+2|1|410|2|1|10 + Dex|Disadvantage||
