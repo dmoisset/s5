@@ -132,4 +132,30 @@ damage coming from laser or plasma weapons).
 
 ## Medium armor
 
-
+|Armor|Min Prof|Price|Slots|Bulk|AC bonus|Stealth|Resistances|
+|-----|:------:|----:|:---:|:--:|:------:|-------|-----------|
+|Lashunta ringwear I|+2|415|0|2|12 + Dex (max 2)|Disadvantage|slashing|
+|Hidden soldier armor|+2|465|1|2|12 + Dex (max 2)|Disadvantage||
+|Iridishell, basic|+2|755|0|2|12 + Dex (max 2)|Disadvantage|piercing|
+|Ceremonial plate, officer|+2|2275|1|2|13 + Dex (max 2)|Disadvantage||
+|Lashunta ringwear II|+3|2970|1|2|14 + Dex (max 2)|Disadvantage|slashing|
+|Vesk overplate I|+3|3910|1|2|14 + Dex (max 2)|Disadvantage|bludgeoning|
+|Golemforged plating III|+3|5500|2|2|14 + Dex (max 2)|Disadvantage||
+|Lashunta ringwear III|+3|8420|3|2|15 + Dex (max 2)|Disadvantage|slashing|
+|Vesk overplate II|+3|10250|3|3|15 + Dex (max 2)|Disadvantage|bludgeoning|
+|Iridishell, advanced|+4|13100|3|2|15 + Dex (max 2)||piercing|
+|Skyfire armor, pinion|+4|14200|4|2|16 + Dex (max 2)|Disadvantage||
+|Vesk overplate III|+4|23400|4|2|16 + Dex (max 2)|Disadvantage|bludgeoning|
+|Lashunta ringwear IV|+4|27100|4|2|16 + Dex (max 2)|Disadvantage|slashing|
+|Vesk monolith I|+4|39650|5|2|15 + Dex (max 2)|Disadvantage|piercing, bludgeoning|
+|Iridishell, superior|+4|42250|4|2|16 + Dex (max 2)||piercing|
+|Skyfire armor, exident|+5|53600|5|2|16 + Dex (max 2)|Disadvantage||
+|Vesk overplate IV|+5|71850|5|2|16 + Dex (max 2)|Disadvantage|bludgeoning|
+|Lashunta ringwear V|+5|94200|5|2|16 + Dex (max 2)|Disadvantage|slashing|
+|Enginerunner|+5|120900|5|2|17 + Dex (max 2)|||
+|Steelbones|+5|145500|6|2|16 + Dex (max 2)|Disadvantage||
+|Vesk monolith II|+5|163400|6|2|16 + Dex (max 2)|Disadvantage|piercing, bludgeoning|
+|Vitrum plate|+6|365650|4|1|16 + Dex (max 2)||laser, plasma|
+|Vesk overplate V|+6|415800|7|2|17 + Dex (max 2)|Disadvantage|bludgeoning|
+|Voidshield armor|+6|610250|7|2|17 + Dex (max 2)|||
+|Vesk monolith III|+6|827250|7|2|17 + Dex (max 2)|Disadvantage|piercing, bludgeoning|
