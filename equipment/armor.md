@@ -41,7 +41,7 @@ does not reduce damage from attacks), while others can be closed with helmets an
 
 ### Activating and deactivating
 
-A suit of armor’s environmental protections last for a number of days specified in the EP column of the armor table. 
+A suit of armor’s environmental protections last for a number of days equal to minumum proficiency bonus × 4 - 6. 
 Activating or deactivating these environmental protections takes an action. If you have access to a suit that is unattended 
 or worn by a helpless creature, you can turn on its environmental protection, but turning it off requires a Computers check 
 to hack the system with a DC of 13+minimum proficiency.
@@ -93,39 +93,43 @@ damage coming from laser or plasma weapons).
 
 ## Light Armor
 
-|Armor|Tier|EP |Price|Slots|Bulk|AC bonus|Stealth|Resistances|
-|-----|----|--:|----:|:---:|:--:|--------|-------|-----------|
-|Stationwear, flight suit|+2|1|95|0|L|10 + Dex|||
-|Second skin|+2|1|250|1|L|11 + Dex|||
-|Estex suit I|+2|1|410|2|1|10 + Dex|Disadvantage||
-|Kasatha microcord I|+2|2|460|0|1|11 + Dex|Disadvantage|slashing|
-|Freebooter armor I|+2|2|750|0|L|11 + Dex||bludgeoning|
-|Carbon skin, graphite|+2|3|1220|1|1|12 + Dex|Disadvantage|piercing|
-|Lashunta tempweave, basic|+2|4|1950|1|L|12 + Dex|||
-|Defrex hide|+2|4|2250|0|L|13 + Dex|||
-|Estex suit II|+3|5|2700|3|1|10 + Dex|Disadvantage||
-|D-suit I|+3|5|2980|1|L|11 + Dex|||
-|Kasatha microcord II|+3|6|3670|1|1|11 + Dex|Disadvantage|slashing|
-|Ysoki refractor suit|+3|6|4120|2|L|12 + Dex|Disadvantage|laser, plasma|
-|Freebooter armor II|+3|6|4720|1|L|12 + Dex||bludgeoning|
-|Estex suit III|+3|7|5500|4|1|11 + Dex|Disadvantage||
-|D-suit II|+3|7|6900|2|L|12 + Dex|||
-|Lashunta tempweave, advanced|+3|8|8500|3|L|12 + Dex|||
-|Kasatha microcord III|+3|8|9000|2|1|12 + Dex|Disadvantage|slashing|
-|D-suit III|+4|9|13300|3|L|13 + Dex|||
-|Carbon skin, white carbon|+4|10|19650|3|1|13 + Dex|Disadvantage|piercing|
-|Freebooter armor III|+4|10|16900|3|L|13 + Dex||bludgeoning|
-|Kasatha microcord IV|+4|11|23800|3|1|13 + Dex|Disadvantage|slashing|
-|Hardlight series, squad|+4|12|30750|4|L|13 + Dex||piercing, bludgeoning|
-|D-suit IV|+5|13|45800|4|L|14 + Dex|||
-|Estex suit IV|+5|13|49250|6|1|13 + Dex|Disadvantage||
-|Freebooter armor IV|+5|14|60600|4|L|14 + Dex||bludgeoning|
-|Swarmsuit|+5|15|95200|4|L|14 + Dex||laser, plasma|
-|Hardlight series, elite|+5|15|123500|4|L|13 + Dex||piercing, bludgeoning|
-|Carbon skin, diamond|+5|15|126400|4|1|14 + Dex|Disadvantage|piercing|
-|Shotalashu armor|+5|16|149500|5|L|14 + Dex|||
-|D-suit V|+6|17|244300|5|L|14 + Dex|||
-|Freebooter armor V|+6|18|367650|5|L|14 + Dex||bludgeoning|
-|D-suit VI|+6|19|552000|6|L|14 + Dex|||
-|Carbon skin, nanotube|+6|20|825000|6|1|14 + Dex|Disadvantage|piercing|
-|Hardlight series, specialist|+6|20|928000|6|L|13 + Dex||piercing, bludgeoning||
+|Armor|Min Prof|Price|Slots|Bulk|AC bonus|Stealth|Resistances|
+|-----|:------:|----:|:---:|:--:|--------|-------|-----------|
+|Stationwear, flight suit|+2|95|0|L|10 + Dex|||
+|Second skin|+2|250|1|L|11 + Dex|||
+|Estex suit I|+2|410|2|1|10 + Dex|Disadvantage||
+|Kasatha microcord I|+2|460|0|1|11 + Dex|Disadvantage|slashing|
+|Freebooter armor I|+2|750|0|L|11 + Dex||bludgeoning|
+|Carbon skin, graphite|+2|1220|1|1|12 + Dex|Disadvantage|piercing|
+|Lashunta tempweave, basic|+2|1950|1|L|12 + Dex|||
+|Defrex hide|+2|2250|0|L|13 + Dex|||
+|Estex suit II|+3|2700|3|1|10 + Dex|Disadvantage||
+|D-suit I|+3|2980|1|L|11 + Dex|||
+|Kasatha microcord II|+3|3670|1|1|11 + Dex|Disadvantage|slashing|
+|Ysoki refractor suit|+3|4120|2|L|12 + Dex|Disadvantage|laser, plasma|
+|Freebooter armor II|+3|4720|1|L|12 + Dex||bludgeoning|
+|Estex suit III|+3|5500|4|1|11 + Dex|Disadvantage||
+|D-suit II|+3|6900|2|L|12 + Dex|||
+|Lashunta tempweave, advanced|+3|8500|3|L|12 + Dex|||
+|Kasatha microcord III|+3|9000|2|1|12 + Dex|Disadvantage|slashing|
+|D-suit III|+4|13300|3|L|13 + Dex|||
+|Carbon skin, white carbon|+4|19650|3|1|13 + Dex|Disadvantage|piercing|
+|Freebooter armor III|+4|16900|3|L|13 + Dex||bludgeoning|
+|Kasatha microcord IV|+4|23800|3|1|13 + Dex|Disadvantage|slashing|
+|Hardlight series, squad|+4|30750|4|L|13 + Dex||piercing, bludgeoning|
+|D-suit IV|+5|45800|4|L|14 + Dex|||
+|Estex suit IV|+5|49250|6|1|13 + Dex|Disadvantage||
+|Freebooter armor IV|+5|60600|4|L|14 + Dex||bludgeoning|
+|Swarmsuit|+5|95200|4|L|14 + Dex||laser, plasma|
+|Hardlight series, elite|+5|123500|4|L|13 + Dex||piercing, bludgeoning|
+|Carbon skin, diamond|+5|126400|4|1|14 + Dex|Disadvantage|piercing|
+|Shotalashu armor|+5|149500|5|L|14 + Dex|||
+|D-suit V|+6|244300|5|L|14 + Dex|||
+|Freebooter armor V|+6|367650|5|L|14 + Dex||bludgeoning|
+|D-suit VI|+6|552000|6|L|14 + Dex|||
+|Carbon skin, nanotube|+6|825000|6|1|14 + Dex|Disadvantage|piercing|
+|Hardlight series, specialist|+6|928000|6|L|13 + Dex||piercing, bludgeoning||
+
+## Medium armor
+
+
