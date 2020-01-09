@@ -159,3 +159,22 @@ damage coming from laser or plasma weapons).
 |Vesk overplate V|+6|415800|7|2|17 + Dex (max 2)|Disadvantage|bludgeoning|
 |Voidshield armor|+6|610250|7|2|17 + Dex (max 2)|||
 |Vesk monolith III|+6|827250|7|2|17 + Dex (max 2)|Disadvantage|piercing, bludgeoning|
+
+## Heavy Armor
+
+|Armor|Min Prof|Price|Slots|Bulk|AC bonus|Strength|Stealth|Resistance|
+|-----|:------:|----:|:---:|:--:|:------:|--------|-------|----------|
+|Ceremonial plate, troop|+2|110|3|3|14||Disadvantage||
+|Golemforged plating I|+2|250|0|3|15||Disadvantage|slashing|
+|Thinplate|+2|1000|1|3|16|Str 13|Disadvantage||
+|Defiance series, squad|+2|1220|1|3|16|Str 13|Disadvantage|piercing|
+|Golemforged plating II|+2|1610|1|3|16|Str 13|Disadvantage|slashing|
+|Golemforged plating III|+2|5500|2|2|17|Str 15|Disadvantage|slashing|
+|Defiance series, elite|+3|6300|2|3|17|Str 15|Disadvantage|piercing|
+|Ceremonial plate, commander|+3|7350|5|3|17|Str 15|Disadvantage||
+|Defiance series, specialist|+4|16950|3|3|19|Str 17|Disadvantage|piercing|
+|Golemforged plating IV|+4|24800|6|3|18|Str 15|Disadvantage|slashing|
+|Aegis series, squad|+4|45200|5|3|19|Str 17|Disadvantage|piercing, bludgeoning|
+|Golemforged plating V|+5|63750|7|3|18|Str 15|Disadvantage|slashing|
+|Aegis series, elite|+6|209000|6|3|19|Str 17|Disadvantage|piercing, bludgeoning|
+|Aegis series, specialist|+6|932000|7|3|20|Str 18|Disadvantage|piercing, bludgeoning|
