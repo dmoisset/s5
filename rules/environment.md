@@ -27,7 +27,7 @@ rounds to reach air before it drops to 0 hit points.
 
 :five:A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
 
-For environments with high or low gravity, double or halve the damage amounts, respectively. Falling in extreme gravit deals as least triple the listed damage, and potentially even more.
+For environments with high or low gravity, double or halve the damage amounts, respectively. Falling in extreme gravity deals as least triple the listed damage, and potentially even more.
 
 
 ##  Space
