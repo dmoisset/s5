@@ -36,7 +36,7 @@ The immeasurable gulf of space is home to everything on the Material Plane, hous
 be recorded. During their careers, the player characters will undoubtedly need to venture into space. Traveling from one
 planet to another, exiting the atmosphere of a planetoid, or visiting an orbiting space station are all examples of common
 travel that require at least a brief time in space. Many hazards of space can be mitigated by 
-[wearing armor](../equipment/armor.md) or a [standard space suit](../equipment/other.md), but sometimes unlucky spacefaring
+[wearing armor](../equipment/armor.md#environmental-protection) or a [standard space suit](../equipment/other.md), but sometimes unlucky spacefaring
 adventurers get caught without them!
 
 ### Cosmic rays
