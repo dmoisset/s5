@@ -19,7 +19,7 @@
  1. [Weapons](equipment/weapons.md)
      1. [Weapon Tables](equipment/weapon-tables.md)
  1. [Computers](equipment/computers.md)
- 1. [Augmentations](equipment/computers.md)
+ 1. [Augmentations](equipment/augmentations.md)
  1. [Other equipment](equipment/other.md)
  1. [Magic items](equipment/magic.md)
  1. [Conversion Rules](equipment/conversion.md): Converting equipment from other games to Star5er
