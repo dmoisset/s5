@@ -318,7 +318,7 @@ A few select characters have the proficiency to use this kind of weapons. All of
 Ammunition includes standard items (such as batteries that can replenish charged weapons), small arm and longarm rounds, and special units such as grenade arrows and missiles.
 
 |Ammunition|Min Prof|Price|Capacity|Bulk|Special|
-|----------|:------:|----:|-------:|---:|Special|
+|----------|:------:|----:|-------:|---:|-------|
 |**STANDARD AMMUNITION**|
 |Arrows|—|50|20|L|—|
 |Battery|—|60|20|—|—|
