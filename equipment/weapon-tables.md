@@ -37,19 +37,21 @@ Any handheld weapon that must touch a target to deal damage is considered a mele
 
 Any handheld weapon that must touch a target to damage it is considered a melee weapon. Martial melee weapons require a degree of training and skill to use properly.
 
+These weapons are spearated on subcategories. These subcategories have no effect by themseleves, but other rules may reference it.
+
 |Weapon|Min Prof|Price|Damage|Critical|Bulk|Special|
 |------|:------:|----:|-----:|:------:|---:|-------|
-|**Cryo**|
+|**CRYO WEAPONS**|
 |Cryopike, tactical|+3|3360|1d8 C|—|2|Powered (capacity 40, usage 2), Reach, Two-handed|
 |Cryopike, advanced|+4|34800|2d8 C|Staggered|2|Powered (capacity 40, usage 2), Reach, Two-handed|
-|**Flame**|
+|**FLAME WEAPONS**|
 |Flame doshko, ember|+2|750|1d8 F|Wound|1|Powered (capacity 20, usage 1), Two-handed|
 |Skyfire sword, tactical|+3|6120|2d4 F|Burn 1d8|1|Powered (capacity 20, usage 2)|
 |Flame doshko, blaze|+3|8500|2d8 F|Wound|1|Powered (capacity 20, usage 1), Two-handed|
 |Flame doshko, inferno|+5|53200|5d8 F|Wound|1|Powered (capacity 20, usage 1), Two-handed|
 |Skyfire sword, inferno|+6|246000|7d8 F|Burn 4d12|1|Powered (capacity 20, usage 1)|
 |Flame doshko, solar flare|+6|595000|10d8 F|Severe Wound|1|Powered (capacity 20, usage 1), Two-handed|
-|**Plasma**|
+|**PLASMA WEAPONS**|
 |Plasma doshko, red star|+3|4650|1d10 E & F|Severe Wound|1|Powered (capacity 20, usage 2), Two-handed|
 |Plasma sword, tactical|+4|14550|2d8 E & F|Severe Wound|1|Powered (capacity 20, usage 2)|
 |Plasma doshko, yellow star|+4|17000|2d10 E & F|Severe Wound|1|Powered (capacity 20, usage 2), Two-handed|
@@ -59,17 +61,17 @@ Any handheld weapon that must touch a target to damage it is considered a melee 
 |Plasma doshko, blue star|+6|364100|7d10 E & F|Severe Wound|1|Powered (capacity 20, usage 2), Two-handed|
 |Plasma sword, white star|+6|415600|8d8 E & F|Severe Wound|1|Powered (capacity 40, usage 4)|
 |Plasma sword, blue star|+6|920250|10d8 E & F|Severe Wound|1|Powered (capacity 40, usage 4)|
-|**Shock**|
+|**SHOCK WEAPONS**|
 |Shock truncheon, static|+3|9150|1d12 E|Arc 1d4|1|Powered (capacity 20, usage 2), Stun|
 |Shock truncheon, aurora|+4|23000|2d12 E|Arc 2d4|1|Powered (capacity 20, usage 2), Stun|
 |Shock truncheon, storm|+5|80200|3d12 E|Arc 3d4|1|Powered (capacity 40, usage 2), Stun|
 |Shock truncheon, tempest|+6|545000|6d12 E|Arc 6d4|1|Powered (capacity 40, usage 2), Stun|
-|**Sonic**|
+|**SONIC WEAPONS**|
 |Pulse gauntlet, thunderstrike|+2|475|1d6 B & So|Knockdown|1|Powered (capacity 20, usage 1)|
 |Pulse gauntlet, LFD|+3|7340|2d6 B & So|Knockdown|1|Powered (capacity 20, usage 1)|
 |Pulse gauntlet, HFD|+4|31300|5d6 B & So|Knockdown|1|Powered (capacity 20, usage 1)|
 |Pulse gauntlet, banshee|+5|148200|10d6 B & So|Knockdown|1|Powered (capacity 20, usage 1)|
-|**Other**|
+|**OTHER WEAPONS**|
 |Hammer, assault|+2|95|1d6 B|—|1|Analog|
 |Starknife, tactical|+2|110|1d4 P|—|L|Analog, Light, Thrown (range 20/60)|
 |Doshko, tactical|+2|240|1d12 P|—|1|Analog, Unwieldy, Two-handed|
