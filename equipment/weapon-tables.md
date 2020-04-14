@@ -2,7 +2,7 @@
 
 ## Simple Melee Weapons
 
-Any handheld weapon that must touch a target to deal damage is considered a melee weapon. Basic melee weapons can be easily used by almost anyone and generally require no special training. While basic melee weapons deal less damage than more sophisticated weapons of the same item level, they have the advantage of not usually requiring power sources and operating under almost any conditions.
+Any handheld weapon that must touch a target to deal damage is considered a melee weapon. Simple melee weapons can be easily used by almost anyone and generally require no special training. While simple melee weapons deal less damage than more sophisticated weapons of the same minimum proficiency, they have the advantage of not usually requiring power sources and operating under almost any conditions.
 
 |**Simple Melee Weapon**|**Min Prof**|**Price**|**Damage**|**Critical**|**Bulk**|**Special**|
 |-----------------------|:----------:|--------:|---------:|:----------:|-------:|-----------|
