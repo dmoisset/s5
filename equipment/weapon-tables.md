@@ -122,3 +122,50 @@ These weapons are spearated on subcategories. These subcategories have no effect
 |Longsword, dimensional slice|+6|727300|14d8 S|—|1|Analog|
 |Curve blade, dimensional slice|+6|815000|12d10 S|Bleed 6d6|2|Powered (capacity 40, usage 2), Two-handed|
 |Swoop hammer, mach III|+6|905700|14d10 B & F|Knockdown|2|Powered (capacity 40, usage 4), Reach, Unwieldy, Two-handed|
+
+## Simple ranged weapons
+
+Simple ranged weapons are handheld ranged weapons that can be held and operated with one hand. Various pistols are the most common type, though many types of small arms exist. Small arms require a battery or ammunition of the proper size and type to function.
+
+|Weapon|Min Prof|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|
+|------|:------:|----:|-----:|:---:|:------:|-------:|----:|---:|-------|
+|**CRYO WEAPONS**|
+|Zero pistol, frostbite-class|+3|3060|1d6 C|60/240|Staggered|20 charges|1|L|—|
+|Zero pistol, hailstorm-class|+4|16900|2d6 C|60/240|Staggered|40 charges|2|L|—|
+|Zero pistol, blizzard-class|+5|94500|4d6 C|60/240|Staggered|40 charges|2|L|—|
+|Zero pistol, avalanche-class|+6|492900|6d6 C|60/240|Staggered|80 charges|4|L|—|
+|**FLAME WEAPONS**|
+|Flare gun, survival|+2|90|1d3 F|30/120|Burn 1d6|1 flare|1|L|Analog, Bright|
+|Flame pistol|+2|470|1d4 F|20/60|Burn 1d4|20 petrol|4|L|Line, Unwieldy|
+|**LASER WEAPONS**|
+|Laser pistol, azimuth|+2|350|1d4 F|80/320|Burn 1d4|20 charges|1|L|—|
+|Laser pistol, corona|+3|4270|2d4 F|90/360|Burn 1d4|20 charges|1|L|—|
+|Laser pistol, aphelion|+4|14820|3d4 F|90/360|Burn 1d4|40 charges|2|L|Boost 1d4|
+|Laser pistol, perihelion|+4|40200|4d4 F|90/360|Burn 2d4|40 charges|2|L|—|
+|Laser pistol, parallax|+5|82000|5d4 F|90/360|Burn 3d4|80 charges|4|L|Boost 2d4|
+|Laser pistol, zenith|+6|245200|8d4 F|100/400|Burn 4d4|80 charges|4|L|—|
+|**PLASMA WEAPONS**|
+|Plasma pistol, red star|+3|7200|1d8 E & F|20/80|Burn 1d8|20 charges|4|L|Line, Unwieldy|
+|Plasma pistol, yellow star|+4|40300|2d8 E & F|25/100|Burn 1d8|40 charges|8|L|Line, Unwieldy|
+|Plasma pistol, white star|+5|107500|3d8 E & F|30/120|Burn 2d8|100 charges|20|L|Line, Unwieldy|
+|Plasma pistol, blue star|+6|565000|5d8 E & F|40/160|Burn 3d8|100 charges|20|L|Line, Unwieldy|
+|**PROJECTILE WEAPONS**|
+|Semi-auto pistol, tactical|+2|260|1d6 P|30/120|—|9 rounds|1|L|Analog|
+|Semi-auto pistol, advanced|+3|5500|2d6 P|60/240|—|12 rounds|1|L|Analog|
+|Semi-auto pistol, elite|+4|18200|3d6 P|60/240|—|12 rounds|1|L|Analog|
+|Semi-auto pistol, paragon|+5|45200|4d6 P|60/240|—|16 rounds|1|L|Analog|
+|Gyrojet pistol, tactical|+5|91500|3d12 B|80/320|Knockdown|8 mini-rockets|1|L|Analog|
+|Gyrojet pistol, advanced|+6|212700|4d12 B|80/320|Knockdown|8 mini-rockets|1|L|Analog|
+|Gyrojet pistol, elite|+6|715800|5d12 B|80/320|Knockdown|8 mini-rockets|1|L|Analog|
+|**SHOCK WEAPONS**|
+|Pulsecaster pistol|+2|250|1d4 E|30/120|—|20 charges|1|L|Nonlethal|
+|Arc pistol, static|+2|750|1d6 E|50/150|Arc 2|20 charges|2|L|Stun|
+|Arc pistol, aurora|+5|45700|3d6 E|50/150|Arc 2d6|40 charges|2|L|Stun|
+|Arc pistol, storm|+6|365500|3d12 E|50/150|Arc 4d6|100 charges|10|L|Stun|
+|**SONIC WEAPONS**|
+|Sonic pistol, thunderstrike|+2|2300|1d8 So|40/160|Deafen|20 charges|2|L|—|
+|Sonic pistol, LFD|+4|26200|2d8 So|40/160|Deafen|40 charges|4|L|Boost 1d6|
+|Sonic pistol, HFD|+5|71300|3d8 So|40/160|Deafen|60 charges|6|L|—|
+|Sonic pistol, banshee|+5|191000|4d8 So|40/160|Deafen|80 charges|8|L|Boost 1d10|
+|**OTHER WEAPONS**|
+|Needler pistol|+2|105|1d4 P|30/120|Injection|6 darts|1|L|Analog, Injection|
