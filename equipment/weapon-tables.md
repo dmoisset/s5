@@ -345,3 +345,47 @@ The "minimum proficiency" of a piece ammunition indicates the minimum proficienc
 |Grenade arrow IV|+6|245,000|1|—|As any grenade with +5 min proficiency|
 |Tactical missile|+4|5,700|1|1|Explode 6d8 B & P (30 ft.)|
 |Advanced missile|+5|14,600|1|1|13d8 B & F|
+
+## Grenades
+
+Grenades are thrown weapons that detonate in an explosive radius when they reach the target location. A grenade’s listing on the table below shows its explosion radius. Some grenades have additional effects, such as blinded or restrained, that apply only to creatures in the explosion radius that fail a Dexterity saving throw against the grenade. The DC of the save is equal to 10 + the grenade min proficiency bonus.
+
+All grenades below have a range of 20/60 and Light Bulk.
+
+|Grenade|Min Prof|Price|Special|
+|-------|:------:|----:|-------|
+|Frag grenade I|+2|35|Explode (1d6 P, 15 ft.)|
+|Smoke grenade|+2|40|Explode (smoke cloud 1 minute, 20 ft.)|
+|Shock grenade I|+2|130|Explode (1d8 E, 15 ft.)|
+|Stickybomb grenade I|+2|170|Explode (Entangled 2d4 rounds, 10 ft.)|
+|Flash grenade I|+2|275|Explode (Blinded 1d4 rounds, 5 ft.)|
+|Incendiary grenade I|+2|375|Explode (1d6 F, 1d4 Burn, 5 ft.)|
+|Shock grenade II|+2|650|Explode (1d12 E, 15 ft.)|
+|Stickybomb grenade II|+2|675|Explode (Entangled 2d4 rounds, 15 ft.)|
+|Frag grenade II|+2|700|Explode (2d6 P, 15 ft.)|
+|Screamer grenade I|+2|725|Explode (1d10 So, Deafened 1d4 minutes, 15 ft.)|
+|Incendiary grenade II|+3|1040|Explode (2d6 F, 1d6 Burn, 10 ft.)|
+|Cryo grenade I|+3|1220|Explode (1d8 C, Staggered, 10 ft.)|
+|Flash grenade II|+3|1350|Explode (Blinded 1d4 rounds, 10 ft.)|
+|Frag grenade III|+3|2560|Explode (4d6 P, 15 ft.)|
+|Screamer grenade II|+3|2720|Explode (2d10 So, Deafened 1d4 minutes, 20 ft.)|
+|Incendiary grenade III|+3|2800|Explode (3d6 F, 1d6 Burn, 10 ft.)|
+|Cryo grenade II|+4|5000|Explode (2d8 C, Staggered, 15 ft.)|
+|Shock grenade III|+4|5380|Explode (3d12 E, 15 ft.)|
+|Stickybomb grenade III|+4|5410|Explode (Entangled 2d4 rounds, 20 ft.)|
+|Frag grenade IV|+4|5750|Explode (6d6 P, 15 ft.)|
+|Incendiary grenade IV|+4|9380|Explode (5d6 F, 3d6 Burn, 15 ft.)|
+|Flash grenade III|+4|10400|Explode (Blinded 1d6 rounds, 15 ft.)|
+|Screamer grenade III|+4|11300|Explode (4d10 So, Deafened 1d4 minutes, 25 ft.)|
+|Frag grenade V|+5|18750|Explode (10d6 P, 15 ft.)|
+|Cryo grenade III|+5|21100|Explode (4d8 C, Staggered, 20 ft.)|
+|Shock grenade IV|+5|23600|Explode (6d12 E, 15 ft.)|
+|Screamer grenade IV|+5|43500|Explode (7d10 So, Deafened 1d4 minutes, 30 ft.)|
+|Incendiary grenade V|+5|44000|Explode (10d6 F, 5d6 Burn, 15 ft.)|
+|Frag grenade VI|+5|44600|Explode (12d6 P, 15 ft.)|
+|Flash grenade IV|+5|53000|Explode (Blinded 1d8 rounds, 20 ft.)|
+|Frag grenade VII|+6|96900|Explode (16d6 P, 15 ft.)|
+|Cryo grenade IV|+6|108500|Explode (6d8 C, Staggered, 20 ft.)|
+|Incendiary grenade VI|+6|108800|Explode (12d6 F, 6d6 Burn, 15 ft.)|
+|Shock grenade V|+6|110000|Explode (9d12 E, 15 ft.)|
+|Frag grenade VIII|+6|216000|Explode (20d6 P, 15 ft.)|
