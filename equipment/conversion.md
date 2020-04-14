@@ -18,3 +18,18 @@ It should be possible to directly convert starfinder weapons as follows
      1. You can add the Light property on one-handed melee weapons that seem physically similar to PHB counterparts and seem practical as dual wielded weapons.
 1. Basic Melee and Small Arms are considered Simple Weapons. Everything else is considered Martial
 1. Restrict proficiencies on existing classes backgrounds to only apply to archaic weapons.
+
+## Converting Starfinder armor
+
+Converting other Starfinder armor
+If you have some Starfinder armor describing a suit you’d like to use, apply the following rules:
+1. Use the speed adjustment to categorize the suit as light armor (no speed adjustment), medium armor (-5ft adjustment) or heavy armor (-10ft adjustment). Note that Star5er does not apply this speed adjustment to armor, it is only used for categorization
+1. Assign a minimum proficiency as described in the Equipment section of this document.
+1. Keep the price, slots, and bulk as described
+1. If the Starfinder armor has any ACP, it is considered to confer disadvantage on Dex(Stealth) checks
+1. For calculating the AC of a light or medium armor, use the formula (11 + EAC - Level ) which should get then added the Star5er Dex modifier as usual (full for light armor, or max 2 for medium)
+1. For calculating the AC of a heavy armor, use the formula (14 + EAC - Level ) which should get then added the Star5er Dex modifier (max 2) as usual
+1. If KAC-EAC is high (2 or 3) you should consider adding some resistance to physical damage.
+1. For Heavy armor add a required strength rating based on the AC: Str 13 for AC 16, Str 15 for AC 17-18, Str 17 for AC 19 and Str 18 for AC 20.
+
+This may end up giving you something that is very similar to an existing piece of armor, or under/over priced, so it may require manual adjustments. If you have families of suits of armor with different levels, you might want to change some of them to make them consistent (like ensuring a higher level armor doesn’t have a lower bonus, or that all share the same special properties or are within the same weight category).
