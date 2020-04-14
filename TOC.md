@@ -17,6 +17,7 @@
      1. [Armor Upgrades](equipment/armor-upgrades.md)
      1. [Power Armor](equipment/power-armor.md)
  1. [Weapons](equipment/weapons.md)
+     1. [Weapon Tables](equipment/weapon-tables.md)
  1. [Computers](equipment/computers.md)
  1. [Augmentations](equipment/computers.md)
  1. [Other equipment](equipment/other.md)
