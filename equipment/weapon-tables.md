@@ -1,3 +1,7 @@
+---
+layout: weapon_list
+---
+
 # Weapon List
 
 ## Simple Melee Weapons
