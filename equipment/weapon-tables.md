@@ -317,6 +317,10 @@ A few select characters have the proficiency to use this kind of weapons. All of
 
 Ammunition includes standard items (such as batteries that can replenish charged weapons), small arm and longarm rounds, and special units such as grenade arrows and missiles.
 
+Some ammunition comes in a pack of many (for example, a box of pistol rounds); the "Capacity" in the table below indicates the size of the pack or number of charges (for batteries). The price is the price per pack (not unit price). Bulk is also per pack.
+
+The "minimum proficiency" of a piece ammunition indicates the minimum proficiency that a weapon should have at least. 
+
 |Ammunition|Min Prof|Price|Capacity|Bulk|Special|
 |----------|:------:|----:|-------:|---:|-------|
 |**STANDARD AMMUNITION**|
