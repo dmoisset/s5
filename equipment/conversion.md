@@ -1,5 +1,14 @@
 # Converting content
 
+## Converting prices
+
+If you need equipment from the PHB convert its price at the rate of 1gp = 10 credits. Use the same rate when converting any rule from the PHB that uses gold pieces.
+
+## Setting min proficiency for items
+
+When converting items from Starfinder, set its minimum proficiency level to the proficiency bonus that the PHB would assign 
+to a character of the same level as the item (see table “Character advancement” on chapter 1 of the PHB)
+
 ## Converting PHB weapons
 
 Given that only new things were added, 5e weapons should work unchanged. The only change you should apply is adding the “Analog” and “Archaic” properties to medievally built weapons. The GM may choose to not apply the property to similar weapons built with modern methods and materials (like a modern bow working as a non-archaic longbow) and to some magical weapons.
