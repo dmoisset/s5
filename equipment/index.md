@@ -90,12 +90,3 @@ As a general rule, an item that weighs around 5 to 10 pounds is 1 bulk (and ever
 item weighing a few ounces is negligible, and anything in between is light. An awkward or unwieldy item might have a higher 
 bulk.
 
-# Converting content from D&D
-
-If you need equipment from the PHB convert its price at the rate of 1gp = 10 credits. Use the same rate when converting any rule from the PHB.
-
-# Converting content from Starfinder
-
-When converting items from Starfinder, set its minimum proficiency level to the proficiency bonus that the PHB would assign 
-to a character of the same level as the item (see table “Character advancement” on chapter 1 of the PHB)
-
