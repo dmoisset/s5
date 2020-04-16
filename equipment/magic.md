@@ -201,8 +201,29 @@ While you hold this small orb of black glass, it puts forth tendrils of darkness
 
 ## Very rare magic items
 
-TBD
+Price described for these magic items is more of a guideline, given their rarity they are more susceptible to market fluctuations.
+
+|Item|Bulk|Price|
+|----|:--:|----:|
+|Null-space chamber (Mk III) [hybrid]|L|50000|
+|Mindlink Circlet (Mk III) [hybrid]|L|78000|
+|Spell Gem (level 5)|L|10600|
+|Tiara of translocation (planetary)|L|185000|
+
+#### Tiara of translocation (planetary)
+
+This shimmering circlet is crafted from rare metals and seems to bend and distort light around it, creating an eerie halo of light around your brow. Once per day, a tiara of translocation allows you to teleport yourself and up to 8 additional willing creatures, functioning as a *teleport* spell. The destination must be in the same planet/moon that you currently are. You cannot use a tiara of translocation to travel between the planes, and it refuses to function at all while in the Drift.
 
 ## Legendary magic items
 
-TBD
+Price described for these magic items is more of a guideline, given their rarity they are more susceptible to market fluctuations.
+
+|Item|Bulk|Price|
+|----|:--:|----:|
+|Spell Gem (level 6)|L|36650|
+|Tiara of translocation (system-wide)|L|625000|
+
+#### Tiara of translocation (system-wide)
+
+This shimmering circlet is crafted from rare metals and seems to bend and distort light around it, creating an eerie halo of light around your brow. Once per day, a tiara of translocation allows you to teleport yourself and up to 8 additional willing creatures, functioning as a *teleport* spell. The destination must be in the same star system that you currently are. You cannot use a tiara of translocation to travel between the planes, and it refuses to function at all while in the Drift.
+
