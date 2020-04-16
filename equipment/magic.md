@@ -47,7 +47,9 @@ Placing or removing an aeon stone in orbit around your head is an action. An aeo
 Each aeon stone also has at least one other power that comes into effect when in orbit around you, detailed in the individual descriptions below:
 
 * **Clear spindle**: This aeon stone sustains you by negating the need for food or water.
+* **Dark blue rhomboid**: This stone grants you advantage at Wisdom (Perception) and Wisdom (Insight) checks.
 * **Iridiscent spindle**: This aeon stone sustains you by negating the need to breathe.
+* **pearly white spindle**: If you are able to cast spells, this stone increases by +1 the save DC for your spells. This increase does not stack with any other increase to spell save DC.
 
 #### Amulet of Camouflage
 
@@ -180,14 +182,6 @@ Price described for these magic items is more of a guideline, given their rarity
 |Shadow Orb|L|2850|
 |Spell Ampoule (level 3)|─|3000|
 |Spell Gem (level 4)|─|3700|
-
-#### Aeon Stone (Dark blue rhomboid)
-
-This stone grants you advantage at Wisdom (Perception) and Wisdom (Insight) checks
-
-#### Aeon Stone (pearly white spindle)
-
-If you are able to cast spells, this stone increases by +1 the save DC for your spells. This increase does not stack with any other increase to spell save DC.
 
 #### Ring of Cosmic Alignment
 
