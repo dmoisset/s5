@@ -47,5 +47,5 @@
  
 ## Magic
 
- 1. [Spell Lists](spells/lists.md)
+ 1. [Spell Lists](magic/spell-lists.md)
  1. [Spell descriptions](spells/index.md)
