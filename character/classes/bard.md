@@ -319,7 +319,7 @@ only once per character, choose to gain another expertise skill instead of an ex
 Note that not all skills have associated talents; make sure to choose on your Expertise skills that allow you to benefit 
 from this feature.
 
-Some talents description ask you to make a “non-expert skill check”, which means adding your proficiency bonus once instead 
+Some talent descriptions ask you to make a “non-expert skill check”, which means adding your proficiency bonus once instead 
 of twice to gain the benefit of the talent instead.
 
 #### Altered Bearing (Deception)
