@@ -271,7 +271,7 @@ The bonus from get ‘em increases to 1d6. You can also use an action where you 
 part of that action you take a single attack against the target enemy. You must have the get ‘em improvisation before 
 choosing this.
 
-#### Level 8
+### Level 8
 
 These improvisations can be chosen starting at 8th level
 
