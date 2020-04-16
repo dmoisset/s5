@@ -189,11 +189,11 @@ The DC for exploits that require a saving throw is 10+proficiency+Dexterity bonu
   until the end of your next turn. You can only add a single extra effect to your sneak attack.
 * **Master of Disguise** (requires level 9): As an action you can change your appearance, following the same rules as the 
   *Disguise Self* spell. You can choose to take the appearance of a specific creature you’ve seen. If you’ve heard the 
-  creature, you can also imitate perfectly it’s voice and modulation. Once you use this ability, you can’t use it again 
+  creature, you can also imitate its voice and modulation perfectly. Once you use this ability, you can’t use it again 
   until your next long rest.
 * **Mentalist’s Bane** (level 9): If you fail a Wisdom saving throw against a charm or enchantment effect, you get an 
   additional saving throw at the beginning of your next turn if the effect doesn’t already allow it. If you succeed, the 
-  spell or effect is there but its effects on your behaviour are suppressed. If the effects provides a link between you and 
+  spell or effect is there but its effects on your behaviour are suppressed. If the effects provide a link between you and 
   the originator (for example a Dominate Monster spell) you can keep the link without the control. You can make a Deception 
   check (DC equal to the effect save) to prevent the originator from knowing that you are unaffected. You get at most one of 
   these extra saves per effect.
@@ -219,8 +219,8 @@ The DC for exploits that require a saving throw is 10+proficiency+Dexterity bonu
 * **Uncanny Senses** (requires level 13 and darkvision 60): You get blindsight up to 30 feet, and your darkvision range 
   increases by 30 feet.
 
-Note that some of these effects duplicate spells but are not considered magical unless stated otherwise, and as such can’t 
-to be counterspelled or dispelled, and work within an *Antimagic field*.
+Note that some of these effects duplicate spells but are not considered magical unless stated otherwise, and as such can 
+not be counterspelled or dispelled, and work within an *Antimagic field*.
 
 ### Specialization
 
