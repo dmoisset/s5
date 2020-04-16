@@ -63,8 +63,14 @@ This bandolier fits over any Medium creature and contains five compartments, eac
 
 Each efficient bandolier includes an advanced AI capable of controlling the bandolier’s robotic components to suit your needs. As a bonus action, you can command an efficient bandolier to draw up to 1 bulk worth of batteries or ammunition, placing the items directly into one of your hands.
 
-#### Mindlink Circlet (Mk I) [hybrid]
-You can telepathically communicate with any creatures within 30 feet with which you share a language. This functions like a shirren’s *limited telepathy* racial trait.
+#### Mindlink Circlet [hybrid]
+You can telepathically communicate with any creatures within range. This functions like a shirren’s *limited telepathy* racial trait.
+
+|Model|Range|Notes|
+|-----|----:|-----|
+|Mk 1|30 ft|Shared language required|
+|Mk 2|100 ft|Shared language required|
+|Mk 3|100 ft|Works even if you don't share/understand the language|
 
 #### Psychic booster [hybrid]
 This circlet, originally designed by lashuntas, fits over the wearer’s brow and wraps around the wearer’s antennae (if any). A psychic booster augments the power of your inherent psychic abilities. If you have telepathy, the range of your telepathy doubles. (For instance, if you have limited telepathy out to a range of 30 feet, the range increases from 30 feet to 60 feet.)
@@ -109,11 +115,95 @@ This small, clockwork navigational device hones in on mystical signals emitted b
 
 ## Uncommon magic items
 
-TBD
+|Item|Bulk|Price|
+|----|:--:|----:|
+|Digital harrow deck [hybrid]|L|3500|
+|Glove of Storing|L|4600|
+|Null-space chamber (Mk I) [hybrid]|L|3050|
+|Mindlink Circlet (Mk II) [hybrid]|L|11000|
+|Ring of Protection :five:|─|4200|
+|Ring of Sustenance|─|2925|
+|Serum of Healing (Greater)|L|425|
+|Spell Ampoule (level 2)|L|700|
+|Spell Gem (level 2)|L|450|
+|Spell Gem (level 3)|L|1400|
+|Staff of Mystic healing|1|3700|
+
+#### Digital harrow deck [hybrid]
+
+A digital harrow deck is a modernization of an archaic means of fortune-telling whose roots trace back to vanished Golarion. Once per day, you can activate the deck as a full action. It projects holograms of 54 cards, which buzz around you. To begin the reading, you ask a question aloud to the harrow deck, causing all of the cards to come together as a deck; then, the deck uses hundreds of advanced pseudomystical calculations to deal a three-by-three array of cards for you, which it then uses to vocally interpret the circumstances surrounding your question. This works as the *augury* spell .
+
+Additionally, a mystic who has a *digital harrow deck* and who also knows *augury* can ignore the spell’s requirement that a Resolve Point be spent to cast it. Once used, the mystic can not used this proeprty until their next long rest.
+
+A technomancer can designate a digital harrow deck as her spell cache. If she does, the deck’s AI integrates with her own consciousness, allowing her to spend 1 Resolve Point when she casts a divination technomancer spell to draw upon the algorithms that allow the deck to function, lowering by 1 the level of the spell slot used. Once used, the technomancer can not use this property until her next long rest.
+
+#### Glove of Storing
+
+This simple glove is surprisingly smooth to the touch. While holding an item no larger than 2 bulk in the hand wearing it, you can command a glove of storing to shrink the held item to microscopic size and negligible bulk, and merge it with the palm of the glove. Returning the item to its original scale requires a mere snap of the fingers wearing the glove. You can store or retrieve an item within a glove of storing as a bonus action. A glove of storing can store only one item at a time, and if the glove’s effect is suppressed or dispelled, any stored item immediately returns to its original size.
+
+#### Null-space chamber [hybrid]
+
+A null-space chamber is a circular device often designed to be strapped to an arm or backpack (does not count as worn). When you press a button on the side, the device creates a circular extradimensional rift to a pocket space, the size of which is determined by the null-space chamber’s model. You can close it by pressing the button again, causing the entrance to the space to disappear. Anything stored within the space remains, however, traveling with the item. The null-space chamber can be opened and closed only from the outside.
+
+The only air within the pocket space is that which enters when you open the entrance. The device does not accumulate bulk even as its pocket space is filled. Each null-space chamber is associated with its own particular extradimensional space. Each null-space chamber can carry a set amount of bulk, after which it can no longer be closed (even if it has room left for more material). Spells and items that contain or create extradimensional spaces, such as other null-space chambers, do not function within a null-space chamber’s pocket dimension.
+
+A readout on a null-space chamber automatically catalogs all items within it, and if the chamber is open, you can call up any such item and have it placed in your hand as an action.
+
+|Chamber Model|Max Bulk|Volume|Air Held|
+|:-----------:|-------:|-----:|--------|
+|Mk I|25|3ft cube|one Medium creature or two Small creatures for 10 minutes|
+|Mk II|50|6ft cube|one Medium creature or two Small creatures for 2 hours|
+|Mk III|100|9ft cube|one Medium creature or two Small creatures for 2 days|
+|Mk IV|200|12ft cube|one Medium creature or two Small creatures for 1 week|
+
+#### Ring of Sustenance
+
+This ring provides you with life-sustaining nourishment, negating the need for food or drink while the ring is worn. Additionally, the ring’s magic refreshes your body and mind while worn, so you need only half your usual hours of sleep each day to gain the benefits of a long rest. The ring must be worn for a full week before its magic takes effect, and if removed you must wear it for another week to reattune it to you.
+
+#### Staff of Mystic healing
+
+Available in a variety of shapes and sizes, a *staff of mystic healing* usually takes the form of an archaic shepherd’s crook, carved with pre-Gap runes of origin denoting prosperity and long life. If you have the *healing touch* class feature, you can use that ability one additional time per day while holding the staff. You cannot use more than one staff of mystic healing each day to gain more than one additional use of healing touch, and a staff of mystic healing works only once per day.
 
 ## Rare magic items
 
-TBD
+Price described for these magic items is more of a guideline, given their rarity they are more susceptible to market fluctuations.
+
+|Item|Bulk|Price|
+|----|:--:|----:|
+|Aeon stone (Dark blue rhomboid)|─|18000|
+|Aeon Stone (pearly white spindle)|─|25000|
+|Null-space chamber (Mk II) [hybrid]|L|12250|
+|Ring of Cosmic Alignment|─|25000|
+|Ring of Protection :five:|─|18100|
+|Rod of Cancellation|L|2100|
+|Serum of Healing (Superior)|L|1950|
+|Shadow Orb|L|2850|
+|Spell Ampoule (level 3)|─|3000|
+|Spell Gem (level 4)|─|3700|
+
+#### Aeon Stone (Dark blue rhomboid)
+
+This stone grants you advantage at Wisdom (Perception) and Wisdom (Insight) checks
+
+#### Aeon Stone (pearly white spindle)
+
+If you are able to cast spells, this stone increases by +1 the save DC for your spells. This increase does not stack with any other increase to spell save DC.
+
+#### Ring of Cosmic Alignment
+
+This majestic ring is forged from twin bands of mithral and adamantine. If you have the *stellar mode* class feature, whenever you start a turn of combat attuned to a stellar mode and choose to become unattuned, you can immediately gain 1 attunement point for the stellar mode that opposes the mode you began your turn in. For instance, if you began the turn in photon mode and choose to become unattuned, you can use the ring to gain 1 graviton attunement point. Using this ability is a bonus action.
+
+#### :five: Ring of Protection 
+
+You gain a +1 bonus to AC and saving throws while wearing this ring.
+
+#### Rod of Cancellation
+
+This device pulses with strange powers that drain items of all magical properties. When you touch a hybrid or magic item with a rod of cancellation, you must make a flat d20 check (no bonus) vs the item's creator level. On a success the item loses all magic abilities, becoming a mundane item of its type. If the touched item is being held or worn by a character, the item can add its bearer’s Charisma bonus to the DC. Upon draining an item, the rod itself becomes nonmagical and cannot be used again. Drained items can be restored only with *wish* or *miracle*.
+
+#### Shadow Orb
+
+While you hold this small orb of black glass, it puts forth tendrils of darkness that capture nearby light. The light level within a 20-foot radius of you decreases by one step. Lasers fired at you are bent toward the orb. This gives laser attacks against you advantage, but also grants you fire resistance against laser attacks.
 
 ## Very rare magic items
 
