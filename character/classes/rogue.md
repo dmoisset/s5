@@ -224,7 +224,7 @@ to be counterspelled or dispelled, and work within an *Antimagic field*.
 
 ### Specialization
 
-At 3th level you choose an specialization from the list below. For each specialization there’s an associated skill; you gain 
+At 3th level you choose a specialization from the list below. For each specialization there’s an associated skill; you gain 
 proficiency to that skill. Operatives have to choose their specialization skill as one of their rogue expertise skills at 
 6th level. Also, you can make as bonus action a DC 15 check on that skill in combat; if you succeed, the next attack you 
 make in the same turn gains the benefit of Sneak Attack if it hits. Each specialization also gives you access to an 
