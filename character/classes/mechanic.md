@@ -137,3 +137,98 @@ Additionally, you can use your custom rig to communicate over an encrypted chann
 ### Tech Master
 
 You are a master of technology. You can spend 1 Resolve Point to craft any technological weapon, armor, or item at a rate of 3 minutes per min proficiency bonus or spend 1 Resolve Point to convert any existing technological armor or weapon into another suit of armor or another weapon of equal or lesser value at a rate of 3 minutes per min proficiency bonus. This uses the normal crafting rules, but the item being converted counts as its full value in crafting components. You cannot convert a one-handed weapon into a two-handed weapon. When converting an item into a cheaper item, any excess value is lost and cannot be reclaimed by converting the item back.
+
+## Mechanic Tricks
+
+You get a mechanic trick at every even level. All tricks have a minimum level number (included next to the name). Some tricks may have other prerequisites, which are described with the trick
+
+### Distracting Hack (2)
+You can hack a computer within 30 feet of a foe to distract that foe, such as with a sudden noise or an image. You must be able to access the computer (whether it is your own computer or you are within range to access one manually or via remote hack). The target must succeed an Intelligence saving throw to prevent the effect; otherwise the next attack against that target before the start of your next turn has advantage.
+
+### Energy Shield (2)
+As an action, you can use your custom rig to activate an energy shield around yourself. This shield provides you with a number of temporary Hit Points equal to your Intelligence modifier plus your mechanic level. The shield remains active for 10 minutes or until all of its temporary Hit Points are depleted, whichever comes first.
+Once used, you cannot use this ability again until you take a short rest; your shield automatically shuts off during this period of rest.
+
+### Hack Directory (2)
+
+Whenever you attempt to hack a system and fail the check, you immediately become aware of any countermeasures that were activated due to your failure. You can then select one of these countermeasures and attempt another Computers check (with the same DC as the original). If you succeed at this second check, you can prevent that countermeasure from activating, as if you had not attempted to access the system at all. Any other countermeasures have their normal effect.
+
+### Neural Shunt (2)
+_[Requires: exocortex AI]_ As a reaction when you fail a saving throw against a mind-affecting effect, you can shunt that effect into your exocortex instead. When you do so, you are not affected by the mind-affecting effect, but for the normal duration of that effect, you lose the Expertise granted by your exocortex’s memory module and cannot use any of the exocortex’s abilities in any way (including any proficiencies and mods it grants you). When a mind-affecting effect is shunted into the exocortex, spells such as dispel magic or dispel evil and good can be cast on you to end the effect as if you were affected by it. Once the duration of the mind-affecting effect has ended, your exocortex resumes its normal functions. Once you use this ability, you can not do it again until you take a long rest.
+
+### Nightvision Processor (2)
+_[Requires: Visual Data Processor trick]_ Your visual processor is configured to see in the dark. You gain darkvision up to 60 ft.
+
+### Overcharge (2)
+As an action you can use your custom rig to overcharge and make a single attack with a ranged energy weapon or a melee weapon with the powered property. If you hit, you deal 1d6 additional damage of the same type the weapon normally deals. This attack uses three times as many charges from the battery or power cell as normal and can’t be used if the weapon doesn’t have enough charges. This trick has no effect on a weapon without a battery or power cell. You can instead use this ability as a bonus action on a touched  powered weapon that is unattended or attended by an ally to grant the same effect to that weapon’s next attack before the beginning of your next turn.
+The overcharge damage increases by 1d6 when you reach 5th level (2d6), 11th (3d6) and 17th(4d6)
+
+### Overclocking (2)
+You have augmented the performance of your AI for maximum response timing. You become proficient at initiative checks, and either you (if you have an exocortex) or your drone gains advantage to Dexterity saves.
+
+### Overload Weapon (2)
+As an action (or as a bonus action by spending 1 Resolve Point), you can cause a powered weapon (either a ranged energy weapon or a melee weapon with the powered special property) in your possession to explode. You can use the weapon as if it were a grenade of at most the same minimum proficiency of the weapon, dealing the weapon’s normal damage type, except the weapon has a range of only 10/40 feet unless it is a thrown weapon. If someone tries to attack with the weapon, it explodes as a grenade would instead, centered on the user, and the user doesn’t receive a Dexterity save to negate the grenade’s effect (if any). Once you’ve primed a weapon to explode in this way, it’s difficult to reverse the effect, requiring 8 hours of work and a successful opposed Engineering check against you; failing the check by 5 or more detonates the weapon. Once detonated, the weapon is destroyed, just like a grenade.
+
+### Portable Power (2)
+You can use your custom rig to supply limited power for up to 1 minute to a computer or starship system that lacks power. If this system is part of a much larger network, this trick does not supply power to the entire network, just to a limited point of access (typically a terminal), which might greatly limit functionality. Once you have used portable power on a system, you cannot do so again on that system until you take a long rest.
+
+### Quick Patch (2)
+When you attempt to patch a system on a starship, you reduce the number of actions required to do so by one. This does not reduce the time needed to patch a glitching system, but you can patch two systems with one action.
+
+### Quick repair (2)
+When you attempt to repair an item, you can do so in half the time normally required (to a minimum of an action).
+
+### Repair Drone (2)
+_[Requires: Drone AI]_ When you spend 10 minutes to repair your drone, you repair 25% of its maximum Hit Points instead of 10%. 
+
+### Visual Data Processor (2)
+You notice even the smallest shifts in movement, temperature, and vibration, gaining proficiency with the Perception skill.
+
+### Boost Shield(8)
+_[Requires: Energy Shield trick]_ Your energy shield grants you a number of temporary Hit Points equal to your Intelligence modifier + double your mechanic level. In addition, if you have already used your shield, you can spend 1 Resolve Point to use it again without needing to take a rest. This replenishes your shield’s temporary Hit Points to full.
+
+### Drone Meld (8)
+_[Requires: drone AI]_ As an action while in contact with your drone, you can reconfigure it into a mechanical drone suit (or a backpack-like apparatus, for the Tiny hover drone) that you can wear. While in this form, the drone can’t take any actions or use any of its abilities, but you gain either the drone’s flight system mods if you have a hover drone, reactive camouflage (and an invisibility field if your drone has it) if you have a stealth drone, or reductive plating if you have a combat drone. You can end the meld and return the drone to its normal form as an action. Though it normally acts on your turn just after you, the drone can take no actions on that turn other than transforming back
+
+### Engineer’s Eye (8)
+When you are within 10 feet of a trapped or malfunctioning machine or computer, you receive a free Computers, Engineering, or Perception check (as decided by the GM) to notice the trap or defect, whether or not you are actively looking. In addition, due to your intimate knowledge of your ship, you receive one of these checks whenever you board your ship to notice if anything is wrong with the ship’s systems.
+
+### Ghost Intrusion (8)
+Whenever you use the Computers skill to access a system and you fail to overcome its defenses by 4 or less, you do not trigger any countermeasures and there is no log of your attempt. If you fail by 5 or more, any countermeasures take effect against you as normal.
+
+### Holographic Projector (8)
+Your custom rig can project holographic images as an action as often as you like. This works like casting Major Image, except that it can create visual and sound effects only (not smell or heat). Keeping the projection up requires holding your concentration. This is not a magical effect (so it can not be counterspelled or dispelled)
+
+### Hyperclocking (8)
+_[Requires: overclocking trick]_ If you have a drone, it gains Evasion (as the monk or rogue abilities). If you have an exocortex, when you fail a Dexterity saving throw, you can spend 1 RP to reroll the saving throw. This reroll can be done only once per saving throw, and is not subject to the advantage granted by Overclocking.
+
+### Invisibility Bypass Processor (8)
+_[Requires: Visual Data Processor trick]_ Your visual data processor allows you to see invisible creatures and objects.
+
+### Resistant Energy (8)
+_[Requires: Energy Shield trick]_ Even when your energy shield is inactive, the ambient energy protects you from a particular type of energy attack. Choose acid, cold, electricity, fire, or sonic. You gain resistance against damage of that energy type.
+
+### Scoutbot (8)
+You’re always crafting rudimentary bots in your spare time, and can use them to scout. It takes you 10 minutes and 1 Resolve Point to create a scoutbot. A scoutbot is a Small technological construct, its AC is 10, and it has 1 Hit Point per mechanic level you have (and no Stamina Points). It has a land speed of 30 feet, and you can control its movements with your custom rig as a bonus action. It has a camera that streams visual and auditory data back to your rig. The scoutbot ability scores are all 10 (having a +0 bonus to every skill and saving throw), though you can use your own Perception skill when examining the feed from its stream.
+
+Once created, the scoutbot lasts for 10 minutes before falling apart unless otherwise destroyed.
+
+### Extra Mod (8)
+If you have a drone, your drone gains an additional basic mod. If you have an exocortex, you gain an additional basic mod. This doesn’t count towards the 5 basic mods required to gain advanced mods. If you rebuild mods, you must keep this as a basic mod.
+
+### Improved Resistant Energy(14)
+_[Requires: Resistant Energy trick]_ Choose acid, cold, electricity, fire, or sonic (but not the same you chose for Resistant Energy). You also gain resistance against damage of that energy type.
+
+### Invisibility-Hampering Projector (14)
+_[Requires: holographic projector trick, invisibility bypass processor trick]_ As a bonus action, you can use your custom rig’s holographic projector to project a holographic image in a direct overlay over an invisible creature within 120 feet, and your custom rig’s computer moves the image to follow the invisible creature, effectively negating the creature’s invisibility as long as it remains within 120 feet of you. If it moves beyond that range, it breaks the effect until you use this ability again.
+
+### Mod Tinkerer (14)
+You can spend 24 hours of uninterrupted work to exchange all your drone or exocortex mods at any time, even if you haven’t gained a level. Any other drone features (such as its chassis) can still be exchanged only when you gain a level.
+
+### Saboteur (14)
+You have advantage to uses of Engineering to sabotage or disable devices. In addition, if you have the appropriate tools (including your custom rig), performing these tasks takes half the normal amount of time, to a minimum of 1 action.
+
+### Ultraclocking (14)
+_[Requires: hyperclocking trick]_ If you have a drone, you can grant the effects of *haste* to your drone for 1 minute as a bonus action. If you have an exocortex, you can gain the effects of *haste* for 1 minute as a bonus action. Once you or your drone has used this ability, you cannot use it again until you get a short rest.
+
+The target of the effect must hold concentration to keep the effect going. This is not a magical effect (so it can not be counterspelled or dispelled)
