@@ -34,3 +34,18 @@ tr:nth-child(even) {
     padding: 0 10px;
     text-align: center;
 }
+
+.statblock {
+    margin: 0 80px;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.statblock h1 {
+    font-family: Roboto, sans-serif;
+    color: $body-foreground
+}
+
+.statblock table {
+  width: auto;
+}
