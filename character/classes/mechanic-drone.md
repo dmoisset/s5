@@ -81,9 +81,9 @@ _Small construct (technological), neutral_
 |-------|-------|-------|-------|-------|-------|
 |12 (+1)|14 (+2)|10 (0) |6 (-2) |10 (0) |6 (-2) |
 
-**Saving Throws** Dexterity +5
-**Skills** Stealth +5
-**Ability Increases** Dexterity, Wisdom
+**Saving Throws** Dexterity +5    
+**Skills** Stealth +5    
+**Ability Increases** Dexterity, Wisdom    
 **Initial Mods** climbing claws, reactive camouflage, weapon mount
 
 </div>
