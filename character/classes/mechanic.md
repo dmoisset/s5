@@ -239,7 +239,7 @@ If you choose the drone option for your artificial intelligence at your 1st leve
 
 ### Drone Ability Increase
 
-At 5th, 10th, 15th and 20th level, two of your drone ability scores increase. The specific abilities are specified in the chassis and can not be changed. Each ability score increases by +2 points if its currently below 18, or by 1 point if it is 18 or above (even if it is above 20).
+At 5th, 10th, 15th and 20th level, two of your drone ability scores increase. The specific abilities are specified in the chassis and can not be changed. Each ability score increases by +2 points if it is currently below 18, or by 1 point if it is 18 or above (even if it is above 20).
 
 ### Extra Attack
 
