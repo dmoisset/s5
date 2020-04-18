@@ -68,7 +68,7 @@ _Tiny construct (technological), neutral_
 
 </div>
 
-</div>
+<div class="statblock">
 
 # Stealth Drone
 _Small construct (technological), neutral_
@@ -85,3 +85,5 @@ _Small construct (technological), neutral_
 **Skills** Stealth +5
 **Ability Increases** Dexterity, Wisdom
 **Initial Mods** climbing claws, reactive camouflage, weapon mount
+
+</div>
