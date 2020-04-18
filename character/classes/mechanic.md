@@ -56,7 +56,7 @@ You start with the following equipment in addition to the equipment granted by y
 
 ### Artificial Intelligence
 
-At 1st level, you construct an artificial intelligence (or AI), a sophisticated program of self-motivated code that you can access for help in a variety of endeavors. This AI is the product of your own genius, far more advanced and complicated than any available for sale to consumers (though it falls short of being truly self-aware), and only you know the secrets of its creation and operation. Your AI can take one of two forms: a drone or an exocortex.
+At 1st level, you construct an artificial intelligence (or AI), a sophisticated program of self-motivated code that you can access for help in a variety of endeavors. This AI is the product of your own genius, far more advanced and complicated than any available for sale to consumers (though it falls short of being truly self-aware), and only you know the secrets of its creation and operation. Your AI can take one of two forms: a [drone](#ai-drone) or an [exocortex](#ai-exocortex).
 
 You must pick one of these forms upon taking your first level of mechanic, and once this choice is made, it cannot be changed. Your choice grants you additional features at 5th, 7th, 10th, 15th, and 20th levels.
 
