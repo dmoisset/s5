@@ -232,3 +232,62 @@ You have advantage to uses of Engineering to sabotage or disable devices. In add
 _[Requires: hyperclocking trick]_ If you have a drone, you can grant the effects of *haste* to your drone for 1 minute as a bonus action. If you have an exocortex, you can gain the effects of *haste* for 1 minute as a bonus action. Once you or your drone has used this ability, you cannot use it again until you get a short rest.
 
 The target of the effect must hold concentration to keep the effect going. This is not a magical effect (so it can not be counterspelled or dispelled)
+
+## AI: Drone
+
+If you choose the drone option for your artificial intelligence at your 1st level of Mechanic, you begin play with a robotic drone that you design. See the [Drone rules](mechanic-drone.md) for instructions on creating your drone.
+
+### Drone Ability Increase
+
+At 5th, 10th, 15th and 20th level, two of your drone ability scores increase. The specific abilities are specified in the chassis and can not be changed. Each ability score increases by +2 points if its currently below 18, or by 1 point if it is 18 or above (even if it is above 20).
+
+### Extra Attack
+
+At 7th level, by spending your action, your drone is able to attack twice instead of once when taking the Attack action.
+Your drone’s AI is able to make the additional attack through Limited AI, but both attack rolls are made at disadvantage. Like Limited AI, you must still be conscious and within range.
+
+### Upgraded Power Core
+
+At 10th Level your drone gains a pool of Resolve Points equal to 1 for every 2 levels it has (minimum 1).
+
+### Expert AI
+
+At 10th Level your drone’s AI has grown more sophisticated, giving it a more robust combat routine when not under your direct control. By spending 1 Resolve Point, it can use the Extra Attack ability without getting disadvantage. You can also get the extra attack by spending only a bonus action.
+
+Your drone also gains the ability of using a reaction to take an Attack of Opportunity at disadvantage, or to take a readied action that you set up with Master Control.
+
+### True AI
+
+At 20th level your drone’s AI is completely autonomous. Each round on your turn, your drone gets a full set of actions (Action, bonus action, reaction, move up to its speed) without requiring direct control. You don’t need to issue a command to your drone for it to take actions. You must still control the drone for it to use your skill proficiency.
+
+## AI: Exocortex
+
+You begin play with an exocortex, an artificial processor that interacts with and augments your biological brain’s cognitive functions, which can aid you in a variety of tasks, from combat to digital infiltration. Your exocortex is implanted within your physical body or brain, similar to a piece of cybernetic hardware, allowing your AI to access your mind and feed you information. As you gain levels, your exocortex advances in sophistication and processing power. Only you can access or interact with your exocortex.
+
+You gain the following abilities as you gain levels:
+
+### Combat Tracking
+
+Starting at 1st level, your exocortex provides you with enhanced combat ability, granting you proficiency with medium and heavy armor and longarms. As a bonus action during combat you can designate a foe for your exocortex to track. As long as that target is in sight, the exocortex feeds you telemetry, vulnerabilities, and combat tactics, allowing you to make attack rolls against that target with a +2 bonus. Designating another target causes you to immediately lose this bonus against the previous target.
+
+### Memory Module
+
+Starting at 1st level, you can use your exocortex’s memory module to enhance your own knowledge. Once, as a reaction while not in combat, you can reroll a failed skill check to recall knowledge. In addition, you get expertise (i.e, getting double your proficiency modifier) in a skill you are already proficient with. You can’t use your exocortex’s memory module while combat tracking is activated. Every time you gain a mechanic level, you can rebuild your exocortex’s memory module, replacing the exocortex’s expertise skill by a different skill. You regain the use of this skill after a long rest
+
+### Autonomous Hack
+
+Starting at 5th level, instead of combat tracking, your exocortex can access another computer system within 20 feet, allowing it to attempt a Computers check against that computer each round, using your skill bonus. This is a free action, but counts as a single action for the purpose of the Computers skill (in case you need certain amount of actions to achieve something). You must remain within 20 feet of the computer system for the entire time your exocortex is interacting with the computer. If the task requires multiple actions (or even rounds) to accomplish, you can spend your actions to work in concert with your exocortex, counting both your action and the exocortex’s effective action toward the total time required.
+
+### Exocortex Mods
+At 7th level, your exocortex allows you to apply any one of the following drone mods to yourself as if you were a drone with that mod installed: armor slot, cargo rack, climbing claws, enhanced senses, hydrojets, jump jets, resistance, smuggler’s compartment, speed, or weapon proficiency (gaining proficiency in advanced melee or heavy weapons). At 11th level, you can apply an additional mod, and your options expand to include echolocators, excavator, flight system, greater resistance, invisibility field, and reactive camouflage. At 14th and 17th levels, you can apply an additional mod. Each time you gain a level, you can switch any of your mods for different mods, but you must always choose at least one mod from the 7th-level list.
+
+### Twin Tracking
+Starting at 10th level, you can designate two targets for your exocortex to track, increasing your attack bonus against each. You can designate both targets with a single bonus, but you must be able to see them both at that time.
+
+### Multitasking
+Starting at 15th level you can designate three targets for your exocortex to track (and designate them all as a single bonus action). In addition, the range of your exocortex’s wireless hack increases to 40 feet. Your exocortex can also engage in combat tracking and hack a nearby computer at the same time, but the computer counts as one of the exocortex’s designated targets (allowing you to track only two targets at the same time while wirelessly hacking the computer). Lastly, you can access your exocortex’s memory module in combat, even while it is engaged in combat tracking.
+
+### Quad Tracking
+
+When you reach 20th level, your exocortex can track four targets simultaneously, and hacking a nearby computer doesn’t count against that limit.
+
