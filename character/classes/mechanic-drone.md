@@ -34,16 +34,16 @@ The stat block also includes the following elements specific to drones:
 # Combat Drone
 _Medium construct (technological), neutral_
 
-**Armor Class** 14 (13+Dex)
-**Hit Points** 10 (5 + 5 × level)
-**Speed* 30 ft.
+**Armor Class** 14 (13+Dex)    
+**Hit Points** 10 (5 + 5 × level)    
+**Speed** 30 ft.
 
 |STR    |DEX    |CON    |INT    |WIS    |CHA    |
 |-------|-------|-------|-------|-------|-------|
 |14 (+2)|12 (+1)|10 (0) |6 (-2) |10 (0) |6 (-2) |
 
-**Saving Throws** Constitution +2 
-**Ability Increases** Strength, Dexterity
+**Saving Throws** Constitution +2    
+**Ability Increases** Strength, Dexterity    
 **Initial Mods** reductive plating; 2 mounts (either weapon mount or melee weapon mount); weapon proficiency
 
 </div>
