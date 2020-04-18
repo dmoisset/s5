@@ -47,3 +47,41 @@ _Medium construct (technological), neutral_
 **Initial Mods** reductive plating; 2 mounts (either weapon mount or melee weapon mount); weapon proficiency
 
 </div>
+
+<div class="statblock">
+
+# Hover Drone
+_Tiny construct (technological), neutral_
+
+**Armor Class** 14 (11+Dex)    
+**Hit Points** 7 (2 + 5 × level)    
+**Speed** 30 ft., fly 30 ft.
+
+|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+|-------|-------|-------|-------|-------|-------|
+|6 (-2) |16 (+3)|10 (0) |6 (-2) |8 (-1) |6 (-2) |
+
+**Saving Throws** Dexterity +5    
+**Skills** Acrobatics +5    
+**Ability Increases** Dexterity, Wisdom    
+**Initial Mods** flight system (×2, included in speed); weapon mount
+
+</div>
+
+</div>
+
+# Stealth Drone
+_Small construct (technological), neutral_
+
+**Armor Class** 14 (12+Dex)    
+**Hit Points** 7 (2 + 5 × level)    
+**Speed** 40 ft., climb 20 ft.
+
+|STR    |DEX    |CON    |INT    |WIS    |CHA    |
+|-------|-------|-------|-------|-------|-------|
+|12 (+1)|14 (+2)|10 (0) |6 (-2) |10 (0) |6 (-2) |
+
+**Saving Throws** Dexterity +5
+**Skills** Stealth +5
+**Ability Increases** Dexterity, Wisdom
+**Initial Mods** climbing claws, reactive camouflage, weapon mount
