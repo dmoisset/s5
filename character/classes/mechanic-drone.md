@@ -46,6 +46,8 @@ _Medium construct (technological), neutral_
 **Ability Increases** Strength, Dexterity    
 **Initial Mods** reductive plating; 2 mounts (either weapon mount or melee weapon mount); weapon proficiency
 
+Bigger than other chassis options, the combat drone moves along the ground and is outfitted with wheels, tracks, legs, or a similar form of propulsion. This drone is designed specifically for battle. It has an armored body and multiple weapon mounts, allowing it to pack a variety of armaments.
+
 </div>
 <p></p>
 <div class="statblock">
@@ -66,6 +68,8 @@ _Tiny construct (technological), neutral_
 **Ability Increases** Dexterity, Wisdom    
 **Initial Mods** flight system (×2, included in speed); weapon mount
 
+The smallest of the chassis options, the hover drone is made from a lightweight frame equipped with miniature hoverjets, rotors, turbofans, or a similar form of aerial propulsion (small legs or wheels provide propulsion on land). This drone can fly at a good pace and avoid obstacles, but it is not very stealthy.
+
 </div>
 <p></p>
 <div class="statblock">
@@ -85,6 +89,8 @@ _Small construct (technological), neutral_
 **Skills** Stealth +5    
 **Ability Increases** Dexterity, Wisdom    
 **Initial Mods** climbing claws, reactive camouflage, weapon mount
+
+Sleek and covered in a light-absorbing alloy, the stealth drone prowls along the ground on multiple small legs, silenced wheels, an air cushion, or some similar form of propulsion. This drone specializes in stealth and infiltration and can vanish almost entirely from sight as long as it remains perfectly still.
 
 </div>
 
