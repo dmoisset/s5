@@ -37,10 +37,15 @@ tr:nth-child(even) {
 
 .statblock {
     margin: 0 8%;
-    border: 1px dashed #b5e853;
+    border: 1px dashed $conifer;
     padding: 10px;
+}
+
+.statblock strong, .statblock td {
+  color: $conifer;
 }
 
 .statblock table {
   width: auto;
 }
+
