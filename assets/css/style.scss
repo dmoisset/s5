@@ -36,14 +36,9 @@ tr:nth-child(even) {
 }
 
 .statblock {
-    margin: 0 80px;
-    border: 1px solid;
+    margin: 0 8%;
+    border: 1px dashed #b5e853;
     padding: 10px;
-}
-
-.statblock h1 {
-    font-family: Roboto, sans-serif;
-    color: $body-foreground
 }
 
 .statblock table {
