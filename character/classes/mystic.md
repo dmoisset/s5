@@ -389,6 +389,34 @@ You realize that not all connections are symmetrical, and seek to be the dominan
 **Associated Skills:** Intimidation and Persuasion    
 **Spells:** 1st - Command, 2nd - Hold Person, 3rd - Suggestion **move from level 2?** , 4th - Confusion, 5th - Modify Memory, 6th - Suggestion, Mass, 7th- Dominate Monster **Move from 8th to 7th**
 
+#### Inexplicable Commands (1st Level)
+
+When one of your mind-affecting enchantment spells or spell-like abilities ends, the target loses all memory that it was magically controlled or influenced. That creature still remembers the actions it took, but may be confused by them.
+
+#### Forced Amity (3rd Level)
+
+You can spend 1 Resolve Point as an action to shunt positive emotions and thoughts through your connection, forcing a humanoid creature to become friendly to you for a time. This functions as *charm person*.
+
+#### Echoes of Obedience (6th Level)
+
+Even creatures that resist your dominance can’t shake the lingering echoes of your mind. When a creature succeeds at a saving throw against one of your mind-affecting charm or compulsion spells or spell-like abilities and negates the effect, it takes disadvantage in its next attack roll or skill check that happens before the beginning of your next turn. This is a mind-affecting effect.
+
+#### Greater Forced Amity (9th Level)
+
+Your [forced amity](#forced-amity) ability functions as *charm monster*.
+
+#### Jealous Overlord (12th Level)
+
+When an ally linked by your telepathic bond class feature is subject to mind-affecting effect that issues commands, as a reaction you can issue a countermand allowing the linked ally to act normally. When you do the originator of the mind-affecting effect must attempt a Charisma saving throw vs your spell save DC; if you succeed, your ally can act normally.
+
+#### Forceful Commands (15th Level)
+
+When you use a mind-affecting charm or compulsion spell or spell-like ability against a target benefiting from an active spell that protects against your attack, you automatically become aware of the presence of such defenses, and can spend 1 Resolve Point as part of casting the spell to attempt a spellcasting check to dispel the highest-level such spell, as if you had cast *dispel magic*.
+
+#### Absolute Control (18th Level)
+
+When you issue a command to a dominated creature that would force it to act against its nature, you can spend 1 Resolve Point to deny it a new saving throw against your domination. The dominated creature still won’t carry out an obviously self-destructive order.
+
 ### Star Shaman
 
 Your connection channels the energy of the cosmos, its celestial bodies, and the dark voids between them. You might be a brilliant astronomer, a daredevil starpilot, a Drift explorer, a prophetic astrologer, or a would-be transhuman godling.
@@ -397,6 +425,34 @@ Your connection channels the energy of the cosmos, its celestial bodies, and the
 **Associated Skills:** Perception and Piloting    
 **Spells:** 1st - _Magic Missile_, 2nd - _Darkvision_, 3rd - _Irradiate_, 4th - _Remove Radioactivity_, 5th - _Telekinesis_, 6th - _Sunbeam_, 7th - _Control Gravity_
 
+#### Walk the Void (1st Level)
+
+You are immune to the harmful environmental effects of outer space and vacuum. You also gain a fly speed of 20 feet while in space. In addition, whenever you can see the stars, you can determine your precise location. Finally, you can add half your proficiency bonus to Piloting checks if you're not proficient with it
+
+#### Starlight Form (3rd Level)
+
+You can transform yourself into blazing starlight as an action. Your body sheds normal light in a 30-foot radius, and you gain the benefits of partial cover. At 7th level, a creature that ends its turn adjacent to your starlight form must succeed at a Constitution save or be blinded until the end of its enxt turn. You can maintain your starlight form for 10 minutes; this duration does not need to be continuous, but it must be used in 1-minute increments. Once you've used your 10 minutes you must take a long rest to regain this ability. You can forgo the ability's cover and blinding aspects to instead simply shed light, though this still counts against the ability’s duration for the day.
+
+#### Stargazer (6th Level)
+
+You can study the stars to gain a bit of good luck. Twice, if you are outdoors and can see the stars, you can reroll an additional d20 for an ability check, attack roll, saving throw, or skill check. This reroll can be declared after the dice is rolled, but not after the results have been declared by the GM. You must take a long rest before reusing this ability.
+
+#### Starflight (9th Level)
+
+While in starlight form, you gain the ability to fly as per the *fly* spell.
+
+#### Starry Bond (12th Level)
+
+You can share the good fortune of your [stargazer](#stargazer) class feature with your allies. Whenever an ally linked by your telepathic bond class feature rolls am ability check, attack roll, saving throw, or skill check, you can spend 1 Resolve Point as a reaction to enable your ally to reroll the failed check. This ability otherwise functions as the stargazer class feature.
+
+#### Meteor Shower (Su) - 15th Level
+
+You can spend 1 Resolve Point as an action to call down a rain of meteorites in a 10-foot-radius vertical cylinder, 40 feet high, at a range of up to 250 feet. The meteorites deal 12d6 damage to every creature in the area (allowing a Dexterity save for half damage). Half the damage is bludgeoning damage; the other half is fire damage. If you are outdoors and can see stars, the meteorites instead deal 12d10 damage.
+
+#### Interplanetary Teleport (Sp) - 18th Level
+
+At 18th level, once per day, you can spend 1 Resolve Point as an action to use _interplanetary teleport_ as a spell-like ability. If you have been to a location in another star system before, you can spend 2 Resolve Points to use interplanetary teleport to travel there, even though it exceeds the spell’s normal range.
+
 ### Xenodruid
 
 You channel the energy inherent in the ecosystems around you, taking inspiration from the endless cycles of the natural world. You might be a corporate biotech researcher, a hermitic shaman of the Green Faith, or one of the legendary Xenowardens.
@@ -404,4 +460,34 @@ You channel the energy inherent in the ecosystems around you, taking inspiration
 **Associated Deities:** Green Faith (Philosophy), Oras    
 **Associated Skills:** Life Science and Survival    
 **Spells:** 1st - Life Bubble, 2nd - Fog Cloud **move to level 2?**, 3rd - Entropic Grasp, 4th - Reincarnate **55555**, 5th - Commune with Nature, 6th - Terraform, 7th - Shapechange **Move to 7th**
+
+#### Speak with Animals (1st Level)
+
+You can communicate with any creature of the animal type, though this doesn’t make it friendly. If an animal is friendly toward you, it may do you favors. This ability allows you to use Intimidate to bully animals, and you can use any other language-dependent effect against animals.
+
+#### Grasping Vines (3rd Level)
+
+You can spend 1 Resolve Point as an action to cause grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within 90ft. While you concentrate (up to 1 minute), these plants turn the ground in the area into difficult terrain.
+A creature in the area when you cast the spell, entering the area, or starting its turn there must succeed on a Strength saving throw or be restrained by the entangling plants until the effect ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+When the effect ends, the conjured plants wilt away.
+
+#### Animal Adaptation (6th Level)
+
+As an action, you can modify your body. Choose one of the following to gain the noted benefit: elongated legs (increase your land speed by 10 feet), fins and webbed digits (granting you a swim speed equal to half your land speed), suckers on wrists and feet (granting you a climb speed equal to half your land speed), or vertical-slit pupils (granting you darkvision 60 feet). This ability lasts for a 1 minute; you can do this again after a short rest. Your base form and size are largely unchanged, but some of your body parts are altered. Armor and gear you are wearing adjusts to your new shape for the duration of this ability. You can have only one of these adaptations active at a time; choosing a new adaptation is an action and the new choice replaces the old. At 12th level, the climb and swim speeds granted by your adaptation are equal to your land speed, and you add wings (granting you a fly speed of 30 feet) to the list of possible adaptations.
+
+#### Reactive Resistance (9th Level)
+
+The first time after a long rest you would take energy (acid, fire, electricity, cold, sonic) damage, you immediately gain resistance to that damage type until your next long rest. If you are damaged by more than one energy type simultaneously, choose which type you resist.
+
+#### Share Resistance (12th Level)
+
+As an action, you can spend 1 Resolve Point to grant allies linked by your telepathic bond class feature resistance to the same energy type that you can resist through your [reactive resistance](#reactive-resistance) class feature for 1 minute. You can’t use this ability if your reactive resistance class feature has not yet been activated for the day.
+
+#### Plant Transport (15th Level)
+
+Once per day as an action, you can enter any living plant equal to your size or larger and exit from another plant of the same kind in the same solar system, regardless of the distance separating the two. The destination plant does not need to be familiar to you. If you are uncertain of the location of a particular kind of destination plant, you merely designate direction and distance and this ability moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, this ability fails and you are ejected from the entry plant. You cannot travel through plant creatures. You can bring along objects as long as their bulk doesn’t exceed your Strength score. You can also bring up to eight willing Medium or smaller creatures (each carrying no more bulk than their Strength scores) with you, provided they are linked to you with joined hands.
+
+#### Guided Rebirth (18th Level)
+
+As long as you have at least 1 Resolve Point remaining, you can spend all your remaining Resolve Points as an action to surround yourself with an organic cocoon. While enclosed in the cocoon, you are considered paralyzed. Eight hours later, you emerge having changed your type to animal, humanoid (of any subtype), or your original type, gaining superficial physical characteristics as appropriate. This change does not alter your ability scores, Hit Points, Stamina Points, saving throws, or proficiencies. Each time you make this transformation, you are cleansed of all poisons and diseases, are restored to full Hit Points and Stamina Points, and heal all ability damage. You must select a type other than your current type every time you make the transformation. You can use this ability once per long rest. Once you use this ability, you can’t regain Resolve Points until you take a long rest, even if you have another means to do so.
 
