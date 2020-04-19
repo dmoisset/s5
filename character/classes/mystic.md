@@ -233,9 +233,49 @@ The following represent the most common mystic connections
 
 ### Akashic
 
-### Empath
+You’re linked to the collective knowledge of every sentient species that ever lived that’s held in the Akashic Record, an Astral library of perfect psychic records of every moment in history. You might be an ancient lorekeeper, an inquisitive student of the occult, an intuitive consulting detective, or a secret-hoarding spy.
+
+**Associated Deities:** Eloritu, Nyarlathotep, Pharasma, Talavet, Triune, Weydan, Yaraesa    
+**Associated Skills:** Culture and Mysticism    
+**Spells:** 1st - _Identify_, 2nd - _Augury_, 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - __?????????__
+
+#### Akashic Knowledge (1st Level)
+
+You gain the [Channel Skill](#channel-skill) ability at 1st level (instead of 2nd level). After each short rest, you can tap into the Akashic Record, enabling you to choose one tool proficiency or language and be proficient in that until your next long rest.
+
+#### Access Akashic Record (3rd Level)
+
+You can access the Akashic Record to augment your skills. You can spend 1 Resolve Point to attempt a skill check as if you were proficient in that skill.
+
+#### Peer into the Future (6th Level)
+
+While you rest you receive visions of possible futures. You can declare that you are using the benefit of this ability before rolling one ability check, saving throw, or skill check, and you gain advantage on that check. You must take a long rest before doing this again.
+
+At 12th level, you can use this ability twice. 
+
+#### Empath (9th Level)
+
+You can use *mind probe* as a spell-like ability once, lasting for 1 round. A creature that successfully saves against your mind probe is immune to further uses of this ability for 24 hours. You recover this ability after a short rest
+
+#### Telepathic Memories (Su) (12th Level)
+
+You can share memories at will with allies linked by your [telepathic bond](#telepathic-bond) class feature. As an action action, you or a linked ally can send a memory of up to 1 minute to as many others in the bond as they choose. Sending a relevant memory counts as a successful aid another attempt for a skill check, even if you wouldn’t otherwise be able to use aid another.
+
+#### Memory Palace (15th Level)
+
+You assemble an extradimensional library to house mental constructs representing your accumulated knowledge. Once betwen long rests you choose where its one entrance is located within 300 ft. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you create the entrance can enter the extradimensional library as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is Invisible. Anyone inside can open the entrance and exit the memory palace at will. The only way to enter and exit the memory palace is via the entrance; even *plane shift* and similar magic do not access it.
+
+You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm. There is no furniture other than bookcases, computers, and a few desks and sofas. A staff of 10 near-transparent servants attends all who enter as librarians. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't Attack or take any action that would directly harm another creature. The servants can go anywhere in the library but can't leave it. Furnishings and other Objects created as part of the palace dissipate into smoke if removed from it. The memory palace keeps the same layout each time you access it, though you can alter its appearance each time you gain a level or by spending 15 minutes concentrating—you don’t need to be inside it to alter it.
+
+When you gain this ability, choose one skill that can be used to recall knowledge. Consulting your memory palace gives anyone who studies within—including you—advantage to skill checks to recall knowledge of that type, and creatures inside the memory palace can attempt checks of that type untrained. At 16th level, and at each level thereafter, choose another skill that can be used with to recall knowledge to which your memory palace’s advantage applies.
+
+#### Glean Spell (18th Level)
+
+Once per day, you can delve into the Akashic Record to cast a spell from either the mystic or technomancer spell list as if it were on your list of spells known. The spell consumes a spell slot 1 level higher than the level of the spell.
 
 ### Healer
+
+
 
 ### Mindbreaker
 
