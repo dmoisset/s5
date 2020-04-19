@@ -81,7 +81,7 @@ You understand that what most people call magic is simply an expression of the i
     </tr>
     <tr>
       <td>14th</td>
-      <td>6</td><td>13</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td>
+      <td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td>
       <td>Telepathic Sense</td>
     </tr>
     <tr>
@@ -91,27 +91,27 @@ You understand that what most people call magic is simply an expression of the i
     </tr>
     <tr>
       <td>16th</td>
-      <td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
+      <td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
       <td>Ability Score Improvement</td>
     </tr>
     <tr>
       <td>17th</td>
-      <td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
+      <td>6</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
       <td>Transcendence</td>
     </tr>
     <tr>
       <td>18th</td>
-      <td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
+      <td>6</td><td>16</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td>
       <td>Connection Power</td>
     </tr>
     <tr>
       <td>19th</td>
-      <td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td>
+      <td>6</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td>
       <td>Ability Score Improvement, Improved Intuitive Spells</td>
     </tr>
     <tr>
       <td>20th</td>
-      <td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td>
+      <td>6</td><td>17</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td>
       <td>Enlightenment</td>
     </tr>
   </tbody>
@@ -237,7 +237,7 @@ You’re linked to the collective knowledge of every sentient species that ever 
 
 **Associated Deities:** Eloritu, Nyarlathotep, Pharasma, Talavet, Triune, Weydan, Yaraesa    
 **Associated Skills:** Culture and Mysticism    
-**Spells:** 1st - _Identify_, 2nd - _Augury_, 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - __?????????__
+**Spells:** 1st - _Identify_, 2nd - _Augury_, 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - _Foresight_ **SWITCH TO 7TH instead of 9TH**
 
 #### Akashic Knowledge (1st Level)
 
@@ -253,7 +253,7 @@ While you rest you receive visions of possible futures. You can declare that you
 
 At 12th level, you can use this ability twice. 
 
-#### Empath (9th Level)
+#### Mind Probe (9th Level)
 
 You can use *mind probe* as a spell-like ability once, lasting for 1 round. A creature that successfully saves against your mind probe is immune to further uses of this ability for 24 hours. You recover this ability after a short rest
 
@@ -273,15 +273,135 @@ When you gain this ability, choose one skill that can be used to recall knowledg
 
 Once per day, you can delve into the Akashic Record to cast a spell from either the mystic or technomancer spell list as if it were on your list of spells known. The spell consumes a spell slot 1 level higher than the level of the spell.
 
+### Empath
+
+Your connection helps you sense emotions and notice details others can’t. You might be a diplomat, an investigator, a mind-reading bodyguard, a ship’s psychologist, or a psychic con artist.
+
+**Associated Deities:** Abadar, Hylax, Iomedae, Sarenrae, Talavet, Triune (Casandalee)    
+**Associated Skills:** Insight and Perception    
+**Spells:** 1st - Detect Thoughts **need a 1st level version**, 2nd - Zone of Truth, 3rd - Clairaudience/clairvoyance, 4th - Mind Probe, 5th - Telepathy (**need a 5th level version**), 6th - True Seeing, 7th - Antipathy / Sympathy **Move to 7th**
+
+#### Empathy (1st Level)
+
+As an action, you can attempt a Wisdom (Insight) check to read the emotions of a particular creature (vs its passive Deception bonus). If you succeed, you learn its general disposition and attitude toward creatures within 30 feet of it, and you gain advantage in Charisma based skill checks against that creature for 1 hour. Whether you succeed or fail, after opening your mind to read emotions, you get disadvantage on saving throws against mind-affecting effects for 1 minute.
+
+#### Greater Mindlink (3rd Level)
+
+You can use your mindlink ability on the same creature as many times as you wish, and the communication can be both ways, though the maximum of 10 minutes of communication per round still applies.
+
+#### Emotionsense (6th Level)
+
+You gain the [Telepathic Sense](#telepathic-sense) at 6th level instead of 14th.
+
+#### Discern Lies (9th Level)
+
+You can use *discern lies* as a spell-like ability, targeting a single creature. This effect lasts 1 round. Once a creature successfully saves against this ability, it becomes immune to further uses of this ability for 24 hours. Once you've used this you must take a short rest before doing it again.
+
+#### Greater Emotionsense (12th Level)
+
+Your [Telepathic Sense](#telepathic-sense) counts as blindsight instead of blindsense
+
+#### Retrocognition (15th Level)
+
+You can use *retrocognition* as a spell-like ability at will. When doing so, you have disadvantage to saving throws against mind-affecting effects for as long as you concentrate on *retrocognition* and an equal amount of time afterward. You can spend 1 Resolve Point to negate this penalty.
+
+#### Empathic Mastery (18th Level)
+
+You can spend 1 Resolve Point to use *psychic surgery* as a spell-like ability. If you are incapacitated by an effect that *psychic surgery* could remove and have at least 1 Resolve Point remaining, you can spend 1 Resolve Point to use this ability on yourself, even without being able to take any actions.
+
 ### Healer
 
+Your connection channels the life force of all things—as well as its counterpart, death. You’re an expert healer, but not necessarily a selfless one. You might be a traveling doctor, a haunted medium, a military medic, or a tyrannical necromancer.
 
+**Associated Deities:** Desna, Hylax, Iomedae, Pharasma, Sarenrae, Talavet, Urgathoa, Weydan    
+**Associated Skills:** Medicine and Mysticism    
+**Spells:** 1st _Cure Wounds_; 2nd - _Lesser Restoration_, 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
+
+#### Healing Channel (1st Level)
+
+You can heal yourself and your allies. You can spend 1 Resolve Point to channel this energy. Healing yourself with channeled energy is a bonus action, healing an ally you touch is an action, and healing all allies within 30 feet uses your action and your bonus action. This energy restores 2d8 Hit Points plus your Wisdom modifier and increases by 1d8 at 3rd level and every 3 levels thereafter.
+
+#### Lifelink (3rd Level)
+
+At the start of each turn, you can choose an ally within 30 feet who has taken Hit Point damage and transfer her wounds to yourself, dealing an amount of damage up to your mystic level to your Hit Points (bypassing any Stamina Points you may have) and healing the ally’s Hit Points an equal amount. This doesn’t require any action on your part. You can’t prevent or reduce the damage you take from lifelink.
+
+#### Healer’s Bond (6th Level)
+
+As an action, you can form a bond with up to three allies, allowing you to constantly sense their condition as per the *status* spell. This bond lasts until dispelled or until you create a new healer’s bond, which immediately ends the previous one. At 11th level, when you gain the telepathic bond class feature, you also gain the effects of status on all creatures linked by your telepathic bond.
+
+#### Steal Life (9th Level)
+
+As an action, you can spend 1 Resolve Point to steal part of a creature’s life force and transfer it to yourself or others. You must touch the target (requiring a successful melee spell attack), which deals 5d8 necrotic damage. Choose an ally within 30 feet; that ally recovers an amount of Hit Points equal to the damage dealt (to a maximum of the foe’s remaining Hit Points). Alternatively, you can heal yourself instead, but you restore only a number of Hit Points equal to half the damage dealt. If this heals the recipient (you or your ally) up to maximum Hit Points, any excess persists for 1 hour as temporary Hit Points. If your attack misses, you don’t lose the Resolve Point.
+
+#### Channel Bond (12th Level)
+
+When you use healing channel to heal an ally, you can heal any ally linked by your telepathic bond class feature as if you were touching that ally, as long as the ally is within 120 feet. When you use healing channel to heal a group of allies, it heals all allies linked by your telepathic bond class feature within 120 feet (as well as all other allies within 30 feet).
+
+#### Channel Life (15th Level)
+
+If you use healing channel on a creature that has died within 1 round, you can bring it back to life as per a *revivify* spell.
+
+#### Deny Death (18th Level)
+
+You are immune to death effects. If you would normally die from damage, as long as you have at least 1 Resolve Point remaining, you can immediately spend all of your remaining Resolve Points to instead stay alive. If your Hit Points would have been reduced to 0, you now have 1 Hit Point instead. Once you use this ability, you can’t regain Resolve Points again until you take a long rest, even if you have another means to do so.
 
 ### Mindbreaker
 
+You use your raw will and understanding of the mind’s structure to crush and demoralize your enemies. You might be a special ops assassin, a psychic interrogator, or a righteous military crusader breaking the enemy’s spirit on the battlefield.
+
+**Associated Deities:** Besmara, Damoritosh, Iomedae, The Devourer, Urgathoa, Zon-Kuthon    
+**Associated Skills:** Deception and Intimidation    
+**Spells:** 1st - Confusion, Lesser **?????? command?**, 2nd - Inflict Pain **??????**, 3rd - Synaptic Pulse **?????**, 4th - Confusion, 5th - Hold Monster, 6th - Eyebite, 7th- Feeblemind **Move from 8th**
+
+#### Share Pain (1st Level)
+
+Whenever a foe deals damage to you, you can spend 1 Resolve Point as a reaction to shift some of the pain back onto that foe. Unless the foe succeeds at a Wisdom saving throw, reduce the damage you take from the attack by your mystic level (to a maximum of the attack’s damage), and the foe takes an equal amount of psychic damage. This is a mind-affecting effect.
+
+#### Backlash (3rd Level)
+
+Whenever a foe succeeds at a Wisdom saving throw against one of your spells and completely negates the effect, you can use your reaction to make that foe take 1 psychic damage for each mystic level you have. The damage count as non-lethal (it can not kill a creature) This is a mind-affecting effect.
+
+#### Sow Doubt (6th Level)
+
+As an action, you can spend 1 Resolve Point to create uncertainty in the mind of a foe within 30 feet. You choose whether the target gets a 1d4 penalty to attack rolls, saving throws, or skill checks. The effect lasts for as long as you can hold concentration or 1 minute maximum. If the target succeeds at a Wisdom saving throw it can reduce the duration until the beginning of your next turn. A creature can be affected only by one sow doubt effect. This is a mind-affecting effect.
+
+#### Mental Anguish (9th Level)
+
+As a standard action, you can tweak the pain centers in the brain of a foe within 60 feet, causing it to suffer intense agony. The target must succeed at a Wisdom Saving throw or be poisoned for 1 round. If it's concentrating, it also must succeed at a Concentration save vs your spell save DC to hold concentration. Regardless of the save, the creature becomes immune to this ability for 24 hours. This is a mind-affecting effect.
+
+#### Mindbreaking Link (Su) - 12th Level
+
+Whenever you or an ally linked by your telepathic bond class feature scores a critical hit against a foe, you can spend 1 Resolve Point as a reaction to confuse that foe. The foe must succeed at a Wisdom saving throw or become confused for 1 round. Whether or not it succeeds at this save, the target is affected by your [sow doubt](#sow-doubt) ability until the end of your next turn. This is a mind-affecting effect.
+
+#### Mindkiller (15th Level)
+
+As an action, you can mold the subconscious fear of a foe within 60 feet into a psychic image of the most disturbing creature imaginable to the target. Only the target can see the mindkiller, and if the target succeeds at a Wisdom saving throw to recognize the image as unreal, the mindkiller has no effect. If the target fails this save, the mindkiller touches the target, which must then succeed at a Charisma save or take 4d10+30 psychic damage. On a successful Charisma save, the target instead takes 3d6 damage. Once a creature succeeds at either save against this ability, it becomes immune to this ability for 24 hours. This is a mind-affecting effect.
+
+#### Explode Head (18th Level)
+
+You can spend 1 Resolve Point as an action to psychically assault the brain of a foe within 60 feet, causing incredible pressure to build in its head. If the target has 20 Hit Points or fewer, its head explodes, instantly killing the target and spreading debris in a 10-foot radius. Each creature in the area must succeed at a Dexterity saving throw or take 2d6 slashing damage from the flying debris. A target with more than 20 Hit Points takes 20d6 psychic damage but can attempt a Constitution save to take only half damage. If this damage would reduce the target to 0 HP, the target’s head explodes as described above. This ability works only on a creature that has a head and would die from the loss of a head.
+
 ### Overlord
+
+You realize that not all connections are symmetrical, and seek to be the dominant force in any situation. You aren’t necessarily evil; perhaps you consider yourself a benevolent philosophermonarch who takes control for the good of your charges. You might also be a cult leader, a criminal mastermind, or a hypnotist.
+
+**Associated Deities:** Abadar, Besmara, Damoritosh, Lao Shu Po, Zon-Kuthon    
+**Associated Skills:** Intimidation and Persuasion    
+**Spells:** 1st - Command, 2nd - Hold Person, 3rd - Suggestion **move from level 2?** , 4th - Confusion, 5th - Modify Memory, 6th - Suggestion, Mass, 7th- Dominate Monster **Move from 8th to 7th**
 
 ### Star Shaman
 
+Your connection channels the energy of the cosmos, its celestial bodies, and the dark voids between them. You might be a brilliant astronomer, a daredevil starpilot, a Drift explorer, a prophetic astrologer, or a would-be transhuman godling.
+
+**Associated Deities:** Desna, Ibra, Nyarlathotep, Sarenrae, The Devourer, Triune    
+**Associated Skills:** Perception and Piloting    
+**Spells:** 1st - _Magic Missile_, 2nd - _Darkvision_, 3rd - _Irradiate_, 4th - _Remove Radioactivity_, 5th - _Telekinesis_, 6th - _Sunbeam_, 7th - _Control Gravity_
+
 ### Xenodruid
+
+You channel the energy inherent in the ecosystems around you, taking inspiration from the endless cycles of the natural world. You might be a corporate biotech researcher, a hermitic shaman of the Green Faith, or one of the legendary Xenowardens.
+
+**Associated Deities:** Green Faith (Philosophy), Oras    
+**Associated Skills:** Life Science and Survival    
+**Spells:** 1st - Life Bubble, 2nd - Fog Cloud **move to level 2?**, 3rd - Entropic Grasp, 4th - Reincarnate **55555**, 5th - Commune with Nature, 6th - Terraform, 7th - Shapechange **Move to 7th**
 
