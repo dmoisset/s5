@@ -2,7 +2,8 @@
 name: Mage Hand
 level: 0
 school: conjuration
-classes: technomancer
+classes: mystic
+         technomancer
 ---
 
 # :five: Mage Hand 

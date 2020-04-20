@@ -2,7 +2,8 @@
 name: Minor Illusion
 level: 0
 school: illusion
-classes: technomancer
+classes: mystic
+         technomancer
 ---
 
 # :five: Minor Illusion 

@@ -2,7 +2,8 @@
 name: Message
 level: 0
 school: transmutation
-classes: technomancer
+classes: mystic
+         technomancer
 ---
 
 # :five: Message 
