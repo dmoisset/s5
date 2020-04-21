@@ -1,5 +1,5 @@
 ---
-name: :five: Dancing Lights
+name: Dancing Lights
 level: 0
 school: evocation
 classes: technomancer
