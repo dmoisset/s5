@@ -315,7 +315,7 @@ Your connection channels the life force of all things—as well as its counterpa
 
 **Associated Deities:** Desna, Hylax, Iomedae, Pharasma, Sarenrae, Talavet, Urgathoa, Weydan    
 **Associated Skills:** Medicine and Mysticism    
-**Spells:** 1st _Cure Wounds_; 2nd - _Lesser Restoration_, 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
+**Spells:** 1st - _Cure Wounds_; 2nd - _Lesser Restoration_, 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
 
 #### Healing Channel (1st Level)
 
