@@ -199,7 +199,7 @@ At 2nd level, you draw strange feelings, instincts, knowledge, and urges from yo
 
 ### Mindlink
 
-Starting at 2nd level, you are able to form a mental link with creatures you touch, communicating information rapidly through it. You can use *Mind Link* at will as a special ability; you can use it on multiple individuals, but once you use it on a creature you must take a long rest before being able to use it again on the same creature.
+Starting at 2nd level, you are able to form a mental link with creatures you touch, communicating information rapidly through it. You can use [*Mind Link*](/magic/spells/mind_link.md) at will as a special ability; you can use it on multiple individuals, but once you use it on a creature you must take a long rest before being able to use it again on the same creature.
 
 ### Intuitive Spells
 
@@ -237,7 +237,7 @@ You’re linked to the collective knowledge of every sentient species that ever 
 
 **Associated Deities:** Eloritu, Nyarlathotep, Pharasma, Talavet, Triune, Weydan, Yaraesa    
 **Associated Skills:** Culture and Mysticism    
-**Spells:** 1st - _Identify_, 2nd - _Augury_, 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - _Foresight_ **SWITCH TO 7TH instead of 9TH**
+**Spells:** 1st - [_Identify_](/magic/spells/identify.md), 2nd - _Augury_, 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - _Foresight_ **SWITCH TO 7TH instead of 9TH**
 
 #### Akashic Knowledge (1st Level)
 
@@ -315,7 +315,7 @@ Your connection channels the life force of all things—as well as its counterpa
 
 **Associated Deities:** Desna, Hylax, Iomedae, Pharasma, Sarenrae, Talavet, Urgathoa, Weydan    
 **Associated Skills:** Medicine and Mysticism    
-**Spells:** 1st _Cure Wounds_; 2nd - _Lesser Restoration_, 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
+**Spells:** 1st - [_Cure Wounds_](/magic/spells/cure_wounds.md); 2nd - _Lesser Restoration_, 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
 
 #### Healing Channel (1st Level)
 
@@ -351,7 +351,7 @@ You use your raw will and understanding of the mind’s structure to crush and d
 
 **Associated Deities:** Besmara, Damoritosh, Iomedae, The Devourer, Urgathoa, Zon-Kuthon    
 **Associated Skills:** Deception and Intimidation    
-**Spells:** 1st - Confusion, Lesser **?????? command?**, 2nd - Inflict Pain **??????**, 3rd - Synaptic Pulse **?????**, 4th - Confusion, 5th - Hold Monster, 6th - Eyebite, 7th- Feeblemind **Move from 8th**
+**Spells:** 1st - [Lesser Confusion, Lesser](/magic/spells/lesser_confusion.md), 2nd - Inflict Pain **??????**, 3rd - Synaptic Pulse **?????**, 4th - Confusion, 5th - Hold Monster, 6th - Eyebite, 7th- Feeblemind **Move from 8th**
 
 #### Share Pain (1st Level)
 
@@ -387,7 +387,7 @@ You realize that not all connections are symmetrical, and seek to be the dominan
 
 **Associated Deities:** Abadar, Besmara, Damoritosh, Lao Shu Po, Zon-Kuthon    
 **Associated Skills:** Intimidation and Persuasion    
-**Spells:** 1st - Command, 2nd - Hold Person, 3rd - Suggestion **move from level 2?** , 4th - Confusion, 5th - Modify Memory, 6th - Suggestion, Mass, 7th- Dominate Monster **Move from 8th to 7th**
+**Spells:** 1st - [Command](/magic/spells/command.md), 2nd - Hold Person, 3rd - Suggestion **move from level 2?** , 4th - Confusion, 5th - Modify Memory, 6th - Suggestion, Mass, 7th- Dominate Monster **Move from 8th to 7th**
 
 #### Inexplicable Commands (1st Level)
 
@@ -423,7 +423,7 @@ Your connection channels the energy of the cosmos, its celestial bodies, and the
 
 **Associated Deities:** Desna, Ibra, Nyarlathotep, Sarenrae, The Devourer, Triune    
 **Associated Skills:** Perception and Piloting    
-**Spells:** 1st - _Magic Missile_, 2nd - _Darkvision_, 3rd - _Irradiate_, 4th - _Remove Radioactivity_, 5th - _Telekinesis_, 6th - _Sunbeam_, 7th - _Control Gravity_
+**Spells:** 1st - [_Magic Missile_](/magic/spells/magic_missile.md), 2nd - _Darkvision_, 3rd - _Irradiate_, 4th - _Remove Radioactivity_, 5th - _Telekinesis_, 6th - _Sunbeam_, 7th - _Control Gravity_
 
 #### Walk the Void (1st Level)
 
@@ -459,7 +459,7 @@ You channel the energy inherent in the ecosystems around you, taking inspiration
 
 **Associated Deities:** Green Faith (Philosophy), Oras    
 **Associated Skills:** Life Science and Survival    
-**Spells:** 1st - Life Bubble, 2nd - Fog Cloud **move to level 2?**, 3rd - Entropic Grasp, 4th - Reincarnate **55555**, 5th - Commune with Nature, 6th - Terraform, 7th - Shapechange **Move to 7th**
+**Spells:** 1st - [Life Bubble](/magic/spells/life_bubble.md), 2nd - Fog Cloud **move to level 2?**, 3rd - Entropic Grasp, 4th - Reincarnate **55555**, 5th - Commune with Nature, 6th - Terraform, 7th - Shapechange **Move to 7th**
 
 #### Speak with Animals (1st Level)
 
