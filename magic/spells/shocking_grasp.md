@@ -1,11 +1,11 @@
 ---
-name: Shocking Grasp
+name: Jolting Surge
 level: 0
 school: evocation
 classes: technomancer
 ---
 
-# :five: Shocking Grasp 
+# :five: Jolting Surge 
 _Evocation cantrip_ 
 
 **Casting Time:** 1 action    
