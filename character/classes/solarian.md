@@ -10,7 +10,7 @@ The stars guide the planets with gravity, create life with light and heat, and u
 | 4th |         2 |                2 |[Ability Score Improvement](#ability-score-improvement) |
 | 5th |         2 |                2 |[Solar Manifestation](#solar-manifestations) Power      |
 | 6th |         3 |                2 |—                                                       |
-| 7th |         3 |                2 |[Flashing Strikes](#flashing-strikes]                   |
+| 7th |         3 |                2 |[Flashing Strikes](#flashing-strikes)                   |
 | 8th |         4 |                2 |[Ability Score Improvement](#ability-score-improvement) |
 | 9th |         4 |                4 |—                                                       |
 | 10th|         5 |                4 |[Solar Manifestation](#solar-manifestations) Power      |
