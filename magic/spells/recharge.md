@@ -5,7 +5,7 @@ school: evocation
 classes: technomancer
 ---
 
-# Recharge (R)
+# Rechargeᴿ
 _2nd-level evocation_ 
 
 **Casting Time:** 1 action    

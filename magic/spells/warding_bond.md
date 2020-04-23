@@ -5,7 +5,7 @@ school: abjuration
 classes: mystic
 ---
 
-# Warding Bond (R)
+# Warding Bondᴿ
 _2nd-level abjuration_ 
 
 **Casting Time:** 1 action    

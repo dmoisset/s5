@@ -5,7 +5,7 @@ school: divination
 classes: mystic
 ---
 
-# Augury (R)
+# Auguryᴿ
 _2nd-level divination (ritual)_   
 
 **Casting Time:** 1 minute   

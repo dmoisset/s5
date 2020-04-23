@@ -5,7 +5,7 @@ school: abjuration
 classes: technomancer
 ---
 
-# Security Seal (R) 
+# Security Sealᴿ
 _2nd-level abjuration_ 
 
 **Casting Time:** 1 action   
