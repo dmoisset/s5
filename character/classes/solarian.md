@@ -46,7 +46,7 @@ You start with the following equipment in addition to the equipment granted by y
 
 1. (a) a [tactical baton](/equipment/weapon-tables.md#simple-melee-weapons) or (b) a [survival knife](/equipment/weapon-tables.md#simple-melee-weapons)
 1. (a) A [tactical semi-auto pistol](/equipment/weapon-tables.md#simple-ranged-weapons) with 30 ammo rounds or (b) an [azimuth laser pistol](/equipment/weapon-tables.md#simple-ranged-weapons) with a 20 charge battery
-1. An [essential pack](#/equipment/other.md#equipment-packs)
+1. An [essential pack](/equipment/other.md#equipment-packs)
 1. [Second skin](/equipment/armor.md#light-armor) armor
 
 ### Skill Adept
