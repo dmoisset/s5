@@ -102,11 +102,11 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ### Flashing Strikes
 
-Once you reach 7th level, after taking an Attack action, you can make a single melee weapon attack as a bonus action
+Once you reach 7th level, after taking an Attack action with only melee weapons, you can make a single melee weapon attack as a bonus action.
 
 ### Extra Attack
 
-Beginning at 13th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+Beginning at 13th level, you can attack twice, instead of once, whenever you take the Attack action on your turn using melee weapons.
 
 ### Stellar Paragon
 
