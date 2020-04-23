@@ -167,6 +167,34 @@ You gain the Charger feat
 
 When you are attuned or fully attuned, and charging to shove (with at least 10 feet in straight line at the end of the dash) you can burst in flames while doing so. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Dexterity save for half). This damage increases by 1d6 at 6th level and every 2 levels thereafter.
 
+## Stellar Revelations (level 6)
+The following revelations can only be chosen when you’re at least 6th level
+### Astrologic Sense :eight_spoked_asterisk:
+### Blazing Orbit:eight_spoked_asterisk:
+### Corona:eight_spoked_asterisk:
+### Crush:eight_pointed_black_star:
+### Defy Gravity :eight_pointed_black_star:
+### Glow of Life :eight_spoked_asterisk:
+### Gravity Surge :eight_pointed_black_star:
+### Hypnotic Glow :eight_spoked_asterisk:
+### Reflection :eight_pointed_black_star:
+## Stellar Revelations (level 10)
+The following revelations can only be chosen when you’re at least 10th level
+### Soul Furnace :eight_spoked_asterisk:
+### Stealth Warp :eight_pointed_black_star:
+## Stellar Revelations (level 14)
+The following revelations can only be chosen when you’re at least 14th level
+### Gravity Shield :eight_pointed_black_star:
+### Sunbolt :eight_spoked_asterisk:
+## Stellar Revelations (level 16)
+The following revelations can only be chosen when you’re at least 16th level
+### Ultimate Graviton :eight_pointed_black_star:
+### Ultimate Photon :eight_spoked_asterisk:
+
+
+
+
+
 ## Zenith Revelations
 
 The following is the full list of Zenith Revelations. All of them require full attunement, and spend the attunement when used.
