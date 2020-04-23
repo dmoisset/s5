@@ -2,73 +2,22 @@
 
 ## Mystic Spells
 
-## Technomancer Spells
-
-### Cantrips
-
-*   Acid Splash
-*   Blade Ward
-*   Dancing Lights
-*   Fire Bolt
-*   Mage Hand
-*   Mending
-*   Message
-*   Minor Illusion
-*   Prestidigitation
-*   Ray of Frost
-*   Shocking Grasp
-*   Transfer Charge: move charges between batteries or power cells
-*   True Strike
-
 ### 1st Level
 
-*   Alarm
-*   Burning Hands
-*   Chromatic Orb
-*   Comprehend Languages
-*   Detect Magic
-*   Detect poison and disease
-*   Detect Radiation: Find irradiated items/areas and the radiation intensity
-*   Detect Tech: Detect technological items with charges in an area
-*   Disguise Self
-*   Erase: remove magical, mundane or electronic writing and files
-*   Feather Fall
-*   Floating Disk
-*   Fog Cloud \[level 2 in SF\]
-*   Grease
-*   Identify
-*   Keen Senses: Improve your perception and your vision in dimly lit areas
-*   Life Bubble: Surround you and others with a protective layer of atmosphere
-*   Magic Missile
-*   Shield
-*   Silent Image
-*   Supercharge Weapon: increase the damage of the next attack of a weapon
-*   Thunderwave
-*   Unseen Servant
-*   Witch Bolt
+*   Detect Thoughts (it's at 2 level)
+*   Share Languages
+*   Sleep
 
 ### 2nd Level
 
-*   Arcane Lock
-*   Blur
-*   Crown of Madness \[Inject Nanobots?\]
-*   Darkvision
-*   Enhance Ability
-*   Implant Data: put a message or piece of information in a computer system 
-*   Invisibility
-*   Knock
-*   Levitate
-*   Logic Bomb: Protect a computer dealing 6d6 damage to the next creature accessing it
-*   Magic Mouth
-*   Make Whole: Fix magical or technological items
-*   M\*\* Acid Arrow
-*   Microbot Assault: Create a cloud of microrobots providing harrying fire to enemies in an area
-*   Mirror Image
-*   Misty Step
-*   RechargeR: restore charges to batteries or powered items.
-*   See Invisibility
-*   Shatter
-*   Spider Climb
+* Fog Cloud (would be at 1st level)
+* Inflict Wounds
+
+## Technomancer Spells
+
+### 1st Level
+
+*   Fog Cloud \[level 2 in SF\]
 
 ### 3rd Level
 
