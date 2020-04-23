@@ -44,10 +44,10 @@ The stars guide the planets with gravity, create life with light and heat, and u
 
 You start with the following equipment in addition to the equipment granted by your background:
 
-1. (a) a [tactical baton](/equipment/weapon-tables.md#simple-melee-weapons) or (b) a [survival knife](/equipment/weapon-tables.md#simple-melee-weapons)
-1. (a) A [tactical semi-auto pistol](/equipment/weapon-tables.md#simple-ranged-weapons) with 30 ammo rounds or (b) an [azimuth laser pistol](/equipment/weapon-tables.md#simple-ranged-weapons) with a 20 charge battery
-1. An [essential pack](/equipment/other.md#equipment-packs)
-1. [Second skin](/equipment/armor.md#light-armor) armor
+1. (a) a [tactical baton](../../equipment/weapon-tables.md#simple-melee-weapons) or (b) a [survival knife](../../equipment/weapon-tables.md#simple-melee-weapons)
+1. (a) A [tactical semi-auto pistol](../../equipment/weapon-tables.md#simple-ranged-weapons) with 30 ammo rounds or (b) an [azimuth laser pistol](../../equipment/weapon-tables.md#simple-ranged-weapons) with a 20 charge battery
+1. An [essential pack](../../equipment/other.md#equipment-packs)
+1. [Second skin](../../equipment/armor.md#light-armor) armor
 
 ### Skill Adept
 
@@ -143,11 +143,11 @@ When you are attuned or fully attuned to graviton mode, you can activate this re
 
 You can increase or reduce the gravitational attraction between yourself and the terrain around you. You can add your proficiency bonus (if not proficient) to Strength (Athletics) checks to climb, jump, or swim as part of the action you take to attempt the skill check. In addition, as a reaction when you are falling, you can reduce the falling damage you take by half.
 
-When you are attuned or fully attuned, you can move along vertical surfaces and even upside down along ceilings during your turn. This functions as [_spider climb_](/magic/spells/spider_climb.md), but it leaves your hands free and you can also run. You must end your movement on a surface that can support you normally. If you end your movement while you are standing on a vertical surface or ceiling, you fall unless you succeed at an Athletics check to climb to remain in position.
+When you are attuned or fully attuned, you can move along vertical surfaces and even upside down along ceilings during your turn. This functions as [_spider climb_](../../magic/spells/spider_climb.md), but it leaves your hands free and you can also run. You must end your movement on a surface that can support you normally. If you end your movement while you are standing on a vertical surface or ceiling, you fall unless you succeed at an Athletics check to climb to remain in position.
 
 ### Gravity Hold :eight_pointed_black_star:
 
-This revelation allows you to move objects at a distance as per [_psychokinetic hand_](/magic/spells/mage_hand.html).
+This revelation allows you to move objects at a distance as per [_psychokinetic hand_](../../magic/spells/mage_hand.html).
 When you are attuned or fully attuned, you can use the _psychokinetic hand_ ability of your gravity hold to immobilize, lift, or move a Medium or smaller creature. The creature can attempt a Strength saving throw to negate the effect. While under this effect, the target is grappled. This ability follows all of the restrictions of the spell other than the weight limit, but you can’t lift a creature higher than 5 feet off the ground. You can spend an action in each turn to maintain the gravity hold, and the target can attempt a new save to end the effect. Once a creature successfully saves against this ability, it becomes immune to further uses of this revelation for 24 hours.
 
 ### Plasma Sheath :eight_spoked_asterisk:
@@ -218,7 +218,7 @@ When you’re fully photon-attuned, as an action, you can deal 1d6 fire damage p
 
 You can form your solar mote into a suit of armor made out of stellar energy that outlines your body. This armor appears to be made out of glowing light or solid darkness, as determined by the appearance of your solar manifestation, but it can take whatever general shape you choose, whether glowing armored plates of solidified stellar energy, a form-fitting suit of crackling energy, or an aura of stellar plasma. Your solar armor’s general design has no impact on its function and doesn’t give the armor any special abilities. Once you’ve selected the general design, you can’t change it until you gain a new solarian level.
 
-Your solar armor grants you a +1 bonus to your AC. This bonus increases to +2 at 10th level. It is compatible with [light armor](/equipment/armor.md#light-armor), but it gives you no benefit if you’re wearing medium or heavy armor. At 5th level, you also gain energy resistance while your solar armor is active. You can choose either cold resistance or fire resistance when you activate the armor, and you can switch energy types as a bonus action. At 15th level it provides you resistance against both kinds of damage. At 20th level you can, as a bonus action, make it immune to either cold or fire.
+Your solar armor grants you a +1 bonus to your AC. This bonus increases to +2 at 10th level. It is compatible with [light armor](../../equipment/armor.md#light-armor), but it gives you no benefit if you’re wearing medium or heavy armor. At 5th level, you also gain energy resistance while your solar armor is active. You can choose either cold resistance or fire resistance when you activate the armor, and you can switch energy types as a bonus action. At 15th level it provides you resistance against both kinds of damage. At 20th level you can, as a bonus action, make it immune to either cold or fire.
 
 Forming or dismissing solar armor is a free action.
 
