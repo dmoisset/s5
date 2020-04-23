@@ -199,7 +199,7 @@ At 2nd level, you draw strange feelings, instincts, knowledge, and urges from yo
 
 ### Mindlink
 
-Starting at 2nd level, you are able to form a mental link with creatures you touch, communicating information rapidly through it. You can use [*Mind Link*](/magic/spells/mind_link.md) at will as a special ability; you can use it on multiple individuals, but once you use it on a creature you must take a long rest before being able to use it again on the same creature.
+Starting at 2nd level, you are able to form a mental link with creatures you touch, communicating information rapidly through it. You can use [*Mind Link*](../../magic/spells/mind_link.md) at will as a special ability; you can use it on multiple individuals, but once you use it on a creature you must take a long rest before being able to use it again on the same creature.
 
 ### Intuitive Spells
 
@@ -237,7 +237,7 @@ You’re linked to the collective knowledge of every sentient species that ever 
 
 **Associated Deities:** Eloritu, Nyarlathotep, Pharasma, Talavet, Triune, Weydan, Yaraesa    
 **Associated Skills:** Culture and Mysticism    
-**Spells:** 1st - [_Identify_](/magic/spells/identify.md), 2nd - _Augury_, 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - _Foresight_ **SWITCH TO 7TH instead of 9TH**
+**Spells:** 1st - [_Identify_](../../magic/spells/identify.md), 2nd - [_Augury ᴿ_](../../magic/spells/augury.md), 3rd - _Tongues_, 4th - _Divination_, 5th - _Contact Other Plane_, 6th - _Find the Path_, 7th - _Foresight_ **SWITCH TO 7TH instead of 9TH**
 
 #### Akashic Knowledge (1st Level)
 
@@ -279,7 +279,7 @@ Your connection helps you sense emotions and notice details others can’t. You 
 
 **Associated Deities:** Abadar, Hylax, Iomedae, Sarenrae, Talavet, Triune (Casandalee)    
 **Associated Skills:** Insight and Perception    
-**Spells:** 1st - Detect Thoughts **need a 1st level version**, 2nd - Zone of Truth, 3rd - Clairaudience/clairvoyance, 4th - Mind Probe, 5th - Telepathy (**need a 5th level version**), 6th - True Seeing, 7th - Antipathy / Sympathy **Move to 7th**
+**Spells:** 1st - Detect Thoughts **need a 1st level version**, 2nd - [_Zone of Truth_](../../magic/spells/zone_of_truth.md), 3rd - Clairaudience/clairvoyance, 4th - Mind Probe, 5th - Telepathy (**need a 5th level version**), 6th - True Seeing, 7th - Antipathy / Sympathy **Move to 7th**
 
 #### Empathy (1st Level)
 
@@ -315,7 +315,7 @@ Your connection channels the life force of all things—as well as its counterpa
 
 **Associated Deities:** Desna, Hylax, Iomedae, Pharasma, Sarenrae, Talavet, Urgathoa, Weydan    
 **Associated Skills:** Medicine and Mysticism    
-**Spells:** 1st - [_Cure Wounds_](/magic/spells/cure_wounds.md); 2nd - _Lesser Restoration_, 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
+**Spells:** 1st - [_Cure Wounds_](../../magic/spells/cure_wounds.md); 2nd - [_Lesser Restoration_](../../magic/spells/lesser_restoration.md), 3rd - _Revivify_, 4th - _Death Ward_, 5th - _Greater Restoration_, 6th - _Heal_, 7th - _Regenerate_
 
 #### Healing Channel (1st Level)
 
@@ -351,7 +351,7 @@ You use your raw will and understanding of the mind’s structure to crush and d
 
 **Associated Deities:** Besmara, Damoritosh, Iomedae, The Devourer, Urgathoa, Zon-Kuthon    
 **Associated Skills:** Deception and Intimidation    
-**Spells:** 1st - [Lesser Confusion, Lesser](/magic/spells/lesser_confusion.md), 2nd - Inflict Pain **??????**, 3rd - Synaptic Pulse **?????**, 4th - Confusion, 5th - Hold Monster, 6th - Eyebite, 7th- Feeblemind **Move from 8th**
+**Spells:** 1st - [_Lesser Confusion_](../../magic/spells/lesser_confusion.md), 2nd - Inflict Pain **??????**, 3rd - Synaptic Pulse **?????**, 4th - Confusion, 5th - Hold Monster, 6th - Eyebite, 7th- Feeblemind **Move from 8th**
 
 #### Share Pain (1st Level)
 
@@ -371,7 +371,7 @@ As a standard action, you can tweak the pain centers in the brain of a foe withi
 
 #### Mindbreaking Link (Su) - 12th Level
 
-Whenever you or an ally linked by your telepathic bond class feature scores a critical hit against a foe, you can spend 1 Resolve Point as a reaction to confuse that foe. The foe must succeed at a Wisdom saving throw or become confused for 1 round. Whether or not it succeeds at this save, the target is affected by your [sow doubt](#sow-doubt) ability until the end of your next turn. This is a mind-affecting effect.
+Whenever you or an ally linked by your telepathic bond class feature scores a critical hit against a foe, you can spend 1 Resolve Point as a reaction to confuse that foe. The foe must succeed at a Wisdom saving throw or become confused for 1 round. Whether or not it succeeds at this save, the target is affected by your [sow doubt](#sow-doubt-6th-level) ability until the end of your next turn. This is a mind-affecting effect.
 
 #### Mindkiller (15th Level)
 
@@ -387,7 +387,7 @@ You realize that not all connections are symmetrical, and seek to be the dominan
 
 **Associated Deities:** Abadar, Besmara, Damoritosh, Lao Shu Po, Zon-Kuthon    
 **Associated Skills:** Intimidation and Persuasion    
-**Spells:** 1st - [Command](/magic/spells/command.md), 2nd - Hold Person, 3rd - Suggestion **move from level 2?** , 4th - Confusion, 5th - Modify Memory, 6th - Suggestion, Mass, 7th- Dominate Monster **Move from 8th to 7th**
+**Spells:** 1st - [_Command_](../../magic/spells/command.md), 2nd - [_Hold Person_](../../magic/spells/hold_person.md), 3rd - Suggestion **move from level 2?** , 4th - Confusion, 5th - Modify Memory, 6th - Suggestion, Mass, 7th- Dominate Monster **Move from 8th to 7th**
 
 #### Inexplicable Commands (1st Level)
 
@@ -423,7 +423,7 @@ Your connection channels the energy of the cosmos, its celestial bodies, and the
 
 **Associated Deities:** Desna, Ibra, Nyarlathotep, Sarenrae, The Devourer, Triune    
 **Associated Skills:** Perception and Piloting    
-**Spells:** 1st - [_Magic Missile_](/magic/spells/magic_missile.md), 2nd - _Darkvision_, 3rd - _Irradiate_, 4th - _Remove Radioactivity_, 5th - _Telekinesis_, 6th - _Sunbeam_, 7th - _Control Gravity_
+**Spells:** 1st - [_Magic Missile_](../../magic/spells/magic_missile.md), 2nd - [_Darkvision_](../../magic/spells/darkvision.md), 3rd - _Irradiate_, 4th - _Remove Radioactivity_, 5th - _Telekinesis_, 6th - _Sunbeam_, 7th - _Control Gravity_
 
 #### Walk the Void (1st Level)
 
@@ -459,7 +459,7 @@ You channel the energy inherent in the ecosystems around you, taking inspiration
 
 **Associated Deities:** Green Faith (Philosophy), Oras    
 **Associated Skills:** Life Science and Survival    
-**Spells:** 1st - [Life Bubble](/magic/spells/life_bubble.md), 2nd - Fog Cloud **move to level 2?**, 3rd - Entropic Grasp, 4th - Reincarnate **55555**, 5th - Commune with Nature, 6th - Terraform, 7th - Shapechange **Move to 7th**
+**Spells:** 1st - [_Life Bubble_](../../magic/spells/life_bubble.md), 2nd - Fog Cloud **move to level 2?**, 3rd - Entropic Grasp, 4th - Reincarnate **55555**, 5th - Commune with Nature, 6th - Terraform, 7th - Shapechange **Move to 7th**
 
 #### Speak with Animals (1st Level)
 
