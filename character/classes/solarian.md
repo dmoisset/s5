@@ -78,7 +78,7 @@ At 1st level you gain the “[Black Hole(graviton)](#black-hole-eightpointedblac
 
 ### Stellar Revelations
 
-When reaching every even level you gain a stellar revelation. You must choose from the [list of Stellar Revelations](#stellar-revelations=1) below and only one that’s allowed for your level. You cannot select the same stellar revelation more than once unless it says otherwise. You can not unbalance your number of photon vs graviton revelations, so if you know more revelations of one kind, you must choose one from the opposite kind.
+When reaching every even level you gain a stellar revelation. You must choose from the [list of Stellar Revelations](#stellar-revelations-1) below and only one that’s allowed for your level. You cannot select the same stellar revelation more than once unless it says otherwise. You can not unbalance your number of photon vs graviton revelations, so if you know more revelations of one kind, you must choose one from the opposite kind.
 
 Stellar revelations normally note what kind of action they require. If a stellar revelation does not note the kind of action it takes and it modifies some other action (such as an attack or skill check), it can be used as part of that action. You use your Charisma modifier and your proficiency bonus for the DC of saves for a Revelation or attack rolls made with one: 
 
