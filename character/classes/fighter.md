@@ -37,7 +37,7 @@ As a soldier, you gain the following class features.
 
 ### Hit Points
 
-**Hit Points each Level:** 3
+**Hit Points each Level:** 3    
 **Stamina Points each Level:** 3 + your Constitution modifier (min 0)
 
 ### Proficiencies
