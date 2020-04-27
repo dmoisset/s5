@@ -61,7 +61,7 @@ PCs to retire just because they found a vanquished enemy’s life savings in his
 
 ## Selling equipment
 
-In general, you can sell equipment of any type anywhere you could buy the same equipment. Since any equipment sold by PCs comes without the guarantees and reputation of major merchants and producers (and may be broken, cursed, defective, or stolen), in general PCs can sell equipment for only 10% of its purchase price. A GM may change this based on the spare credits of a community, market conditions, or the factors an adventure dictates. Trade goods (see page 232) are the exception to this, since they are considered more universal, more easily checked for defects, and less traceable (and thus less likely to cause issues if they are of a questionable provenance). Trade goods can generally be sold for 100% of their purchase price, and in some cases can be used as money themselves (subject to the GM’s discretion).
+In general, you can sell equipment of any type anywhere you could buy the same equipment. Since any equipment sold by PCs comes without the guarantees and reputation of major merchants and producers (and may be broken, cursed, defective, or stolen), in general PCs can sell equipment for only 10% of its purchase price. A GM may change this based on the spare credits of a community, market conditions, or the factors an adventure dictates. Trade goods are the exception to this, since they are considered more universal, more easily checked for defects, and less traceable (and thus less likely to cause issues if they are of a questionable provenance). Trade goods can generally be sold for 100% of their purchase price, and in some cases can be used as money themselves (subject to the GM’s discretion).
 
 ## Bulk and carrying
 
