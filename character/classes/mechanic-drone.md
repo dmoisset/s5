@@ -49,7 +49,6 @@ _Medium construct (technological), neutral_
 Bigger than other chassis options, the combat drone moves along the ground and is outfitted with wheels, tracks, legs, or a similar form of propulsion. This drone is designed specifically for battle. It has an armored body and multiple weapon mounts, allowing it to pack a variety of armaments.
 
 </div>
-<p></p>
 <div class="statblock">
 
 # Hover Drone
@@ -71,7 +70,6 @@ _Tiny construct (technological), neutral_
 The smallest of the chassis options, the hover drone is made from a lightweight frame equipped with miniature hoverjets, rotors, turbofans, or a similar form of aerial propulsion (small legs or wheels provide propulsion on land). This drone can fly at a good pace and avoid obstacles, but it is not very stealthy.
 
 </div>
-<p></p>
 <div class="statblock">
 
 # Stealth Drone
