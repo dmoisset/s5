@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+      </div>
+    </header>
+
+    <div class="toc"></div>
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+    <script>
+        tocbot.init({
+          tocSelector: '.toc',
+          contentSelector: '#main_content',
+          headingSelector: 'h1, h2, h3',
+          // ignoreSelector: ".stat-block h1",
+          collapseDepth: 3,
+        });
+    </script>
+  </body>
+</html>

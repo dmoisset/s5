@@ -21,9 +21,8 @@ tr:nth-child(even) {
     background-color: #333;
 }
 
-#downloads {
-  display: none;
-}
+
+/* Special headers in weapon table*/
 
 #weapon-list-content td > strong {
     background-color: $body-foreground;
@@ -34,6 +33,8 @@ tr:nth-child(even) {
     padding: 0 10px;
     text-align: center;
 }
+
+/* Stat Blocks */
 
 .statblock + .statblock {
     margin-top: 30px;
@@ -55,3 +56,30 @@ tr:nth-child(even) {
   width: auto;
 }
 
+/* Table of Contents */
+
+.toc {
+  margin-left: 50px;
+  position: sticky;
+  float: left;
+  top: 20px;
+  font-family: Oswald, monospace;
+  color: $conifer;
+}
+@media (max-width: 1600px) {
+  /* Hide in small devices */
+  .toc {
+    display: none;
+  }
+}
+
+
+.toc a.toc-link {
+  color: $body-foreground;
+}
+.toc a.is-active-link {
+  color: $conifer;
+}
+.is-active-link::before {
+  background-color: $conifer !important;
+}
