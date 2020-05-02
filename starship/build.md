@@ -15,6 +15,7 @@ Starships and their base frames are described using stat blocks that include inf
 * **Drift:** This is a starship’s Drift engine rating. When determining how long it takes a starship to travel to a location through the Drift, divide the die roll by this number (see [Drift Navigation](navigation.md#drift-navigation) rules). If this entry is absent, the starship can’t travel into the Drift.
 * **Armor Class (AC):** This value is used when determining whether direct-fire weapons (like lasers and railguns) hit a starship. AC is calculated based on the ship’s size, maneuverability, and physical armor, as well as the pilot’s proficiency bonus.
 * **Target Lock (TL):** This value is used when determining whether tracking weapons (like missiles and torpedoes) hit a starship. TL is calculated based on the starship’s size, maneuverability, and defensive countermeasures, plus the pilot’s proficiency bonus.
+* **Passive Defense (PD):** This value is used when determining success of some actions that try to scan or target electronic systems in a ship.
 * **Hull Points (HP):** This is the total amount of damage a starship can take before it becomes inoperative. A starship with 0 Hull Points isn’t destroyed, though many of its systems are no longer functioning and it is no longer a threat to its enemies. In a base frame stat block, the Hull Points entry also lists the HP increment, which is the number of Hull Points a starship with that frame automatically gains when its tier increases to 4 (and every 4 tiers thereafter).
 * **Damage Threshold (DT):** If an attack deals less damage less than this value, that damage isn’t counted against the ship’s total Hull Points. Only Huge or larger ships have a Damage Threshold, and it matters only when such a starship’s shields are depleted.
 * **Critical Threshold (CT):** Whenever the total amount of damage that has been dealt to a starship’s Hull Points reaches a multiple of this value, one of its systems takes critical damage. This value is always one-fifth of the starship’s maximum number of Hull Points.
@@ -805,3 +806,30 @@ Greater dangers means the PCs will require more powerful weapons in order to sur
 By spending 4 BP, the crew can upgrade a light weapon mount in any of the aft, forward, port, or starboard arcs to a heavy weapon mount. By spending 6 BP, the crew can upgrade a light weapon mount on a turret to a heavy weapon mount. By spending 5 Build Points, the crew can upgrade a heavy weapon mount in any of the aft, forward, port, or starboard arcs to a capital weapon mount. Heavy weapons can be mounted on only Medium or larger starships. Capital weapons can be mounted on only Huge or larger starships and can’t be mounted on turrets.
 
 By spending 3 BP, the crew can fit a new light weapon mount in any of the aft, forward, port, or starboard arcs with enough free space. By spending 5 BP, the crew can fit a new light weapon mount on a turret that has enough free space. Tiny and Small starships can have only two weapon mounts per arc (and per turret). Medium and Large starships can have only three weapon mounts per arc (and per turret). Huge and larger starships can have only four weapon mounts per arc (and per turret).
+
+## Finishing details
+
+Once you have built a starship, it's a good idea to precalculate the following to make combat easier
+
+### Armor Class
+
+A ship Armor Class (AC) is determined by the following formula:
+
+AC = 10 + the pilot’s proficiency bonus + the ship’s armor bonus + modifier based on the ship’s size 
+
+The pilot can only add their proficiency bonus if they are proficient in Piloting. Note that in combat some actions can temporarily increase or decrease this AC.
+
+### Tracking Lock
+
+The Tracking Lock (TL) of a ship is determined by the following Formula:
+
+TL = 10 + the pilot’s proficiency bonus + the ship’s countermeasures bonus + modifier based on the ship’s size
+
+The pilot can only add their proficiency bonus if they are proficient in Piloting. Note that in combat some actions can temporarily increase or decrease this TL.
+
+### Passive defense
+
+The passive defense of a ship (PD) is:
+
+PD = 10 + the ship's minimum proficiency bonus + the ship’s countermeasures bonus
+
