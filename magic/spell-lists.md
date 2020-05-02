@@ -1,119 +1,114 @@
-# Spell lists
 
-## Mystic Spells
+# Mystic Spells
 
-### 1st Level
+## Cantrips (0 Level)
 
-*   Detect Thoughts (it's at 2 level)
-*   Share Languages
-*   Sleep
+- [:five: Chill Touch](spells/chill_touch.md)
+- [Grave Words](spells/grave_words.md)
+- [:five: Mage Hand](spells/mage_hand.md)
+- [:five: Mending](spells/mending.md)
+- [:five: Message](spells/message.md)
+- [Mind Thrust](spells/mind_thrust.md)
+- [:five: Minor Illusion](spells/minor_illusion.md)
+- [:five: Spare the Dying](spells/spare_the_dying.md)
+- [Telekinetic Projectile](spells/telekinetic_projectile.md)
+- [:five: Thaumaturgy](spells/thaumaturgy.md)
 
-### 2nd Level
+## 1st Level
 
-* Fog Cloud (would be at 1st level)
-* Inflict Wounds
+- [:five: Bane](spells/bane.md)
+- [:five: Charm Person](spells/charm_person.md)
+- [:five: Command](spells/command.md)
+- [:five: Cure Wounds](spells/cure_wounds.md)
+- [:five: Detect Magic](spells/detect_magic.md)
+- [:five: Detect Poison and Disease](spells/detect_poison_and_disease.md)
+- [Detect Radiation](spells/detect_radiation.md)
+- [:five: Disguise Self](spells/disguise_self.md)
+- [:five: Fog Cloud](spells/fog_cloud.md)
+- [:five: Identify](spells/identify.md)
+- [Keen Senses](spells/keen_senses.md)
+- [Lesser Confusion](spells/lesser_confusion.md)
+- [Life Bubble](spells/life_bubble.md)
+- [Mind Link](spells/mind_link.md)
+- [Reflecting Armor](spells/reflecting_armor.md)
+- [Wisp Ally](spells/wisp_ally.md)
 
-## Technomancer Spells
+## 2nd Level
 
-### 1st Level
+- [Auguryᴿ](spells/augury.md)
+- [:five: Darkvision](spells/darkvision.md)
+- [:five: Detect Thoughts](spells/detect_thoughts.md)
+- [:five: Hold Person](spells/hold_person.md)
+- [Hurl Forcedisk](spells/hurl_forcedisk.md)
+- [:five: Lesser Restoration](spells/lesser_restoration.md)
+- [:five: See Invisibility](spells/see_invisibility.md)
+- [:five: Spider Climb](spells/spider_climb.md)
+- [Status](spells/status.md)
+- [:five: Suggestion](spells/suggestion.md)
+- [Warding Bondᴿ](spells/warding_bond.md)
+- [Zone of Truth](spells/zone_of_truth.md)
 
-*   Fog Cloud \[level 2 in SF\]
+# Technomancer Spells
 
-### 3rd Level
+## Cantrips (0 Level)
 
-*   Clairvoyance
-*   Counterspell
-*   Discharge: remove charges for an item, remove its power temporarily, or harm technological constructs
-*   Dispel Magic
-*   Fireball
-*   Fly
-*   Glyph of Warding
-*   Handy Junkbot: Build  a temporary robot that can perform skilled tasks for you
-*   Haste
-*   Healing Junkbot: build a temporary robot that can move wounded allies and perform medical tasks
-*   Instant Virus: implant a virus in a target technological construct
-*   Irradiate: flood an area with radiation
-*   Lightning Bolt
-*   Major Image
-*   Nondetection
-*   Probability prediction: Allows you to reroll a d20 roll during its duration
-*   Slow
-*   Tongues
+- [:five: Acid Splash](spells/acid_splash.md)
+- [:five: Dancing Lights](spells/dancing_lights.md)
+- [:five: Fire Bolt](spells/fire_bolt.md)
+- [:five: Jolting Surge](spells/shocking_grasp.md)
+- [Kinetic Barrier](spells/kinetic_barrier.md)
+- [:five: Mage Hand](spells/mage_hand.md)
+- [:five: Mending](spells/mending.md)
+- [:five: Message](spells/message.md)
+- [:five: Minor Illusion](spells/minor_illusion.md)
+- [:five: Prestidigitation](spells/prestidigitation.md)
+- [:five: Ray of Frost](spells/ray_of_frost.md)
+- [Transfer Charge](spells/transfer_charge.md)
+- [:five: True Strike](spells/true_strike.md)
 
-### 4th Level
+## 1st Level
 
-*   Arcane Eye
-*   Banishment
+- [:five: Alarm](spells/alarm.md)
+- [:five: Burning Hands](spells/burning_hands.md)
+- [:five: Comprehend Languages](spells/comprehend_languages.md)
+- [:five: Detect Magic](spells/detect_magic.md)
+- [Detect Radiation](spells/detect_radiation.md)
+- [Detect Tech](spells/detect_tech.md)
+- [:five: Disguise Self](spells/disguise_self.md)
+- [Erase](spells/erase.md)
+- [:five: Feather Fall](spells/feather_fall.md)
+- [:five: Floating Disk](spells/floating_disk.md)
+- [:five: Fog Cloud](spells/fog_cloud.md)
+- [:five: Grease](spells/grease.md)
+- [:five: Holographic Image](spells/silent_image.md)
+- [:five: Identify](spells/identify.md)
+- [Keen Senses](spells/keen_senses.md)
+- [Life Bubble](spells/life_bubble.md)
+- [:five: Magic Missile](spells/magic_missile.md)
+- [:five: Shield](spells/shield.md)
+- [:five: Sonic Boom](spells/thunderwave.md)
+- [Supercharge Weapon](spells/supercharge_weapon.md)
+- [:five: Unseen Servant](spells/unseen_servant.md)
 
-*   Destruction Protocol: reprogram a technological construct to attack your enemies
+## 2nd Level
 
-*   Dimension Door
-*   Fabricate
-*   Fire Shield
-*   Greater Invisibility
-*   Hallucinatory Terrain
-*   Overload Systems: incapacitate a creature with a shock to negate its actions
-*   Private Sanctum
-*   Remove Radioactivity: remove radiation effects from a creature or area 
-*   Resilient Sphere
-*   Rewire Flesh: turn a living creature into a more robotic one, inflicting several penalties and damage.
-*   Soothing Protocol: reprogram a technological construct to stop aggression
-*   Wall of Fire
-
-### 5th Level
-
-*   Cone of Cold
-
-*   Control Machines: issue command to technological constructs
-
-*   Contact Other Plane
-*   Creation
-*   Holographic Image: Create a permanent image that you can control while concentrating (CRB 5th level)
-*   Insect Plague \[tech based\]
-*   Mislead
-*   Passwall
-*   Planar Binding
-*   Prying Eyes: Send visual sensors hovering
-*   Rapid Repair: For 1 minute target construct gains 2d8 HP per round
-*   Resistant Aegis: gives you resistance to either physical or energy damage
-*   Seeming
-*   Synapse Overload: Overload the brain of a living creature causing 18d8 damage and staggering it
-*   Telekinesis
-*   Teleportation Circle \[SF Teleport\]
-*   Wall of Force
-
-### 6th Level
-
-*   Arcane Gate
-
-*   Battle Junkbot: Build  a temporary robot that is combat capable
-
-*   Chain Lightning
-*   Contingency
-*   Create Undead
-*   Discharge, Greater: discharge multiple objects or an area
-*   Disintegrate
-*   Forbiddance
-*   Globe of Invulnerability
-*   Programmed Illusion \[SF level 4\]
-*   Shadowy Fleet: conjure a fleet of phantom ships that bombard an area
-*   Sunbeam
-*   Sympathetic Vibration: deal 2d10 sonic damage/round to a structure or vehicle
-*   Terraform\[10 RP\]: change terraine and climate  around you
-*   True Seeing
-*   Wall of Steel\[1 RP\]: conjure solid, permanent wall of steel
-
-### 7th Level
-
-*   Etherealness
-*   Fire Storm
-*   Forcecage
-*   Magnificent Mansion
-*   Mirage Arcane
-*   Plane Shift
-*   Prismatic Spray
-*   Project Image
-*   Reverse Gravity
-*   Simulacrum
-*   Symbol
-*   Teleport \[Interplanetary\]
+- [:five: Blur](spells/blur.md)
+- [:five: Caustic Conversion](spells/acid_arrow.md)
+- [:five: Darkvision](spells/darkvision.md)
+- [:five: Enhance Ability](spells/enhance_ability.md)
+- [Implant Data](spells/implant_data.md)
+- [Inject Nanobots](spells/inject_nanobots.md)
+- [:five: Invisibility](spells/invisibility.md)
+- [:five: Knock](spells/knock.md)
+- [:five: Levitate](spells/levitate.md)
+- [Logic Bomb](spells/logic_bomb.md)
+- [:five: Magic Mouth](spells/magic_mouth.md)
+- [Make Whole](spells/make_whole.md)
+- [Microbot Assault](spells/microbot_assault.md)
+- [:five: Mirror Image](spells/mirror_image.md)
+- [:five: Misty Step](spells/misty_step.md)
+- [Rechargeᴿ](spells/recharge.md)
+- [Security Sealᴿ](spells/security_seal.md)
+- [:five: See Invisibility](spells/see_invisibility.md)
+- [:five: Shatter](spells/shatter.md)
+- [:five: Spider Climb](spells/spider_climb.md)
