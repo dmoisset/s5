@@ -42,6 +42,7 @@
 ## Space Travel
 
  1. [Space travel rules](starship/navigation.md)
+ 1. [Tactical rules](starship/tactical-rules.md)
  1. [Building starships](starship/build.md)
  1. [Starship combat](starship/combat.md)
  

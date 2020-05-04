@@ -10,33 +10,7 @@ Starship weapons and regular PC-level weapons work on different scales and aren�
 
 When the crew of a starship has hostile intentions toward another vessel, they go to their battle stations and activate their starship’s targeting systems. This is clearly obvious to all other starships in the vicinity with working sensors, though there could still be a chance a hostile vessel can be talked down, if the GM allows it.
 
-### Position 
-
-Starship combat is played on a grid of hexes with figures representing the starship combatants. The hexes don’t represent a specific distance, as Star5er’s portrayal of movement and combat in three-dimensional space is more fluid and narrative than realistic. Unless otherwise specified, each ship occupies 1 hex, regardless of its size.
-
-Starships on the grid have a specific orientation in the hex, with the bow of the ship always aiming to a hex side, not to a corner.
-
 No two starships are allowed to occupy the same hex. However, as space is three-dimensional, starships are allowed to move through an hex containing other starships, although doing this with an enemy exposes it to a [Fly-By Shot](#fly-by-shot).
-
-_arcs_
-
-### Movement
-
-A starship’s speed is the number of hexes it typically moves in a round. It can instead move fewer hexes than this amount, as determined by the pilot. This movement is in a straight line in the direction the starship is facing, though a starship’s facing can be altered while it moves by making turns (see below). A starship’s maximum speed modifies Piloting checks for that starship (detailed in the [Thrusters](build.md#thrusters) specs).
-
-While moving, a starship can make turns, altering its forward movement direction, firing arcs, and shield quadrants. One turn changes a starship’s forward facing by 60 degrees, or one side of a hex. Every round in which a starship turns, it must move a certain number of hexes before each turn, determined by its maneuverability. For example, a ship with average maneuverability(distance between turns 2) making two turns in a round must move at least 2 hexes before its first turn, and at least 2 more hexes before its second turn. If a starship has perfect maneuverability (the distance between turns is 0), the ship can make two turns for each hex that it moves (allowing it to take a full turn around a single point). The maneuverability is given by the [base frame](build.md#base-frame) plus possible penalties for its armor.
-
-The number of turns per round a starship can take is limited only by its speed and maneuverability. Turns don’t count against a starship’s movement speed. If a ship with average maneuverability (distance between turns 2) has a speed of 8, it can usually turn a total of four times during a single round.
-
-A ship’s maneuverability also modifies Piloting checks for it:
-
-|Maneuverability|Distance Between Turns|Piloting Check Modifier|
-|---------------|:--------------------:|:---------------------:|
-|Clumsy|4|–2|
-|Poor|3|–1|
-|Average|2|0|
-|Good|1|+1|
-|Perfect|0 (see above) |+2|
 
 ### Attacks
 
@@ -273,25 +247,38 @@ Instead of ordinary movement, pilots can attempt stunts with their starships, pu
 
 The starship moves up to half its speed in the direction of the aft edge without changing facing. It can’t take any turns during this movement. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 10). On a failed check, your starship moves backward only 1 hex. If you fail this check by 5 or more, your starship does not move at all and gunnery checks against it have advantage.
 
+![Back Off](../img/stunts-backoff.png)
+
 ##### Barrel Roll
 
 The starship moves up to half its speed and flips along its central axis. For the next gunnery phase, the starship’s port shields and weapons function as if they were in the starboard firing arc and vice versa. The starship reverts to normal at the beginning of the next round. To perform this stunt, your starship must be Large or smaller and you must succeed at a Dexterity (Piloting) check (DC 10). On a failed check, the starship moves half its speed but doesn’t roll. If you fail by 5 or more, your starship moves half its speed, doesn’t roll, and gunnery checks against it have advantage.
+
+![Barrel Roll](../img/stunts-barrelroll.png)
+
 
 ##### Evade
 
 The ship moves up to its speed and can turn as normal, but gunnery checks against it get disadvantage. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 10). If you fail, the starship moves as normal. If you fail the check by 5 or more, the starship moves as normal, but it also takes a –2 penalty to its AC and TL until the start of the next round.
 
+![Evade](../img/stunts-evade.png)
+
 ##### Flip And Burn
 
 The ship moves forward up to half its speed (without turning) and rotates 180 degrees to face the aft edge at the end of the movement. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 15). If you fail this check, your starship moves forward half its speed but doesn’t rotate.
+
+![Flip and Burn](../img/stunts-flipnburn.png)
 
 ##### Flyby
 
 The ship moves as normal, but it can move through 1 hex occupied by an enemy starship without provoking a [Fly-by Shot](#fly-by-shot). During the following gunnery phase, you can select one arc of your starship’s weapons to fire at the enemy vessel as if the vessel were in close range (treat the range as 1 hex), against any quadrant of the enemy starship. To perform this stunt, you must succeed at a Dexterity(Piloting) check (DC 15). If you fail this check, your starship still moves as described above, but you follow the normal rules for attacking (based on your starship’s final position and distance), and the movement provokes a [Fly-by Shot](#fly-by-shot) from that starship as normal.
 
+![Flyby](../img/stunts-flyby.png)
+
 ##### Slide
 
 The starship moves up to its speed in the direction of either the forward-port or forward-starboard edge without changing its facing. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 10). If you fail this check, the ship moves forward up to half its speed and can’t make any turns.
+
+![Slide](../img/stunts-slide.png)
 
 ##### Turn In Place
 

@@ -99,6 +99,8 @@ Each starship has a base frame that determines its size, maneuverability, starti
 
 The base frames below are organized by size (from smallest to largest) and cost in Build Points (with less expensive frames coming first within a size). In general, the size and expansion bay capacities of a base frame can’t be changed without a great deal of time and money (and the GM’s permission), so it can be more effective to just start over with a different base frame when upgrading those aspects of a starship.
 
+Note that some of the stats provided in a base frame will later be adjusted by the ship equipment of loadout. For example, each frame lists a maneuverability, but adding armor to the ship may result in a penalty to the final value.
+
 <div class="statblock">
 
 # Racer
@@ -325,7 +327,7 @@ The power core is the most important system on a ship, as it provides power to e
 
 ## Thrusters
 
-Ships rely on conventional thrusters to move between locations in a system, to navigate the reaches of the Drift once they arrive there, to explore, and to engage in combat They are designed for ships of a specific size (specified in the Size column of the table below), and they can’t be installed in a ship of an incorrect size. The maximum speed of a starship’s thrusters either grants a bonus or imparts a penalty to Piloting checks to fly the vessel, as noted on the table below.
+Ships rely on conventional thrusters to move between locations in a system, to navigate the reaches of the Drift once they arrive there, to explore, and to engage in combat They are designed for ships of a specific size (specified in the Size column of the table below), and they can’t be installed in a ship of an incorrect size. The maximum speed of a starship’s thrusters either grants a bonus or imparts a penalty to Dexterity (Piloting) checks to fly the vessel, as noted on the table below.
 
 Thrusters are also used when landing on and taking off from a planet. Large and smaller Starships generally have little difficulty landing on and taking off from a planet with low gravity or standard gravity (unless there are atmospheric conditions such as high winds or storms). The GM determines whether or not a starship’s pilot must attempt a Dexterity (Piloting) check to land a starship with a speed lower than 8 on a planet with high gravity, with failure meaning it might crash. Due to their sheer size, Huge and larger starships can’t land on planets, and must use shuttles or other means to ferry crew and goods to a planet and back.
 
