@@ -18,11 +18,19 @@ Unlike ground combat, orientation of the starships is significant. Tactical use 
 
 Starships on the grid have a specific orientation in their hex, with the bow of the ship always aiming to one of the six hex sides, and never towards a corner:
 
+<div class="figure">
+
 ![Ship Orientation](../img/orientation.png)
+
+</div>
 
 For each ship, its orientation determines four quadrants, called "arcs", as seem in the diagram below. The place (**firing arc**)were weapons are mounted (and some special qualities) will determine which arcs it may shoot, and enemies in a given arc will affect shields in that arc (**shield quadrant**).
 
+<div class="figure">
+
 ![Ship Quadrants](../img/arcs.png)
+
+</div>
 
  Hexes marked in blue in the diagram can be assigned to two different arcs. Each round, characters on that ship must decided which arc corresponds to each one of those hexes, if relevant. 
 
@@ -48,7 +56,11 @@ While moving, a starship can make turns, altering its orientation, firing arcs, 
 
  For example, a ship with average maneuverability(distance between turns 2) making two turns in a round must move at least 2 hexes before turning for the first time in a round, and at least 2 more hexes before its turning again. If a starship has perfect maneuverability (the distance between turns is 0), the ship can make two turns (120⁰, or 2 hex sides) for each hex that it moves (allowing it to take a full turn around a single point). 
  
+ <div class="figure">
+
  ![Maneuverability](../img/maneuverability.png)
+
+</div>
 
 The number of turns per round a starship can take is limited only by its speed and maneuverability. Turns don’t count against a starship’s movement speed. If a ship with average maneuverability (distance between turns 2) has a speed of 8, it can usually turn up to a total of four times during a single round; the last turn would be after doing all its movement.
 
