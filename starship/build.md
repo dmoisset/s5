@@ -79,20 +79,6 @@ When creating a starship, follow these steps.
 
 A starship has a proficiency bonus equivalent to a character with the same level as the ship tier. This bonus is used in some checks and rolls for autonomous actions made by the ship or its systems. Characters with a lower proficiency bonus can not add their proficiency bonus when rolling for checks to operate the ship.
 
-## Starship scale
-
-Though the size categories of starships have the same names as the size categories of creatures, they operate on completely different scales. Even within a size category, a starship’s exact measurements might differ between base frames and manufacturers. The size of a starship also modifies its Armor Class and Target Lock as indicated.
-
-|Size      |Length (ft)     |Weight (tons)   |AC and TL Modifier|
-|----------|---------------:|---------------:|:----------------:|
-|Tiny      |20–60 ft.       |3–20 tons       |                +2|
-|Small     |60–120 ft.      |20–40 tons      |                +1|
-|Medium    |120–300 ft.     |40–150 tons     |                 0|
-|Large     |300–800 ft.     |150–420 tons    |                –1|
-|Huge      |800–2,000 ft.   |420–1,200 tons  |                –2|
-|Gargantuan|2,000–15,000 ft.|1,200–8,000 tons|                –3|
-|Colossal  |Over 15,000 ft. |Over 8,000 tons |                –4|
-
 ## Base Frame
 
 Each starship has a base frame that determines its size, maneuverability, starting weapon mounts, hull strength, room for expansion, and other capacities. Although two ships that use the same frame might look radically different, they both have some of these base statistics in common. The frame of a starship includes all life support and artificial gravity systems necessary to keep the crew (and any passengers) alive and comfortable. The starship’s frame is also built with a transponder that is essentially the ship’s “address” for standard system-wide and unlimited-range communications; this transponder can be turned off, during which time the starship can’t send or receive messages, but neither can it be tracked down by conventional means.

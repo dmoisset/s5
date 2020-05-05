@@ -21,9 +21,8 @@ tr:nth-child(even) {
     background-color: #333;
 }
 
-#main_content img {
-  margin: 0 auto;
-  display: block;
+#main_content div.figure {
+  text-align: center;
 }
 
 /* Special headers in weapon table*/

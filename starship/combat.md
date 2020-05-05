@@ -30,10 +30,6 @@ When a gunner hits with an attack, she rolls the damage dealt by the weapon she 
 
 If a starship has a Damage Threshold, any attack that would deal damage to its Hull Points equal to or less than this Damage Threshold fails to damage the ship’s Hull Points. If the damage is greater than the Damage Threshold, the full amount of damage is dealt to the ship’s Hull Points.
 
-If a ship is reduced to 0 or fewer Hull Points, it is disabled and it floats in its current direction of travel at a rate of half its speed until it is repaired, rescued, or destroyed. Crew members aboard such ships are not in immediate danger unless their life-support system is wrecked, but they might eventually die from starvation and thirst if they have no way to repair the ship.
-
-If a ship ever takes damage that exceeds twice its Hull Points, it is destroyed and can’t be repaired. All systems stop functioning, and the hull is compromised. The crew might initially survive, but without protection, they won’t live very long.
-
 ### Critical Damage
 
 Starship systems can take critical damage, causing them to become less functional and eventually stop working altogether.
@@ -247,38 +243,61 @@ Instead of ordinary movement, pilots can attempt stunts with their starships, pu
 
 The starship moves up to half its speed in the direction of the aft edge without changing facing. It can’t take any turns during this movement. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 10). On a failed check, your starship moves backward only 1 hex. If you fail this check by 5 or more, your starship does not move at all and gunnery checks against it have advantage.
 
+<div class="figure">
+
 ![Back Off](../img/stunts-backoff.png)
+
+</div>
 
 ##### Barrel Roll
 
 The starship moves up to half its speed and flips along its central axis. For the next gunnery phase, the starship’s port shields and weapons function as if they were in the starboard firing arc and vice versa. The starship reverts to normal at the beginning of the next round. To perform this stunt, your starship must be Large or smaller and you must succeed at a Dexterity (Piloting) check (DC 10). On a failed check, the starship moves half its speed but doesn’t roll. If you fail by 5 or more, your starship moves half its speed, doesn’t roll, and gunnery checks against it have advantage.
 
+<div class="figure">
+
 ![Barrel Roll](../img/stunts-barrelroll.png)
 
+</div>
 
 ##### Evade
 
 The ship moves up to its speed and can turn as normal, but gunnery checks against it get disadvantage. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 10). If you fail, the starship moves as normal. If you fail the check by 5 or more, the starship moves as normal, but it also takes a –2 penalty to its AC and TL until the start of the next round.
 
+<div class="figure left">
+
 ![Evade](../img/stunts-evade.png)
+
+</div>
 
 ##### Flip And Burn
 
 The ship moves forward up to half its speed (without turning) and rotates 180 degrees to face the aft edge at the end of the movement. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 15). If you fail this check, your starship moves forward half its speed but doesn’t rotate.
 
+<div class="figure">
+
 ![Flip and Burn](../img/stunts-flipnburn.png)
+
+</div>
 
 ##### Flyby
 
 The ship moves as normal, but it can move through 1 hex occupied by an enemy starship without provoking a [Fly-by Shot](#fly-by-shot). During the following gunnery phase, you can select one arc of your starship’s weapons to fire at the enemy vessel as if the vessel were in close range (treat the range as 1 hex), against any quadrant of the enemy starship. To perform this stunt, you must succeed at a Dexterity(Piloting) check (DC 15). If you fail this check, your starship still moves as described above, but you follow the normal rules for attacking (based on your starship’s final position and distance), and the movement provokes a [Fly-by Shot](#fly-by-shot) from that starship as normal.
 
+<div class="figure">
+
 ![Flyby](../img/stunts-flyby.png)
+
+</div>
 
 ##### Slide
 
 The starship moves up to its speed in the direction of either the forward-port or forward-starboard edge without changing its facing. To perform this stunt, you must succeed at a Dexterity (Piloting) check (DC 10). If you fail this check, the ship moves forward up to half its speed and can’t make any turns.
 
+<div class="figure">
+
 ![Slide](../img/stunts-slide.png)
+
+</div>
 
 ##### Turn In Place
 
