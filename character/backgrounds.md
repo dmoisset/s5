@@ -75,7 +75,7 @@ Choose a specialization (bioengineering, biology, botany, ecology, genetics, xen
 
 **Skill proficiencies:** Culture, one of Life Science or Physical Science    
 **Language proficiencies:** Two racial tongues or planetary languages of your choice    
-**Equipment:** A degree, datapad. 100 CR    
+**Equipment:** A diploma in your degree, datapad. 100 CR    
 **Feature:** You know places where to find knowledge. You get advantage on Science checks related to your specific specialization.
 
 ## Spacefarer
