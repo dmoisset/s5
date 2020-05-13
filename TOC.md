@@ -38,6 +38,7 @@
     1. [Solarian](character/classes/solarian.md)
  1. [Backgrounds](character/backgrounds.md)
  1. [Feats](character/feats.md)
+ 1. [Character Sheet (PDF)](character/Character Sheet - Star5er - 1.1.pdf)
 
 ## Space Travel
 
