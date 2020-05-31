@@ -165,7 +165,7 @@ At 12th level, you can spend 1 Resolve Point and use your action to give a movin
 
 ### Engineer Actions
 
-As an engineer, you can take any of the following actions, depending on your ranks in the Engineering skill. These actions can be taken only during the engineering phase. Unless otherwise noted, each action can be performed only once per round, no matter how many engineers are on a starship.
+As an engineer, you can take any of the following actions, depending on your level. These actions can be taken only during the engineering phase. Unless otherwise noted, each action can be performed only once per round, no matter how many engineers are on a starship.
 
 #### Divert
 
