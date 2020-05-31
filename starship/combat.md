@@ -339,7 +339,7 @@ At 6th level, if you are proficient in Computers, you can lock your starship’s
 
 #### Improve Countermeasures
 
-At 6th level, if you are proficient in Computers, you can try to foil enemy targeting arrays and incoming projectiles by spending 1 Resolve Point and attempting an Intelligence (Computers) check vs the passive defense of an enemy starship. If you’re successful, gunners aboard the target starship have disadvantage to gunnery checks against your starship (including checks for tracking weapons).
+At 12th level, if you are proficient in Computers, you can try to foil enemy targeting arrays and incoming projectiles by spending 1 Resolve Point and attempting an Intelligence (Computers) check vs the passive defense of an enemy starship. If you’re successful, gunners aboard the target starship have disadvantage to gunnery checks against your starship (including checks for tracking weapons).
 
 ### Minor Crew Actions
 
