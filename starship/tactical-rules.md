@@ -32,7 +32,7 @@ For each ship, its orientation determines four quadrants, called "arcs", as seem
 
 </div>
 
- Hexes marked in blue in the diagram can be assigned to two different arcs. Each round, characters on that ship must decided which arc corresponds to each one of those hexes, if relevant. 
+Hexes marked in blue in the diagram are always considered in the forward/aft arcs, never in the port/starboard arcs.
 
 ## Movement
 
