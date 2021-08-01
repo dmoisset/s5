@@ -4,6 +4,7 @@
 ## Cantrips (0 Level)
 
 - [:five: Chill Touch](spells/chill_touch.md)
+- [Daze](spells/daze.md)
 - [Grave Words](spells/grave_words.md)
 - [:five: Mage Hand](spells/mage_hand.md)
 - [:five: Mending](spells/mending.md)
@@ -54,6 +55,7 @@
 
 - [:five: Acid Splash](spells/acid_splash.md)
 - [:five: Dancing Lights](spells/dancing_lights.md)
+- [Daze](spells/daze.md)
 - [:five: Fire Bolt](spells/fire_bolt.md)
 - [:five: Jolting Surge](spells/shocking_grasp.md)
 - [Kinetic Barrier](spells/kinetic_barrier.md)
