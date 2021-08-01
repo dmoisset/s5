@@ -684,7 +684,7 @@ A weapon with this special property fires a beam in a straight line that can pie
 
 #### Point
 
-A weapon with this special property is always short range and can’t be fired against targets that are outside the listed weapon range. If a tracking weapon would hit a ship in an arc that contains a weapon with the point special property, the gunner of the targeted starship can use her reaction to make a gunnery check with the point weapon against the incoming tracking projectile using the bonus listed in parentheses in the weapon’s Special entry (instead of her usual bonus to gunnery checks). The DC for this gunnery check is equal to 10 + the tracking weapon’s speed. If the attack hits, the tracking weapon is destroyed before it can damage the ship. A point weapon can be used to attempt only one such free gunnery check each round, but this usage potentially allows a point weapon to be fired twice in a single round.
+A weapon with this special property is always short range and can’t be fired against targets that are outside the listed weapon range. If a tracking weapon would hit a ship in an arc that contains a weapon with the point special property, the gunner of the targeted starship can use her reaction to make a gunnery check with the point weapon against the incoming tracking projectile adding the bonus listed in parentheses in the weapon’s Special entry. The DC for this gunnery check is equal to 10 + the tracking weapon’s speed. If the attack hits, the tracking weapon is destroyed before it can damage the ship. A point weapon can be used to attempt only one such free gunnery check each round, but this usage potentially allows a point weapon to be fired twice in a single round.
 
 #### Quantum
 
@@ -708,9 +708,9 @@ A weapon with this special property creates a spiraling cyclone of gravitons tha
 |------|:--:|:---:|----:|:----:|--:|--------:|------------------|
 |Chain Cannon|Direct-Fire|Short|—|6d4|15|15|Ripper|
 |Coilgun|Direct-Fire|Long|—|4d4|10|6|—|
-|Flak Thrower|Direct-Fire|Short|—|3d4|10|5|Point (+8)|
+|Flak Thrower|Direct-Fire|Short|—|3d4|10|5|Point (+2)|
 |Gyrolaser|Direct-Fire|Short|—|1d8|10|3|Broad Arc|
-|Laser Net|Direct-Fire|Short|—|2d6|10|9|Point (+10)|
+|Laser Net|Direct-Fire|Short|—|2d6|10|9|Point (+4)|
 |Light EMP Cannon|Direct-Fire|Short|—|Special|10|8|EMP|
 |Light Laser Cannon|Direct-Fire|Short|—|2d4|5|2|—|
 |Light Particle Cannon|Direct-Fire|Medium|—|3d6|10|10|—|
@@ -730,7 +730,7 @@ A weapon with this special property creates a spiraling cyclone of gravitons tha
 |Heavy EMP Cannon|Direct-Fire|Medium|—|Special|30|24|EMP|
 |Heavy Laser Array|Direct-Fire|Short|—|6d4|15|10|Array|
 |Heavy Laser Cannon|Direct-Fire|Medium|—|4d8|10|8|—|
-|Heavy Laser Net|Direct-Fire|Short|—|5d6|15|12|Point (+12)|
+|Heavy Laser Net|Direct-Fire|Short|—|5d6|15|12|Point (+6)|
 |Maser|Direct-Fire|Long|—|6d10|35|22|—|
 |Particle Beam|Direct-Fire|Long|—|8d6|25|15|—|
 |Persistent Particle Beam|Direct-Fire|Long|—|10d6|40|25|—|
