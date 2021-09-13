@@ -189,7 +189,7 @@ Ysoki have the following traits:
 
 **Darkvision.** Ysoki have darkvision of 60 ft.
 
-**Moxie.** A ysoki can stand from prone by sepnding a bonus action and no movement. Ysoki can move through the space of
+**Moxie.** A ysoki can stand from prone by spending a bonus action and no movement. Ysoki can move through the space of
 any creature of a size larger than them.
 
 **Scrounger.** Ysoki get advantage to Dexterity (Stealth) checks.
