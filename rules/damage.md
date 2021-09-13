@@ -32,7 +32,6 @@ lists the abbreviations:
 Some weapons or effects indicate two damage types. For example, a plasma sword could be described as dealing "5d8 E & F".
 When dealing damage with that weapon, roll 5d8, and half the result (rounded down) will be the first kind of damage listed
 (i.e. electricity), and the remaining damage will be fire. If you rolled a total of 25, that means the target will receive
-12 points of fire damage and 13 of electricity. Note thats those damages will go separately through any resistance/immunity
-that the target may have (for example, if the target is resistant to electricity and vulnerable to fire, it will take 24 points
+12 points of electricity damage and 13 of fire. Note thats those damages will go separately through any resistance/immunity
+that the target may have (for example, if the target is resistant to electricity and vulnerable to fire, it will take 26 points
 of damage due to the fire, and 6 due to the electricity)
-

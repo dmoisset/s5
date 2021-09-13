@@ -151,7 +151,7 @@ The following alphabetical list describes all the Star5er skills. The skills lab
 ## Converting 5e content
 
 If you're are using content designed for 5th edition D&D in your Star5er game, you may find that it refers to skills
-that no longer exit. You may find a magical mask that gives you advantage on Wisdom (Animal Handling) checks, a
+that no longer exist. You may find a magical mask that gives you advantage on Wisdom (Animal Handling) checks, a
 written module may call for a Intelligence (History) check to find some clue, or a character background you like may
 give you proficiency in Intelligence (Nature) checks.
 

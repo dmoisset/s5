@@ -1,9 +1,9 @@
 # Health and Resolve
 
-The star5er system uses some rules for health that are significantly different to D&D (inspired on the Starfinder RPG). These rules try to make the feel of the game slightly different than epic fantasy; characters may get some wounds that take a few days to recover, but at the same time, a wounded character should be able to function and go on adventure without ruining the player experience. This also allows making a reliable ship doctor and advanced medical equipment more relevant to the stories that you'll tell while playing Star5er. The rules have less of a chance based element (including how your max HP is determied), making some forms of recovery more reliable.
+The star5er system uses some rules for health that are significantly different to D&D (inspired on the Starfinder RPG). These rules try to make the feel of the game slightly different than epic fantasy; characters may get some wounds that take a few days to recover, but at the same time, a wounded character should be able to function and go on adventure without ruining the player experience. This also allows making a reliable ship doctor and advanced medical equipment more relevant to the stories that you'll tell while playing Star5er. The rules have less of a chance based element (including how your max HP is determined), making some forms of recovery more reliable.
 
 Besides the usual hit points (and occassional temporary hit points), a Star5er Player Character has the following resources:
-* Stamina Points: these are used to absord damage before using your hit points.
+* Stamina Points: these are used to absorb damage before using your hit points.
 * Resolve Points: these are used to delay death, stabilize, and power some special abilities.
 
 A Star5er character does NOT have the following:
@@ -18,7 +18,7 @@ You regain up to your maximum SP after a short rest. On a long rest, you just re
 
 Each race grants a certain number of racial HP (typically 4 for most playable classes, 2 for the smaller ones, 6 for particularly strong ones like Dragonborn and Vesk).
 
-Each class grants a specific number of maximum HP per level (ranging from 2 to 4 HP) and a certain number of maxiumum SP per level (2 or 3 SP). A character also gets a number of maximum stamina points equal to his constitution modifier per each level she has (and this maximum is adjusted if the modifier changes). A negative modifier can subtract the SP gained but you can never lose SP:
+Each class grants a specific number of maximum HP per level (ranging from 2 to 4 HP) and a certain number of maximum SP per level (2 or 3 SP). A character also gets a number of maximum stamina points equal to his constitution modifier per each level she has (and this maximum is adjusted if the modifier changes). A negative modifier can subtract the SP gained but you can never lose SP:
 
 If you are using a class from other 5e source, use the following table to get the number of HP/SP gained per level based on the kind of hit dice:
 
@@ -86,9 +86,9 @@ Twitch is a level 9 Ysoki Mechanic. Her Constitution score is 12, giving a bonus
 
 Grax is a level 4 Vesk Barbarian. His Constitution bonus is +3 (which is also his key ability bonus). Vesks are sturdy and get 6 racial HP. Barbarians have a d12 hit die in D&D, so in Star5er they get 4 HP per level and 3+Con SP per level. So we can calculate:
 
-* Grax has half her levels (4 halved, i.e. 2) plus his key ability modifier (i.e +3). So she has a maximum of 2+3 = 5 RP
-* Grax gets 6 HP from his race, and 4 HP per each of his 4 levels. So she has a Max HP of 6 + 4×4 = 22 HP.
-* For each of his 4 levels, Grax gets 3 SP + 3 bonus SP given his constitution. So she has a Max SP of (3 + 3)×4 = 24 SP.
+* Grax has half his levels (4 halved, i.e. 2) plus his key ability modifier (i.e +3). So he has a maximum of 2+3 = 5 RP
+* Grax gets 6 HP from his race, and 4 HP per each of his 4 levels. So he has a Max HP of 6 + 4×4 = 22 HP.
+* For each of his 4 levels, Grax gets 3 SP + 3 bonus SP given his constitution. So he has a Max SP of (3 + 3)×4 = 24 SP.
 
 # Getting Knocked Out, Stabilizing, Dying
 
