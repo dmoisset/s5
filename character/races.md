@@ -140,7 +140,7 @@ sense are considered lightly obscured.
 **Communalism.** Once, as long as an ally is within 10 feet, a shirren can roll a single attack roll or skill check
 at advantage. This ability is recovered after a long rest.
 
-**Cultural Fascination.** Shirrents are proficient in the Culture skill.
+**Cultural Fascination.** Shirrens are proficient in the Culture skill.
 
 **Limited Telepathy.** Shirrens can mentally communicate with any creatures within 30 feet with whom they share a language.
 
