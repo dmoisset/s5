@@ -35,7 +35,7 @@ A bleeding target must make a Constitution saving throw at the beginning of each
 
 ### Burn
 
-The target starts burning. A burning target takes the given fire damage at the start of each of its turns. A target can spend an action to douse the fire.
+The target gets the [burning](../rules/conditions.md#burning) condition.
 
 ### Corrode
 
