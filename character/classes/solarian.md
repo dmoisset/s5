@@ -29,15 +29,15 @@ The stars guide the planets with gravity, create life with light and heat, and u
 
 ### Hit Points
 
-**Hit Points per level:** 3    
+**Hit Points per level:** 3
 **Stamina Points per level:** 3 + your Constitution Modifier
 
 ### Proficiencies
 
-**Armor:** Light Armor    
-**Weapons:** Simple and Martial Melee Weapons, Simple Ranged weapons    
-**Tools:** Starship weapons    
-**Saving Throws:** Constitution, Charisma    
+**Armor:** Light Armor
+**Weapons:** Simple and Martial Melee Weapons, Simple Ranged weapons
+**Tools:** Starship weapons
+**Saving Throws:** Constitution, Charisma
 **Skills:** Choose two from Acrobatics, Athletics, Insight, Intimidate, Investigation, Mysticism, Perception, Persuasion, Physical Science, Stealth
 
 ### Equipment
@@ -54,6 +54,7 @@ You start with the following equipment in addition to the equipment granted by y
 As part of the process that led you to become a solarian, you gained additional insight and training. Choose an additional skill to be proficient with.
 
 ### Solar Manifestation
+
 At 1st level, you gain a physical manifestation of your stellar power. The base form of your solar manifestation, when not actively in use, is a mote of stellar energy slightly smaller than your fist that hovers near your head. Beyond the solar mote, your manifestation can take one of two additional forms: armor or a weapon. You must pick one [solar manifestation](#solar-manifestations) (either armor or a weapon) upon taking your first level of solarian. You also choose whether your solar manifestation (in any form) either glows brightly with one color common to stars (including blue, red, white, or yellow) or is the perfect darkness of a black hole. A glowing solar manifestation, regardless of its form, sheds dim light in a 20-foot radius. You can shut off the light or darkness as an  action in order to blend in or assist in stealth, but whenever you enter a stellar mode (see below), the glow or darkness returns immediately. Once made, these choices cannot be changed.
 
 Your [solar manifestation](#solar-manifestations) grants you some abilities at 1st, 5th, 10th, 15th and 20th level.
@@ -113,7 +114,7 @@ Beginning at 13th level, you can attack twice, instead of once, whenever you tak
 When you reach 20th level, you are the spiritual kin of the stars themselves. As a bonus action, you can raise or lower light levels within 30 feet of yourself by one step. You can gain 2 attunement points (of the same type) at the beginning of your turn, allowing you to become fully attuned after 2 rounds.
 In addition, you can spend 1 Resolve Point to gain enough attunement points to be fully attuned on the first round of combat (but not after using a [zenith revelation](#zenith-revelations)), or spend 1 Resolve Point at the start of your turn in combat to exchange all of your attunement points in one [stellar mode](#stellar-mode) for an equal number of attunement points in the other mode. For example, you can switch from being fully attuned in graviton mode to being fully attuned in photon mode.
 
-## Stellar Revelations
+## Stellar Revelation Descriptions
 
 You learn your first stellar revelation at 2nd level, and learn an additional revelation every 2 levels thereafter. Stellar revelations require you to have a minimum level, and are organized accordingly. Additionally, each is marked with a symbol that indicates whether it is a :eight_pointed_black_star: graviton revelation or a :eight_spoked_asterisk: photon revelation.
 
@@ -168,30 +169,118 @@ You gain the Charger feat
 When you are attuned or fully attuned, and charging to shove (with at least 10 feet in straight line at the end of the dash) you can burst in flames while doing so. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Dexterity save for half). This damage increases by 1d6 at 6th level and every 2 levels thereafter.
 
 ## Stellar Revelations (level 6)
+
 The following revelations can only be chosen when you’re at least 6th level
+
 ### Astrologic Sense :eight_spoked_asterisk:
+
+You can sense the movement of all objects influencing you to gain insight into upcoming events. Once per day as an action, you can try to determine whether a particular action of yours will bring good or bad results for you in the immediate future. This functions as [augury](](../../magic/spells/augury.html). You can spend 1 Resolve Point to use this revelation again on the same day, but you still can’t use it more than once per hour.
+
+When you are attuned or fully attuned, you can see 1 hour into the future (instead of half an hour as is normal for _augury_) when you use this revelation.
+
 ### Blazing Orbit:eight_spoked_asterisk:
+
+As a bonus action, you gain protection against opportunity attacks, and any attack against you during your turn gets disadvantage. You can leave a trail of flames in every square you pass through after enabling this ability. The flames last until the beginning of your next round and deal 2d6 fire damage to anyone who moves into them. You can’t move through another creature’s space while doing this. If you use blazing orbit again, any flames you previously created with it go out. The damage from the flames increases by 1d6 at 8th level and every 2 levels thereafter.
+
+When you are attuned or fully attuned, any creature damaged by the flames also gains the burning condition (1d6 fire damage).
+
 ### Corona:eight_spoked_asterisk:
+
+As an action, you can surround your body with an envelope of fiery plasma. You gain cold resistance, and any adjacent creature that hits you with a natural weapon or a melee weapon takes 2d6 fire damage. The corona lasts until the beginning of your next turn. The damage increases by 1d6 when you reach 11th level (3d6) and 17th level (4d6).
+
+When you are attuned or fully attuned, any creature that starts its turn adjacent to you while your corona is in effect takes 2d6 fire damage.
+
 ### Crush:eight_pointed_black_star:
+
+As an action, you can increase the effects of gravity on the internal organs or workings of a target within 30 feet, causing it to have difficulty maintaining its normal functionality. The target must succeed at a Constitution save or become staggered until the beginning of your next turn. This revelation also affects constructs. You can maintain this effect as a bonus action each round, but the target is allowed a new saving throw during your attempt to end the effect. Once a creature succeeds at this save or the effect ends, you can’t target that creature with crush again for 24 hours.
+
+When you are attuned or fully attuned, you can spend 1 Resolve Point to also stun the target for 1 round. Maintaining crush on subsequent rounds extends the staggered effect, but not the stunned effect.
+
 ### Defy Gravity :eight_pointed_black_star:
+
+As a bonus action, you gain the ability to fly using your remaining movement. You lose this flight ability by the end of your turn, falling if you don't have other means of support.
+
+When you are attuned or fully attuned, you gain an additional 30 feet of movement for this turn.
+
 ### Glow of Life :eight_spoked_asterisk:
+
+As a bonus action, you can spend 1 Resolve Point to recover a number of Hit Points equal to your solarian level. Once you use this revelation, you can’t use it again until your next short rest.
+
+When you are attuned or fully attuned, increase the amount you heal with this revelation to two times your solarian level.
+
 ### Gravity Surge :eight_pointed_black_star:
+
+As an action, you can perform a disarm or trip attempt against a target within 30 feet. Make an attack with your Revelation Attack bonus, if successful your target drops an object they are holding or is dropped prone (your choice).
+
+When you are attuned or fully attuned, if you disarm a target with gravity surge and have a hand free, the dropped item flies toward you and you can snatch it from the air. If you trip a target with gravity surge, you can pull the target up to 10 feet closer to you.
+
 ### Hypnotic Glow :eight_spoked_asterisk:
+
+As an action, you can convince one living creature that you are to be trusted. This functions as [_charm person_](../../magic/spells/charm_person.md), but with a duration of 1 minute. When the effect ends, if you are out of line of sight and the target is not engaged in an activity it wouldn’t have begun without being charmed, the target does not realize it was charmed or has acted unusually unless someone else points it out. You can’t use this revelation again while you currently have a creature charmed via this ability, and once you’ve attempted to charm a creature, whether or not the attempt was successful, you can’t charm the same creature again for 24 hours. Your influence over the creature ends once the duration has expired, and at that time the target likely ceases doing anything you’ve requested of it. At 9th level, hypnotic glow can be used also against non-humanoids.
+
+When you are attuned or fully attuned and you successfully charm a creature using this ability, you can also command it to approach, flee, or halt on its next turn, as per the [_command_](](../../magic/spells/command.md) spell (with no additional save).
+
 ### Reflection :eight_pointed_black_star:
+
+You can reflect ranged attacks back at your enemies. If you took the dodge action on your last turn, or by spending 1 Resolve Point, as a reaction you can redirect a ranged attack that misses you. Select a new target within 30 feet and make a ranged attack roll with disadvantage. If your attack hits, the new target is damaged as if it had been the intended target of the original ranged attack.
+
+When you are attuned or fully attuned, you don’t take disadvantage to your redirected attack roll.
+
 ## Stellar Revelations (level 10)
+
 The following revelations can only be chosen when you’re at least 10th level
+
 ### Soul Furnace :eight_spoked_asterisk:
+
+You can stoke the internal energy of your entire physiology, allowing you to boost your life processes. As a bonus action, you can spend 1 Resolve Point. If you are suffering from an affliction (a curse, disease, drug or poison), you can immediately attempt an additional saving throw at the affliction’s normal save DC. If you succeed at this saving throw, the affliction ends (regardless of how many successful saving throws it normally takes to end the affliction). Once you have used this revelation, you can’t use it again until your next short rest.
+
+When you are attuned or fully attuned, you can also use this revelation to end any one of the following conditions/effects you have: bleeding, blinded, burning, frightened, or poisoned. Alternatively you can use it to remove 1 level of exhaustion.
+
 ### Stealth Warp :eight_pointed_black_star:
+
+You can bend light, sound, and even vibrations around your body, making you harder to notice. As a bonus action, you can grant you advantage to Dexterity(Stealth) checks. This lasts until the beginning of your next turn or until you leave graviton mode.
+
+When you are attuned or fully attuned, you can use this revelation to reduce your sensory output so much that you can attempt to Hide even if observed. You are not invisible, simply difficult to see clearly, and if a creature was observing you prior to your Hide attempt, it remains aware of your location until you successfully reach cover or concealment. Your stealth warp ends if you make an attack or cast a spell, or at the beginning of your next turn unless you immediately take another bonus action to use this revelation.
+
 ## Stellar Revelations (level 14)
+
 The following revelations can only be chosen when you’re at least 14th level
+
 ### Gravity Shield :eight_pointed_black_star:
+
+As a bonus action, you can create a minor shield of compressed gravity waves, granting you a +1 bonus to your AC. The shield lasts until the beginning of your next turn or until you leave graviton mode.
+
+When you are attuned or fully attuned, as a move action, you can create a disk of massive gravitational energies that is capable of deflecting incoming attacks. The shield extends over one edge of your space (you choose which one). The shield provides cover against attacks coming from its far side, but not against attacks originating from the side you’re on. If you move, you can reposition your shield as part of your movement, moving it to a different edge of your space. You must use one of your hands to direct and maintain an active gravity shield. You cannot use this version of the gravity shield at the same time you use this revelation to gain a circumstance bonus to your AC. This gravity shield also lasts until the beginning of your next turn or until you leave graviton mode.
+
 ### Sunbolt :eight_spoked_asterisk:
+
+As an action, you can fire a bolt of concentrated solar energy at one target within 120 ft as a ranged revelation attack. If you hit, you deal 9d6 fire damage. If you have a solarian crystal that changes the type of damage dealt by a solar weapon, you can use it to change the type of damage you deal with your sunbolt. Once you have used this revelation, you can’t use it again until you take a short rest.
+
+When you are attuned or fully attuned, you gain advantage to your attack roll to use this revelation.
+
 ## Stellar Revelations (level 16)
+
 The following revelations can only be chosen when you’re at least 16th level
+
 ### Ultimate Graviton :eight_pointed_black_star:
+
+As your ability to manipulate powers of gravity expands, the range of any graviton revelation (but not zenith revelation) you have with a range doubles. Any graviton revelation (but not zenith revelation) you have that targets a single creature can now simultaneously target two creatures, who must be within 20 feet of each other. You also increase the power of any of the following gravity revelations you have.
+
+- Defy Gravity: You get an additional 15 feet of movement when using this revelation
+- Gravity Anchor: When using this revelation, you can gain both types of gravity anchor simultaneously.
+- Gravity Boost: Your bonus applies to all Strength checks, and you take no damage from any fall.
+- Reflection: If you successfully redirect an attack you recover your reaction, but this reaction can only be used for this ability. This can be repeated multiple times. If any reflected attack misses, your reaction is spent and you can’t make further redirect attempts until you use this revelation again.
+
 ### Ultimate Photon :eight_spoked_asterisk:
 
-## Zenith Revelations
+Your ability to manipulate powers of light and energy expand greatly. The radius of any photon revelation (but not zenith revelation) you have with a radius expands by 10 feet. Any photon revelation (but not zenith revelation) that lasts until the beginning of your next turn or until you leave photon mode can be extended by rolling 3 or more in 1d6 when starting your turn. You also increase the power of any of the following photon revelations you have.
+
+- Astrologic Sense: You can see twice as far into the future as normal.
+- Glow of Life: You can use this revelation as a free action, rather than a bonus action.
+- Hypnotic Glow: The charm’s duration doubles.
+- Stellar Rush: You gain a +2 bonus to your AC until the beginning of your next turn.
+
+## Zenith Revelation Descriptions
 
 The following is the full list of Zenith Revelations. All of them require full attunement, and spend the attunement when used.
 
@@ -200,16 +289,23 @@ The following is the full list of Zenith Revelations. All of them require full a
 When you’re fully graviton-attuned, as an action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Strength saving throw or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you.
 
 ### Miniature Star :eight_spoked_asterisk:
+
 ### Particle Wave :eight_spoked_asterisk:
+
 ### Quantum Entrapment :eight_pointed_black_star:
+
 ### Ray of Light :eight_spoked_asterisk:
+
 ### Solar Acceleration :eight_spoked_asterisk:
+
 ### Starquake :eight_pointed_black_star:
+
 ### Supernova :eight_spoked_asterisk:
 
 When you’re fully photon-attuned, as an action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a Dexterity saving throw takes half damage. At 9th level, you can increase the radius to 15 feet, and at 17th level, you can increase the radius to 20 feet.
 
 ### Time Dilation :eight_pointed_black_star:
+
 ### Wormholes :eight_pointed_black_star:
 
 ## Solar Manifestations
