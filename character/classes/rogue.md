@@ -45,7 +45,7 @@ As a rogue, you gain the following class features.
 
 **Saving Throws:** Dexterity, Intelligence
 
-**Skills:** Choose two skills from Acrobatics, Athletics, Deception, Computers, Culture, Engineering, Insight, Intimidation, 
+**Skills:** Choose four skills from Acrobatics, Athletics, Computers, Culture, Deception, Engineering, Insight, Intimidation,
 Investigation, Perception, Piloting, Sleight of Hand and Stealth
 
 **Equipment:** You start with the following equipment, in addition to the equipment granted by your background:
