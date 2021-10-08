@@ -34,10 +34,14 @@ The stars guide the planets with gravity, create life with light and heat, and u
 
 ### Proficiencies
 
-**Armor:** Light Armor
+**Armor:** Light and Medium Armor
+
 **Weapons:** Simple and Martial Melee Weapons, Simple Ranged weapons
+
 **Tools:** Starship weapons
+
 **Saving Throws:** Constitution, Charisma
+
 **Skills:** Choose two from Acrobatics, Athletics, Insight, Intimidate, Investigation, Mysticism, Perception, Persuasion, Physical Science, Stealth
 
 ### Equipment

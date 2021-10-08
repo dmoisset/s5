@@ -35,7 +35,7 @@ __Stamina Points:__ 2 + your Constitution modifier per level
 
 ### Proficiencies
 
-__Armor:__ A mechanic is proficient with Light Armor
+__Armor:__ A mechanic is proficient with Light and Medium Armor
 
 __Weapons:__ A mechanic is also proficient with simple modern weapons and grenades.
 
