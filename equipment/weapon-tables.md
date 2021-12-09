@@ -354,23 +354,23 @@ All grenades below have a range of 20/60 and Light Bulk.
 
 |Grenade|Min Prof|Price|Special|
 |-------|:------:|----:|-------|
-|Frag grenade I|+2|35|Explode (1d6 P, 15 ft.)|
+|Frag grenade I|+2|35|Explode (2d6 P, 15 ft.)|
 |Smoke grenade|+2|40|Explode (smoke cloud 1 minute, 20 ft.)|
-|Shock grenade I|+2|130|Explode (1d8 E, 15 ft.)|
+|Shock grenade I|+2|130|Explode (1d12 E, 15 ft.)|
 |Stickybomb grenade I|+2|170|Explode (Entangled 2d4 rounds, 10 ft.)|
 |Flash grenade I|+2|275|Explode (Blinded 1d4 rounds, 5 ft.)|
-|Incendiary grenade I|+2|375|Explode (1d6 F, 1d4 Burn, 5 ft.)|
-|Shock grenade II|+2|650|Explode (1d12 E, 15 ft.)|
+|Incendiary grenade I|+2|375|Explode (2d6 F, 1d4 Burn, 5 ft.)|
+|Shock grenade II|+2|650|Explode (2d12 E, 15 ft.)|
 |Stickybomb grenade II|+2|675|Explode (Entangled 2d4 rounds, 15 ft.)|
-|Frag grenade II|+2|700|Explode (2d6 P, 15 ft.)|
+|Frag grenade II|+2|700|Explode (3d6 P, 15 ft.)|
 |Screamer grenade I|+2|725|Explode (1d10 So, Deafened 1d4 minutes, 15 ft.)|
-|Incendiary grenade II|+3|1040|Explode (2d6 F, 1d6 Burn, 10 ft.)|
-|Cryo grenade I|+3|1220|Explode (1d8 C, Staggered, 10 ft.)|
+|Incendiary grenade II|+3|1040|Explode (3d6 F, 1d6 Burn, 10 ft.)|
+|Cryo grenade I|+3|1220|Explode (2d8 C, Staggered, 10 ft.)|
 |Flash grenade II|+3|1350|Explode (Blinded 1d4 rounds, 10 ft.)|
 |Frag grenade III|+3|2560|Explode (4d6 P, 15 ft.)|
 |Screamer grenade II|+3|2720|Explode (2d10 So, Deafened 1d4 minutes, 20 ft.)|
-|Incendiary grenade III|+3|2800|Explode (3d6 F, 1d6 Burn, 10 ft.)|
-|Cryo grenade II|+4|5000|Explode (2d8 C, Staggered, 15 ft.)|
+|Incendiary grenade III|+3|2800|Explode (4d6 F, 1d6 Burn, 10 ft.)|
+|Cryo grenade II|+4|5000|Explode (3d8 C, Staggered, 15 ft.)|
 |Shock grenade III|+4|5380|Explode (3d12 E, 15 ft.)|
 |Stickybomb grenade III|+4|5410|Explode (Entangled 2d4 rounds, 20 ft.)|
 |Frag grenade IV|+4|5750|Explode (6d6 P, 15 ft.)|
