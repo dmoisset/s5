@@ -256,7 +256,7 @@ Your choice grants you features at 2nd level and again at 6th, 9th, and 14th lev
 
 ### Cache Recall
 
-When you reach 3rd level you can activate your spell cache to cast any one spell you know of up to 3rd level and are capable of casting without spending a spell slot. After using this ability you can not do it again until you take a long rest.
+When you reach 3rd level you can activate your spell cache to cast any one spell you know of up to 3rd level and are capable of casting. This spell is cast without spending a spell slot. After using this ability you can not do it again until you take a long rest.
 
 ### Ability Score Improvement :five:
 
