@@ -43,9 +43,13 @@ Envoys are actually based on the Star5er version of the bard (described below). 
 ### Proficiencies
 
 **Armor:** Light armor
+
 **Weapons:** Simple (archaic and modern) weapons. Grenades.
+
 **Tools:** three musical instruments of your choice
+
 **Saving Throws:** Dexterity, Charisma
+
 **Skills:** Choose any three
 
 ### Equipment
