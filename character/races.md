@@ -101,7 +101,7 @@ Lashuntas have the following traits:
 
 **Base Hit Points.** You get 4 extra HP at level 1
 
-**Lashunta Magic.** You know the *Mage Hand* cantrip. You can cast the *Detect Thoughts* spell once, and regain the
+**Lashunta Magic.** You know the *Mage Hand* and *Daze* cantrips. You can cast the *Detect Thoughts* spell once, and regain the
 ability to cast it after a long rest. The spellcasting ability for these spells is Intelligence
 
 **Limited Telepathy.** Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language.
