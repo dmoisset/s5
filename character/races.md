@@ -34,7 +34,7 @@ breathe or suffer the normal environmental effects of being in a vacuum.
 effect is worse). They receive advantage on saving throws against disease, charm, poison, and sleep, unless those effects
 specifically target constructs.
 
-**Flat Affect.** Androids get disadvantage in insight checks against non-androids. Non-androids get disadvantage on
+**Flat Affect.** Androids get disadvantage in Wisdom (Insight) checks against non-androids. Non-androids get disadvantage on
 Wisdom (Insight) check against androids.
 
 **Upgrade Slot.** Androids have a single armor upgrade slot in their bodies. Regardless of whether androids are wearing
