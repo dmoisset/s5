@@ -43,9 +43,13 @@ Envoys are actually based on the Star5er version of the bard (described below). 
 ### Proficiencies
 
 **Armor:** Light armor
+
 **Weapons:** Simple (archaic and modern) weapons. Grenades.
+
 **Tools:** three musical instruments of your choice
+
 **Saving Throws:** Dexterity, Charisma
+
 **Skills:** Choose any three
 
 ### Equipment
@@ -190,7 +194,7 @@ for 1 hour.
 #### Not in the Face :ear:
 
 As a bonus action choose an enemy within 60 feet. The enemy must succeed on a Wisdom saving throw or have disadvantage in 
-all its attacks against you until the end of your next turn. At 6th you can spend one RP when declaring this action to 
+all its attacks against you until the end of your next turn. At 6th level you can spend one RP when declaring this action to 
 negate your enemy the chance of a saving throw.
 
 #### Universal Expression

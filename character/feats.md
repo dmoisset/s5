@@ -123,7 +123,7 @@ _Prerequisite: Proficient with Computers_
 _Prerequisite: Dexterity 13 or higher_
 
 * Opening Volley: Whenever you deal damage to an opponent with a ranged attack on your first turn in a combat, you gain advantage to your next melee attack roll against that opponent. This melee attack must occur before the end of your next turn.
-* Parting Shot: When using the withdraw action you are allowed to make a single ranged attack at any point within your movement. Once you do this you can’t do it again until taking a short or long rest. Even if you’re able to withdraw as a bonus action, this can only be used if you actually use an action to withdraw.
+* Parting Shot: When using the disengage action you are allowed to make a single ranged attack at any point within your movement. Once you do this you can’t do it again until taking a short or long rest. Even if you’re able to disengage as a bonus action, this can only be used if you actually use an action to disengage.
 
 ## Poisonerˢʷ
 
