@@ -22,6 +22,17 @@ Upgrades are fitted into the armor upgrade slots. A few upgrades use more than o
 |Radiation Buffer|+2|200|1|Any|L|
 |Targeting Computer|+2|2250|1|Any|--|
 |Tensile Reinforcement|+2|150|1|Any|--|
+|Deflective Reinforcement|+3|7500|1|Any|L|
+|Electrostatic Field, Mk 1|+3|3000|1|Any|--|
+|Filtered Rebreather|+3|4600|1|Any|1|
+|Force Field (purple)|+3|4550|2|Any|L|
+|Force Field (black)|+3|10500|2|Any|L|
+|Haste Circuit|+3|9250|1|Lt, Med, Hvy|L|
+|Jetpack|+3|3100|1|Lt, Med, Hvy|1|
+|Load Lifter|+3|2550|1|Any|--|
+|Phase Shield|+3|4325|1|Hvy, Powered|1|
+|Sonic Dampener|+3|7150|1|Any|L|
+|Thermal Capacitor, mk 1|+3|3600|1|Any|--|
 
 #### Automated Loader
 
@@ -36,10 +47,26 @@ You can connect charged electric items such as batteries to this miniature gener
 from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be 
 plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
 
+#### Deflective Reinforcement
+
+This upgrade gives your armor a uniquely slippery texture. While wearing this armor, any piercing, slashing or bludgeoning damage that you take from non-magical weapons is reduced by 3. This does not stack with other effects that reduced your damaged by a fixed amount. In addition, you gain advantage on Dexterity (Acrobatics) checks to escape from grapples.
+
+#### Electrostatic Field
+
+This field over your armor grants you electricity resistance, and any creature that touches you or deals damage to you with a melee weapon takes electricity damage. The  damage dealt depend on this upgrade’s type, as noted below:
+
+* Mk 1: 1d6 electricity damage.
+* Mk 2: 2d6 electricity damage.
+* Mk 3: 3d6 electricity damage.
+
 #### Exit Pod
 
 This body harness fits into a suit of powered armor or is built into the frame of heavy armor, allowing you to exit the armor 
 as an action. Entering the armor is no faster with an exit pod.
+
+#### Filtered Rebreather
+
+This upgraded rebreather supplements your armor’s ability to provide fresh air and filters out common toxins and poisonous vapors. Armor with this upgrade can provide fresh air for a number of weeks equal to its level. You also gain acid resistance and are always considered proficient in saving throws against poison and disease.
 
 #### Force Field (Usage: 1 charge/round)
 
@@ -66,25 +93,45 @@ field’s color code. A suit of armor cannot support more than one force field u
 |Orange|40|40|9|
 |Prismatic|100|50|10|
 
+#### Haste Circuit (Magic; Usage: 1 charge/round; Capacity: 5)
+
+You can activate the haste circuit as a bonus action to gain the benefits of a *haste* spell until you spend another bonus action to deactivate it or it runs out of charges. A haste circuit’s magical charges replenish each day.
+
 #### Infrared Sensors
 
 This upgrade gives you darkvision up to 60 feet.
 
-#### Jump Jets
+#### Jetpack (Usage: 2 charges/round; Capacity 40)
 
-You can activate jump jets as part of your movement in order to fly during your movement. You can fly up to 30 feet with a 
-maximum height of 10 feet, or you can fly up to 20 feet straight up. You must land at the end of your movement (if you don’t, 
+This battery powered upgrade gives you a fly speed of 30 feet. You can use this for “cruising flight” at a usage of only 1 charge per minute, but you can not make attacks and attacks against you have disadvantage while doing so. Changing from normal flight to cruising flight or vice versa is an action. A jetpack can’t lift you if you’re encumbered.
+
+#### Jump Jets (Usage: 2 charges/action; Capacity 20)
+
+You can activate jump jets as part of your movement in order to fly during your movement. You can fly up to 30 feet with a
+maximum height of 10 feet, or you can fly up to 20 feet straight up. You must land at the end of your movement (if you don’t,
 you fall). Jump jets can’t lift you if you’re encumbered.
+
+#### Load Lifter
+
+This set of artificial muscles increases the amount of bulk you can carry while wearing your armor by 3.
+
+#### Phase Shield (Usage: 2 charges/round; Capacity 40)
+
+You can activate this upgrade to generate a glowing, translucent blue shield on one of your arms that helps you block incoming attacks. Activating or deactivating the shield takes a bonus action. While the shield is active, you gain a +2 bonus to AC. The phase shield interferes with your ability to use the arm it’s installed on, so while the phase shield is active, you can hold an item in that hand but not use it or make attacks with it.
 
 #### Quick Release Sheath
 
-This articulated compartment can hold a one-handed weapon of no more than light bulk. You can activate this upgrade as a 
+This articulated compartment can hold a one-handed weapon of no more than light bulk. You can activate this upgrade as a
 bonus action to put the item in your hand as though you’d drawn it.
 
 #### Radiation Buffer
 
-This device grants you advantage to your initial saving throw against radiation in addition to any bonuses from your armor’s 
+This device grants you advantage to your initial saving throw against radiation in addition to any bonuses from your armor’s
 environmental protection. This doesn’t provide any bonus to saves against the secondary effects of radiation.
+
+#### Sonic Dampener
+
+This device muffles the incidental sounds you make, and sonic attacks lose power in your vicinity. You gain sonic resistance and your armor doesn't inflict disadvantage on Dexterity (Stealth) checks.
 
 #### Targeting Computer
 
@@ -95,3 +142,11 @@ which squares within 5 feet of you are used by enemies.
 
 When treating your armor as an object for the purpose of damaging it directly, it’s considered to have +2 to AC and 
 resistance to all damage. This doesn’t affect your AC while wearing the armor.
+
+#### Thermal Capacitor
+
+This upgrade regulates heat, protecting you from extreme temperatures. You can exist comfortably in conditions between –50° and 75° C without needing to attempt Constitution saves.
+
+A Mk 2 thermal capacitor provides either fire or cold resistance (decided when manufacturing the upgrade).
+
+A Mk 3 thermal capacitor provides both fire and cold resistance.
