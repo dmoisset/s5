@@ -1,5 +1,5 @@
 import sys
-from typing import List, NamedTuple
+from typing import NamedTuple
 
 import yaml
 
@@ -9,7 +9,7 @@ class Document(NamedTuple):
     name: str  # as declared in YAML
     title: str  # As described in markdown file
     level: int
-    caster_class: List[str]
+    caster_class: list[str]
 
 
 documents = []

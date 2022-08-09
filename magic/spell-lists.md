@@ -49,6 +49,16 @@
 - [Warding Bondᴿ](spells/warding_bond.md)
 - [Zone of Truth](spells/zone_of_truth.md)
 
+## 3rd Level
+
+- [:five: Clairvoyance](spells/clairvoyance.md)
+- [:five: Dispel Magic](spells/dispel_magic.md)
+- [:five: Haste](spells/haste.md)
+- [Irradiate](spells/irradiate.md)
+- [:five: Protection from Energy](spells/protection_from_energy.md)
+- [:five: Slow](spells/slow.md)
+- [:five: Tongues](spells/tongues.md)
+
 # Technomancer Spells
 
 ## Cantrips (0 Level)
@@ -114,3 +124,25 @@
 - [:five: See Invisibility](spells/see_invisibility.md)
 - [:five: Shatter](spells/shatter.md)
 - [:five: Spider Climb](spells/spider_climb.md)
+
+## 3rd Level
+
+- [:five: Arcing Surge](spells/lightning_bolt.md)
+- [:five: Clairvoyance](spells/clairvoyance.md)
+- [:five: Counterspell](spells/counterspell.md)
+- [Discharge](spells/discharge.md)
+- [:five: Dispel Magic](spells/dispel_magic.md)
+- [:five: Explosive Blast](spells/fireball.md)
+- [:five: Fly](spells/fly.md)
+- [:five: Glyph of Wardingᴿ](spells/glyph_of_warding.md)
+- [Handy Junkbot](spells/handy_junkbot.md)
+- [:five: Haste](spells/haste.md)
+- [Healing Junkbot](spells/healing_junkbot.md)
+- [Instant Virus](spells/instant_virus.md)
+- [Irradiate](spells/irradiate.md)
+- [:five: Major Holographic Image](spells/major_image.md)
+- [Nondetectionᴿ](spells/nondetection.md)
+- [Probability Prediction](spells/probability_prediction.md)
+- [:five: Protection from Energy](spells/protection_from_energy.md)
+- [:five: Slow](spells/slow.md)
+- [:five: Tongues](spells/tongues.md)
