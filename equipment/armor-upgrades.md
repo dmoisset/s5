@@ -22,7 +22,7 @@ Upgrades are fitted into the armor upgrade slots. A few upgrades use more than o
 |Radiation Buffer|+2|200|1|Any|L|
 |Targeting Computer|+2|2250|1|Any|--|
 |Tensile Reinforcement|+2|150|1|Any|--|
-|Deflective Reinforcement|+3|7500|1|Any|L|
+|Deflective Reinforcement|+3|7500|1|Any|1|
 |Electrostatic Field, Mk 1|+3|3000|1|Any|--|
 |Filtered Rebreather|+3|4600|1|Any|1|
 |Force Field (purple)|+3|4550|2|Any|L|
