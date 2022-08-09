@@ -389,3 +389,25 @@ All grenades below have a range of 20/60 and Light Bulk.
 |Incendiary grenade VI|+6|108800|Explode (12d6 F, 6d6 Burn, 15 ft.)|
 |Shock grenade V|+6|110000|Explode (9d12 E, 15 ft.)|
 |Frag grenade VIII|+6|216000|Explode (20d6 P, 15 ft.)|
+
+## Solarian Weapon Crystals
+
+A solarian weapon crystal is a hybrid item that adds damage to a solarian’s solar weapon. The solarian can place inside or remove the crystal from his mote as an action. While within a mote, a crystal applies its effects any time that mote is in a solar weapon form. A solarian can’t have more than one crystal in their mote at a given time. All solarian weapon crystals have insignificant bulk.
+
+Most weapon crystals increase the amount of damage attacks with the solar weapon deal. This increased damage is normally the same type of damage the solarian weapon deals (typically bludgeoning, piercing, or slashing). If a solarian crystal’s damage entry lists an abbreviation after the damage, however, the additional damage the solar weapon deals is of the indicated type. If a solarian crystal lists a critical effect, that critical effect applies to any critical hit the solar weapon makes while the solarian crystal is within the solarian’s mote.
+
+A solarian is able to use a crystal only if their proficiency bonus is equal or higher to the minimum proficiency bonus of the crystal.
+
+|Solarian Weapon Crystal|Min Prof|Price|Damage|Critical|
+|-----------------------|:------:|----:|------|--------|
+|Graviton crystal, least|+3|2900|+1d3|Knockdown|
+|Photon crystal, least|+3|2950|+1d3 F|Burn 1d6|
+|W-boson crystal, least|+3|3050|+1d4|Bleed 1d6|
+|Gluon crystal, least|+3|3900|+1d4|Wound|
+|Graviton crystal, minor|+3|9200|+1d6|Knockdown|
+|Photon crystal, minor|+3|9300|+1d6 F|Burn 1d6|
+|W-boson crystal, minor|+3|9800|+1d6|Bleed 2d6|
+|Gluon crystal, minor|+4|11500|+1d6|Severe Wound|
+|Graviton crystal, lesser|+4|24000|+2d6|Knockdown|
+|Photon crystal, lesser|+4|25100|+2d6 F|Burn 1d6|
+|W-boson crystal, lesser|+4|26200|+2d6|Bleed 2d6|

@@ -10,7 +10,7 @@ Many explorers and mercenaries modify their own bodies with technological or bio
 
 Cybernetic augmentations use machines and circuitry integrated with the flesh and bone of the recipient. In most cases, cybernetics must be installed into the body by a trained surgeon—a process that takes 2 hour to a day (depending on the complexity of the augmentation) and the price of which is covered in the price of the cybernetic. Cybernetics are more than just machine implants: they are complex meldings of technology and the living host’s own organs. This allows them to be hardened against assaults that affect other technologies in ways robots and other entirely technological creatures can’t. Cybernetics are not subject to any effect or attack that targets technology unless it specifies that it affects cybernetics.
 
-### Symple cybernetics
+### Simple cybernetics
 
 The following cybernetic augmentations can be installed in 2 hours at any city clinic:
 
@@ -27,33 +27,92 @@ The following cybernetic augmentations can be installed in 2 hours at any city c
 |Vocal Modulator|125|Throat|
 
 #### Darkvision capacitors, standard
+
 These replacement eyes allow you to see in total darkness, giving you darkvision with a range of 60 feet. They operate by sending out low-powered ultraviolet lasers that are then detected by receptors within the capacitors. When your capacitors are in operation, their lasers can be detected by creatures that have darkvision capacitors or can otherwise see ultraviolet light.
 
 #### Datajack, standard
+
 This cybernetic includes a programmable data port that allows you to access different types of computers and digital storage media. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Intelligence (Engineering) check).
 
 #### Hideaway Limb, Standard
+
 This compartment is hidden inside one of your limbs. You can conceal items inside and protect them with a simple passcode. The compartment can hold items of negligible bulk and items of light bulk that are either relatively small or can be folded or contracted to fit. A hideaway in a leg (in a human) can hold more than one in an arm, and the creature’s size also adjusts the capacity. The GM decides what can fit.
 
 When the compartment is closed, the seam in your flesh is difficult to detect. You have advantage in Dexterity (Sleight of Hand) checks to conceal items in a hideaway limb. Though this compartment can usually foil a simple pat down, most security checkpoints include a scan that can detect such devices.
 
 #### Prosthetic Limb, standard
+
 This prosthesis replaces a missing limb. It restores functionality, but it is no more durable than and doesn’t otherwise function differently than a normal limb for your species. A prosthetic limb can replace one you’ve lost, or you can have a limb removed in order to replace it with a prosthetic.
 
 #### Prosthetic Limb, storage
+
 This storage prosthetic limb has a built-in concealed storage compartment, which functions as a hideaway limb (see above).
 
 #### Respiration Compounder
+
 A respiration compounder consists of a series of modules that attach to your lungs, letting you survive longer without having to breathe. The time you can hold your breath, and the time you can survive without air, is doubled. This doesn’t protect you from other dangers of an airless environment. The compounder also filters your air, granting advantage to saving throws vs inhaled poisons or other airborne toxins.
 
 #### Retinal Reflectors
+
 These sheets of reflective material can be implanted behind the retina, negating the disadvantages of dim light (but they do not allow you to see in darkness)
 
 #### Speed Suspension, minimal
+
 You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A minimal speed suspension replaces only a few parts, increasing your land speed by 10 feet. 
 
 #### Vocal Modulator
+
 A vocal modulator includes a series of miniature actuators built specifically to reshape your voice box, along with miniature hyper-resonant chambers that dynamically close or open. This allows you to change the pitch, timbre, and tone of your voice. You can more easily imitate accents or pronounce alien languages. This can be used as the “mimic speech” ability of the Actor feat 
+
+### Minor cybernetics
+
+The following cybernetic augmentations require an 8 hour procedure at a health centre. Installation requires anaesthetics and medical control, during that period, but you can walk out by the end of the process with no risk or side-effects
+
+|Name|Price|System|
+|----|----:|------|
+|Cardiac accelerator|3850|Heart|
+|Darkvision capacitors, advanced|9000|Eyes|
+|Datajack, accelerated|8525|Brain|
+|Datajack, high-density|2600|Brain|
+|Dermal plating, mk 1|3025|Skin|
+|Dermal plating, mk 2|6950|Skin|
+|Hideaway limb, quickdraw|3050|Arm|
+|Speed suspension, standard|8800|All legs|
+|Wide-spectrum ocular implant|2825|Eyes|
+
+#### Cardiac accelerator
+
+This implant plugs directly into your heart and can be triggered to overclock the performance of your heart and circulatory system. When you run, charge, or move, you can spend 1 Resolve Point to increase your speed (in the relevant mode of movement) by 20 feet for that turn.
+
+Alternatively, you can spend 1 Resolve Point as a reaction when you attempt a Dexterity saving throw to gain a +1d4 bonus to your roll.
+
+#### Darkvision capacitors, advanced
+
+These provide the benefits of [Darkvision capacitors, standard](#darkvision-capacitors-standard) and [Wide-spectrum ocular implant](#wide-spectrum-ocular-implant) at the same time.
+
+#### Datajack, accelerated
+
+This works similar to a [Datajack, standard](#datajack-standard), but also provides a bonus of +1d6 to Intelligence (Computers) check while using it.
+
+#### Datajack, high-density
+
+This works similar to a [Datajack, standard](#datajack-standard), but also provides a bonus of +1d4 to Intelligence (Computers) check while using it.
+
+#### Dermal plating
+
+You line your skin with hardened composite plates that deflect physical attacks (dealing piercing, slashing or bludgeoning damage). Damage is reduced by an amount that depends on the model of your dermal plating (1 for Mk 1, 2 for Mk 2, etc.). This reduction does not stack with other effects that reduce damage by a fixed amount.
+
+#### Hideaway limb, quickdraw
+
+This works like a [Hideaway limb, standard](#hideaway-limb-standard). You can install a one-handed weapon in the compartment that can pop-up and attack without needing to be held. You can not use your arm for other purposes in the same turn that you're using it to attack in this way. Attempts to disarm this weapon have disadvantage. While storing a weapon like this, you can't hide other objects, there's only room for the weapon.
+
+#### Speed suspension, standard
+
+You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A standard suspension is more invasive than the minimal and increases your land speed by 20 feet.
+
+#### Wide-spectrum ocular implant
+
+These cybernetic spheres replace your eyes entirely. A dimly lit area is no longer considered lightly obscured to you (so you no longer take penalties to Wisdom (Perception) checks) and you get the ability to see infrared and ultraviolet light. In normal light you gain advantage to Wisdom (Perception) checks based on sight and allow you to notice some things people who can see only the red-violet light spectrum can’t, including the lasers from darkvision capacitors. This doesn’t grant you darkvision, but in darkness you can see significant sources of heat due to your infrared vision.
 
 ## Biotech
 
@@ -95,3 +154,14 @@ Once used, the venom sac doesn’t refill until the next time you take a short o
 #### WildWise
 The soft purple fungus called wildwise attaches itself to your vocal cords and extends fine filaments into portions of your brain. It allows you to communicate in a general sense with beasts with an Intelligence score of 1 or 2. You can attempt Charisma (Persuasion) checks to influence such creatures as well as understand in very vague terms information they try to convey to you. The information they give you usually consists of simple concepts such as “danger,” “food,” or “that way.”
 
+## Minor Biotech
+
+The following augmentations require an 8 hour procedure at a health centre. Installation requires anaesthetics and medical control, during that period, but you can walk out by the end of the process with no risk or side-effects
+
+|Name|Price|System|
+|----|----:|------|
+|Skin of the Chameleon|4050|Skin|
+
+#### Skin of the Chameleon
+
+This biotech modification replaces pigmentation cells in your skin. You can alter your skin to mimic the terrain or lighting conditions around you, giving you advantage to Dexterity (Stealth) checks. You must be wearing custom clothing and no more than light armor to benefit from this biotech.
