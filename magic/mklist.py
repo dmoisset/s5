@@ -9,15 +9,15 @@ class Document(NamedTuple):
     name: str  # as declared in YAML
     title: str  # As described in markdown file
     level: int
-    caster_class: list[str]
+    caster_class: str
 
 
-documents = []
+documents: list[Document] = []
 for filename in sys.argv[1:]:
     # sys.stderr.write(f"Parsing {filename}\n")
     with open(filename, "r") as f:
         data = f.read()
-    metadata = next(yaml.load_all(data))
+    metadata = next(yaml.load_all(data, Loader=yaml.FullLoader))
     titles = [line for line in data.split("\n") if line.startswith("#")]
     title = titles[0]
     assert title.startswith("# ")
