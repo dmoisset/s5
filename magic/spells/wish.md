@@ -13,7 +13,9 @@ _9th-level conjuration_
 **Duration:** Instantaneous 
 
 **_Wish_** is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.    
-The basic use of this spell is to duplicate any technomancer spell of 7th level or lower, or a mystic spell fo 6th level or lower. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect.
+The basic use of this spell is to duplicate any technomancer spell of 7th level or lower, or a mystic spell of 6th level or lower. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect.
+
+For any effects that depend on spell slot level, the replicated spell counts as cast with a 9th level slot.
 
 Alternatively, you can create one of the following effects of your choice:
 * You create one object of up to 250,000 CR in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground. 
