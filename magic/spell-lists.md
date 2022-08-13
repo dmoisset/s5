@@ -52,13 +52,17 @@
 
 ## 3rd Level
 
+- [:five: Bestow Curse](spells/bestow_curse.md)
 - [:five: Clairvoyance](spells/clairvoyance.md)
 - [Deep Slumber](spells/sleep.md)
 - [:five: Dispel Magic](spells/dispel_magic.md)
+- [:five: Fear](spells/fear.md)
 - [:five: Haste](spells/haste.md)
 - [Irradiate](spells/irradiate.md)
 - [:five: Protection from Energy](spells/protection_from_energy.md)
+- [:five: Remove Curse](spells/remove_curse.md)
 - [:five: Slow](spells/slow.md)
+- [:five: Speak with Dead](spells/speak_with_dead.md)
 - [:five: Tongues](spells/tongues.md)
 
 ## 4th Level
