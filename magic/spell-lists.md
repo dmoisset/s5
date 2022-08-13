@@ -6,11 +6,11 @@
 - [:five: Chill Touch](spells/chill_touch.md)
 - [Daze](spells/daze.md)
 - [Grave Words](spells/grave_words.md)
-- [:five: Mage Hand](spells/mage_hand.md)
 - [:five: Mending](spells/mending.md)
 - [:five: Message](spells/message.md)
 - [Mind Thrust](spells/mind_thrust.md)
 - [:five: Minor Illusion](spells/minor_illusion.md)
+- [:five: Psychokinetic Hand](spells/mage_hand.md)
 - [:five: Spare the Dying](spells/spare_the_dying.md)
 - [Telekinetic Projectile](spells/telekinetic_projectile.md)
 - [:five: Thaumaturgy](spells/thaumaturgy.md)
@@ -42,6 +42,7 @@
 - [:five: Hold Person](spells/hold_person.md)
 - [Hurl Forcedisk](spells/hurl_forcedisk.md)
 - [:five: Lesser Restoration](spells/lesser_restoration.md)
+- [Ray of Enfeeblement](spells/ray_of_enfeeblement.md)
 - [:five: See Invisibility](spells/see_invisibility.md)
 - [:five: Spider Climb](spells/spider_climb.md)
 - [Status](spells/status.md)
@@ -52,12 +53,48 @@
 ## 3rd Level
 
 - [:five: Clairvoyance](spells/clairvoyance.md)
+- [Deep Slumber](spells/sleep.md)
 - [:five: Dispel Magic](spells/dispel_magic.md)
 - [:five: Haste](spells/haste.md)
 - [Irradiate](spells/irradiate.md)
 - [:five: Protection from Energy](spells/protection_from_energy.md)
 - [:five: Slow](spells/slow.md)
 - [:five: Tongues](spells/tongues.md)
+
+## 4th Level
+
+- [Animate Dead](spells/animate_dead.md)
+- [:five: Confusion](spells/confusion.md)
+- [:five:Death Ward](spells/death_ward.md)
+- [Divinationᴿ](spells/divination.md)
+- [:five: Hold Monster](spells/hold_monster.md)
+- [Reincarnate](spells/reincarnate.md)
+- [:five: Telepathic Bond](spells/telepathic_bond.md)
+
+## 5th Level
+
+- [:five: Break Enchantment](spells/dispel_evil_and_good.md)
+- [:five: Commune with Nature](spells/commune_with_nature.md)
+- [:five: Contact Other Plane](spells/contact_other_plane.md)
+- [:five: Dominate Person](spells/dominate_person.md)
+- [Greater Restoration](spells/greater_restoration.md)
+- [Mass Mystic Cure](spells/mass_cure_wounds.md)
+- [Modify Memory](spells/modify_memory.md)
+- [Planar Binding](spells/planar_binding.md)
+- [Raise Dead](spells/raise_dead.md)
+
+## 6th Level
+
+- [Control Gravity](spells/control_gravity.md)
+- [:five: Ethereal Jaunt](spells/etherealness.md)
+- [Feeblemind](spells/feeblemind.md)
+- [:five:](spells/flesh_to_stone.md)
+- [:five: Mass Suggestion](spells/mass_suggestion.md)
+- [:five: Planar Barrier](spells/forbiddance.md)
+- [:five: Plane Shift](spells/plane_shift.md)
+- [Regenerate](spells/regenerate.md)
+- [:five: Snuff Life](spells/finger_of_death.md)
+- [:five:True Seeing](spells/true_seeing.md)
 
 # Technomancer Spells
 
@@ -69,11 +106,11 @@
 - [:five: Fire Bolt](spells/fire_bolt.md)
 - [:five: Jolting Surge](spells/shocking_grasp.md)
 - [Kinetic Barrier](spells/kinetic_barrier.md)
-- [:five: Mage Hand](spells/mage_hand.md)
 - [:five: Mending](spells/mending.md)
 - [:five: Message](spells/message.md)
 - [:five: Minor Illusion](spells/minor_illusion.md)
 - [:five: Prestidigitation](spells/prestidigitation.md)
+- [:five: Psychokinetic Hand](spells/mage_hand.md)
 - [:five: Ray of Frost](spells/ray_of_frost.md)
 - [Transfer Charge](spells/transfer_charge.md)
 - [:five: True Strike](spells/true_strike.md)
@@ -146,3 +183,40 @@
 - [:five: Protection from Energy](spells/protection_from_energy.md)
 - [:five: Slow](spells/slow.md)
 - [:five: Tongues](spells/tongues.md)
+
+## 4th Level
+
+- [Animate Dead](spells/animate_dead.md)
+- [:five: Arcane Eye](spells/arcane_eye.md)
+- [Creation](spells/creation.md)
+- [:five: Dimension Door](spells/dimension_door.md)
+- [:five: Greater Invisibility](spells/greater_invisibility.md)
+- [:five: Holographic Terrain](spells/hallucinatory_terrain.md)
+- [:five: Resilient Sphere](spells/resilient_sphere.md)
+- [:five: Wall of Fire](spells/wall_of_fire.md)
+
+## 5th Level
+
+- [:five: Break Enchantment](spells/dispel_evil_and_good.md)
+- [:five: Contact Other Plane](spells/contact_other_plane.md)
+- [:five: Mislead](spells/mislead.md)
+- [:five: Passwall](spells/passwall.md)
+- [Planar Binding](spells/planar_binding.md)
+- [:five: Telekinesis](spells/telekinesis.md)
+- [Teleport](spells/teleport.md)
+- [:five: Wall of Force](spells/wall_of_force.md)
+- [Wall of Steel](spells/wall_of_stone.md)
+
+## 6th Level
+
+- [:five: Chain Surge](spells/chain_lightning.md)
+- [Control Gravity](spells/control_gravity.md)
+- [:five: Disintegrate](spells/disintegrate.md)
+- [:five: Ethereal Jaunt](spells/etherealness.md)
+- [:five: Planar Barrier](spells/forbiddance.md)
+- [:five: Plane Shift](spells/plane_shift.md)
+- [:five:True Seeing](spells/true_seeing.md)
+
+## 9th Level (special)
+
+- [Wish](spells/wish.md)
