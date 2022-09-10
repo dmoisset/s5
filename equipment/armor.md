@@ -140,7 +140,6 @@ damage coming from laser or plasma weapons).
 |Ceremonial plate, officer|+2|2275|1|2|13 + Dex (max 2)|Disadvantage||
 |Lashunta ringwear II|+3|2970|1|2|14 + Dex (max 2)|Disadvantage|slashing|
 |Vesk overplate I|+3|3910|1|2|14 + Dex (max 2)|Disadvantage|bludgeoning|
-|Golemforged plating III|+3|5500|2|2|14 + Dex (max 2)|Disadvantage||
 |Lashunta ringwear III|+3|8420|3|2|15 + Dex (max 2)|Disadvantage|slashing|
 |Vesk overplate II|+3|10250|3|3|15 + Dex (max 2)|Disadvantage|bludgeoning|
 |Iridishell, advanced|+4|13100|3|2|15 + Dex (max 2)||piercing|
