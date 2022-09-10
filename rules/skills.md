@@ -114,7 +114,7 @@ The following alphabetical list describes all the Star5er skills. The skills lab
   factory. Poring through an online data archive in search of a hidden fragment of knowledge might also call for an
   Intelligence (Investigation) check.
 * **Life Science:** Your Intelligence (Life Science) check measures your ability to recall lore about terrain, flora and
-  fauna of different areas and planets. You van make checks to see if you know some fact about biology, zoology,
+  fauna of different areas and planets. You can make checks to see if you know some fact about biology, zoology,
   bioengineering, ecology or genetics.
 * **Medicine:**  A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness. It can also
   be used to use medical equipment, treat wounds, poison and radiation effects.
