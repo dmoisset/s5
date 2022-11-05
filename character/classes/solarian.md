@@ -178,7 +178,7 @@ The following revelations can only be chosen when you’re at least 6th level
 
 ### Astrologic Sense :eight_spoked_asterisk:
 
-You can sense the movement of all objects influencing you to gain insight into upcoming events. Once per day as an action, you can try to determine whether a particular action of yours will bring good or bad results for you in the immediate future. This functions as [augury](../../magic/spells/augury.html). You can spend 1 Resolve Point to use this revelation again on the same day, but you still can’t use it more than once per hour.
+You can sense the movement of all objects influencing you to gain insight into upcoming events. Once per day as an action, you can try to determine whether a particular action of yours will bring good or bad results for you in the immediate future. This functions as [augury](../../magic/spells/augury.md). You can spend 1 Resolve Point to use this revelation again on the same day, but you still can’t use it more than once per hour.
 
 When you are attuned or fully attuned, you can see 1 hour into the future (instead of half an hour as is normal for _augury_) when you use this revelation.
 
