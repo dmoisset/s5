@@ -29,7 +29,7 @@ The stars guide the planets with gravity, create life with light and heat, and u
 
 ### Hit Points
 
-**Hit Points per level:** 3
+**Hit Points per level:** 4
 **Stamina Points per level:** 3 + your Constitution Modifier
 
 ### Proficiencies

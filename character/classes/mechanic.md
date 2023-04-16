@@ -29,7 +29,7 @@ You are a master of machines, from advanced supercomputers to simple magnetic en
 
 ### Hit Points
 
-__Hit Points:__ 3 per level
+__Hit Points:__ 4 per level
 
 __Stamina Points:__ 2 + your Constitution modifier per level
 

@@ -36,7 +36,7 @@ Envoys are actually based on the Star5er version of the bard (described below). 
 
 ### Hit Points
 
-**Hit Points each Level:** 3
+**Hit Points each Level:** 4
 
 **Stamina Points each Level:** 2 + Con
 

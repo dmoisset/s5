@@ -31,7 +31,7 @@ As a rogue, you gain the following class features.
 
 ### Hit Points
 
-**Hit Points each Level:** 3
+**Hit Points each Level:** 4
 
 **Stamina Points each Level:** 2 + your Constitution modifier (min 0)
 

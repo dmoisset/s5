@@ -121,7 +121,7 @@ You understand that what most people call magic is simply an expression of the i
 
 ### Hit Points
 
-__Hit Points:__ 3 per level
+__Hit Points:__ 4 per level
 
 __Stamina Points:__ 2 + your Constitution modifier per level
 

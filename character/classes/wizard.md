@@ -129,7 +129,7 @@ Star5er does not have wizards, but technomancers are quite similar (both rules-w
 
 ### Hit Points
 
-__Hit Points:__ 2 per level
+__Hit Points:__ 3 per level
 
 __Stamina Points:__ 2 + your Constitution modifier per level
 
