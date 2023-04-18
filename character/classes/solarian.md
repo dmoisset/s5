@@ -178,7 +178,7 @@ The following revelations can only be chosen when you’re at least 6th level
 
 ### Astrologic Sense :eight_spoked_asterisk:
 
-You can sense the movement of all objects influencing you to gain insight into upcoming events. Once per day as an action, you can try to determine whether a particular action of yours will bring good or bad results for you in the immediate future. This functions as [augury](](../../magic/spells/augury.html). You can spend 1 Resolve Point to use this revelation again on the same day, but you still can’t use it more than once per hour.
+You can sense the movement of all objects influencing you to gain insight into upcoming events. Once per day as an action, you can try to determine whether a particular action of yours will bring good or bad results for you in the immediate future. This functions as [augury](../../magic/spells/augury.md). You can spend 1 Resolve Point to use this revelation again on the same day, but you still can’t use it more than once per hour.
 
 When you are attuned or fully attuned, you can see 1 hour into the future (instead of half an hour as is normal for _augury_) when you use this revelation.
 
@@ -222,7 +222,7 @@ When you are attuned or fully attuned, if you disarm a target with gravity surge
 
 As an action, you can convince one living creature that you are to be trusted. This functions as [_charm person_](../../magic/spells/charm_person.md), but with a duration of 1 minute. When the effect ends, if you are out of line of sight and the target is not engaged in an activity it wouldn’t have begun without being charmed, the target does not realize it was charmed or has acted unusually unless someone else points it out. You can’t use this revelation again while you currently have a creature charmed via this ability, and once you’ve attempted to charm a creature, whether or not the attempt was successful, you can’t charm the same creature again for 24 hours. Your influence over the creature ends once the duration has expired, and at that time the target likely ceases doing anything you’ve requested of it. At 9th level, hypnotic glow can be used also against non-humanoids.
 
-When you are attuned or fully attuned and you successfully charm a creature using this ability, you can also command it to approach, flee, or halt on its next turn, as per the [_command_](](../../magic/spells/command.md) spell (with no additional save).
+When you are attuned or fully attuned and you successfully charm a creature using this ability, you can also command it to approach, flee, or halt on its next turn, as per the [_command_](../../magic/spells/command.md) spell (with no additional save).
 
 ### Reflection :eight_pointed_black_star:
 
