@@ -342,9 +342,9 @@ __Diviner’s Tap.__ You hack a computer to provide surveillance. This requires 
 
 __Flash Teleport.__ You can cast misty step by spending 1 RP instead of a spell slot. You are not required to have it prepared or even in your spell cache.
 
-__Mental Mark.__
+__Mental Mark.__ When an enemy fails an Intelligence, Wisdom or Charisma saving throw, it gets disadvantage to saving throws until the end of your next turn. 
 
-__Spellshot.__ You can cast an area spell with a casting time of an action or bonus action through a ranged weapon, using the range of the weapon instead. As an action, you can make a single attack and cast the spell at the same time; the point of origin for the area is on the creature and if a direction is needed (for example line or cone effects) you can choose any. Spells that originate on you can not be used with this hack.
+__Spellshot.__ You can cast an area spell with a casting time of an action or bonus action through a ranged weapon, using the range of the weapon instead. As an action, you can make a single attack and cast the spell at the same time; the point of origin for the area is on the creature and if a direction is needed (for example line or cone effects) you can choose any. If the attack misses, the spell is wasted. Spells that originate on you can not be used with this hack.
 
 __Tech Countermeasures.__ As a bonus action, you can spend 1 RP to make yourself harder to hit. Until the beginning of your next turn you can spend your reaction when being hit with a technological weapon to impose disadvantage on an attack roll made against you (rerolling again and taking the lowest result). If the weapon allows a Dexterity saving throw for half damage, you instead can spend your reaction after a successful save to completely negate the damage.
 
