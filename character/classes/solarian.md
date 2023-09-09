@@ -294,15 +294,21 @@ When you’re fully graviton-attuned, as an action, you can pull any number of c
 
 ### Miniature Star :eight_spoked_asterisk:
 
-### Particle Wave :eight_spoked_asterisk:
+When you're fully photon attuned, you can create a simulacrum of a star as an action. The star is a 15-foot diameter sphere that fills your square (or one of your squares if you're larger) and every square around it. Any creature starting its turns within the start takes 1d6 fire damage for every 2 solarian levels you have, and any creature that starts its turn outside the start but within 5 feet takes half that damage. At 17th level, you can create your star simulacrum as a 25-foot radius sphere affecting your square and every square within 10 feets of that.
 
-### Quantum Entrapment :eight_pointed_black_star:
+Creatures can move through the star but it exerts a gravitational pull, and they must spend double movement to move away from the center while they are within the star or within 5 feet of its edge. The star remains in place if you later move for 3 rounds. You are immune to all effects of your own miniature star
 
 ### Ray of Light :eight_spoked_asterisk:
 
+When you're fully photon attuned, as a bonus action you can transform yourself into a ray of light ad move at light speed to any spece you can see within 500ft. Any barrier that would block, reflext or scatter light prevents you from moving through it. No creature can use a reaction to interfere with your movement or make attacks of opportunity unless it's capable of reacting faster than the speed of light. At 17th level, you can touch one willing or unconscious creature to convert it to light and bring it with you as part of the same action.
+
 ### Solar Acceleration :eight_spoked_asterisk:
 
+While you're fully photon-attuned, you can make two attacks as an action. In addition, you and up to 6 allies within 30 feet are affected by [_haste_](../../magic/spells/haste.md). You are considered to be concentrating in this spell. At 17th level, the extra speed from the haste effect increases by 30 ft.
+
 ### Starquake :eight_pointed_black_star:
+
+When you're fully graviton attuned, you can create a violent ripple of movement to knock down your foes. As a bonus action, you can move on ground during your turn without provoking attacks of opportunity. Each creature you are adjacent to at any point during that movement takes 1d8 bludgeoning damage and must succeed on a Strength saving throw or be knocked prone. The affected creatures don't need to be standing in solid ground to fall prone, and any that were in the air (but still adjacent to you) fall to the ground on a failed save. The damage increases to 2d8 at level 10, 3d8 at level 13, and 5d8 at level 17. At 17th level, you can also move up to twice your speed along the ground when using this revelation.
 
 ### Supernova :eight_spoked_asterisk:
 
@@ -310,7 +316,12 @@ When you’re fully photon-attuned, as an action, you can deal 1d6 fire damage p
 
 ### Time Dilation :eight_pointed_black_star:
 
+When you’re fully graviton-attuned, you can make time pass more slowly for your enemies. As an action, you can project a gravitational wave in a 30-foot cone. You choose which creatures in the cone are affected and which ones aren't. Each target must succeed at a Charisma saving throw or by affected by [_slow_](../../magic/spells/slow.md). The duration of this effect is as per the spell (and it requires you to hold concentration). At 17th level, even targets that succeed at their saving throws are affected by slow until the beginning of your next turn.
+
 ### Wormholes :eight_pointed_black_star:
+
+When you’re fully graviton-attuned, you can create two linked wormholes as an action. One wormhole must be adjacent to you, and the other appears anywhere in line of sight within 200 ft. Each wormhole is 5 feet across and appears at an intersection between two squares. You and any Large or smaller creatures you mentally designate (you can designate “all creatures,” “all lashuntas,” or similar categories) can travel between the wormholes. This is considered extradimensional travel. Entering a wormhole instantly transports a creature to a square adjacent to the other wormhole’s intersection, where the creature can continue its movement. The wormholes remain for 1 minute, but you can choose to termine the effect earlier as a free action. At 17th level, you can create three wormholes using this ability, and upon entering the wormhole, a creature can decide which of the other two wormholes to exit.
+
 
 ## Solar Manifestations
 
