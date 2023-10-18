@@ -114,6 +114,66 @@ You increase your land speed by replacing joints and tendons in your legs with h
 
 These cybernetic spheres replace your eyes entirely. A dimly lit area is no longer considered lightly obscured to you (so you no longer take penalties to Wisdom (Perception) checks) and you get the ability to see infrared and ultraviolet light. In normal light you gain advantage to Wisdom (Perception) checks based on sight and allow you to notice some things people who can see only the red-violet light spectrum can’t, including the lasers from darkvision capacitors. This doesn’t grant you darkvision, but in darkness you can see significant sources of heat due to your infrared vision.
 
+### Moderate Cybernetics
+
+The following cybernetic augmentations require an 12 hour procedure at a health centre. Installation requires anaesthetics and medical control, during that period, and you gain a level of exhaustion after surgery.
+
+|Name|Price|System|
+|----|----:|------|
+|Dermal plating, mk 3|17,975|Skin|
+|Cybernetic arm, Single|24,750|Spinal column|
+|Dermal plating, mk 4|48,850|Skin|
+|Speed suspension, complete|32,900|All legs|
+
+#### Cybernetic arm, Single
+
+Made of ultralight materials, this fully cybernetic arm fuses to your spinal column, exoskeleton, or equivalent body structure and functions as a full arm. You can hold an additional hand’s worth of equipment. This lets you have more items at the ready, but it doesn’t increase the number of attacks you can make in combat. You must have a Strength score of 12 to use a cybernetic arm effectively.
+
+#### Speed suspension, complete
+
+You increase your land speed by replacing joints and tendons in your legs with high-performance cybernetics. A complete suspension is more invasive than the standard and increases your land speed by 30 feet.
+
+### Major Cybernetics
+
+The following cybernetic augmentations require a 24-hour stay at a hospital. Installation requires anaesthetics and medical control, during that period, and you gain two levels of exhaustion after surgery.
+
+|Name|Price|System|
+|----|----:|------|
+|Darkvision capacitors, long-range|48,950|Eyes|
+|Cybernetic arm, Dual|70,150|Spinal column|
+|Dermal plating, mk 5|105,000|Skin|
+|Polyhand|71,1000|Hand|
+|Dermal plating, mk 6|163,500|Skin|
+
+#### Darkvision capacitors, long-range
+
+These operate like the advanced darkvision capacitors, but with a range of 120 feet.
+
+#### Cybernetic arm, Dual
+
+This adds two arms similar to the Cybernetic arm, single. Dual cybernetic arms consist of a pair of arms, one on each
+side of your body, and let you hold two additional hands’ worth of equipment. You need a Strength score of 14 to use dual
+cybernetic arms effectively.
+
+#### Polyhand
+
+You replace your entire hand with a hand made of reprogrammable microscopic adamantine prisms. With either a mental command or a programmable interface built into the hand, you can reconfigure your hand into the shape of various tools. The hand can contain programming for nine different tools, in addition to a configuration for a normal hand for your species. As a bonus action, you can switch the setting, causing the adamantine pieces to realign into the shape of the chosen tool. The tool has all the flexibility of the normal tool (or of a hand, if set to that).
+
+Programming a new tool into the polyhand takes 10 minutes, and you must choose either to fill an empty slot or to replace a programmed tool. The tool replicated must be of min proficiency of +3 or lower. The polyhand can replicate the moving parts of a tool, but you must supply any fuel or batteries needed for the tool to function. The tool cannot produce substances, and since it’s not very conductive (important so as to avoid shocking the user), it can’t serve as a power conduit or data transmission line. The GM has final say in deciding which tools you can duplicate. The tools within engineering kits and similar kits can be duplicated, subject to the restrictions above.
+
+You can’t replace the hand setting based on your biology, which is required for the polyhand to function properly. You can add a hand corresponding to another species in any slot that isn’t reserved; for instance, a human could program her polyhand to replicate a shirren hand. This can’t duplicate features of a unique individual, such as thumbprints. You can install a polyhand into a prosthetic limb that replaces an arm as if the prosthetic were a natural arm.
+
+The adamantine construction makes the polyhand extremely durable. This doesn’t change the amount of unarmed strike damage, no matter the form your polyhand is in. The polyhand can’t maintain structural integrity if extended too far, so it can’t assume a form more than one and a half feet long in any dimension. Consequently, it can’t extend your reach.
+
+
+### Extensive Cybernetics
+
+The following cybernetic augmentations require a 48-hour stay at a hospital. Installation requires anaesthetics and medical control, during that period, and you gain two levels of exhaustion after surgery, and take 3d12 damage directly to your hit points once the procedure is over.
+
+|Name|Price|System|
+|----|----:|------|
+|Dermal plating, mk 7|542,000|Skin|
+
 ## Biotech
 
 Functioning similarly to cybernetics, biotech items include modifications to your DNA combined with implants of biological origin that integrate into your physiology. Biotech mostly operates by the same rules as cybernetics and uses the same implantation slots.
@@ -141,6 +201,8 @@ The soles of your feet become covered in fleshy slats you can open and close, pr
 #### Dragon gland, wyrmling
 You implant a dragonborn gland modified to function for a creature of your race at the back of your throat. You can trigger this gland as an action to expel a breath weapon in a 15- foot cone, dealing 3d6 damage. Choose the damage type when the organ is biocrafted, picking from the following list: acid, cold, electricity, or fire. You are not harmed by using your own breath weapon. Once you’ve used your breath weapon, you can’t use it again until you’ve taken a short or long rest. You can also spend 1 Resolve Point at any point to recharge it immediately.
 
+Targets in the area can attempt a Dexterity save (DC = 8 + your proficiency bonus + your Constitution modifier) to take only half damage.
+
 #### Gill sheath
 An external lining striated with oxygen-filtering nodules coats the outside of your lungs. If you breathe in water, it filters into the lining, where the nodules extract the oxygen and deposit it into your lungs. This lets you breathe underwater or in the air. You still exhale normally.
 
@@ -165,3 +227,33 @@ The following augmentations require an 8 hour procedure at a health centre. Inst
 #### Skin of the Chameleon
 
 This biotech modification replaces pigmentation cells in your skin. You can alter your skin to mimic the terrain or lighting conditions around you, giving you advantage to Dexterity (Stealth) checks. You must be wearing custom clothing and no more than light armor to benefit from this biotech.
+
+### Moderate Biotech
+
+|Name|Price|System|
+|----|----:|------|
+|Dragon gland, standard|19,125|Throat|
+
+#### Dragon gland, standard
+
+This works like a dragon gland, wyrmling, but the damage increases to 9d6
+
+### Major Biotech
+
+|Name|Price|System|
+|----|----:|------|
+|Dragon gland, wyrm|181,500|Throat|
+
+#### Dragon gland, wyrm
+
+This works like a dragon gland, wyrmling, but the damage increases to 18d6
+
+### Extensive Biotech
+
+|Name|Price|System|
+|----|----:|------|
+|Cleansing Breath|342,000|Lungs|
+
+#### Cleansing Breath
+
+Organic sacs implanted within your lungs cause you to exhale airborne antibodies and antitoxins. You and creatures breathing the same air within 30 feet of you have advantage on saving throws against diseases and poisons.
