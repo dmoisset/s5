@@ -33,6 +33,12 @@ Upgrades are fitted into the armor upgrade slots. A few upgrades use more than o
 |Phase Shield|+3|4325|1|Hvy, Powered|1|
 |Sonic Dampener|+3|7150|1|Any|L|
 |Thermal Capacitor, mk 1|+3|3600|1|Any|--|
+|Electrostatic Field, Mk 2|+4|13000|1|Any|--|
+|Forcepack|+4|13100|1|Lt, Hvy|1|
+|Force Field (white)|+4|20000|2|Any|L|
+|Electrostatic Field, Mk 3|+4|35000|1|Any|--|
+|Force Field (gray)|+4|40000|2|Any|L|
+|Thermal Capacitor, mk 2|+4|36250|1|Any|--|
 
 #### Automated Loader
 
@@ -92,6 +98,10 @@ field’s color code. A suit of armor cannot support more than one force field u
 |Blue|40|35|8|
 |Orange|40|40|9|
 |Prismatic|100|50|10|
+
+#### Forcepack (Hybrid; Usage: 2 charges/round; Capacity 100)
+
+A *forcepack* grants a fly speed of 60 feet. You can use this for cruising flight at a usage of 1 charge per minute, or for combat at 1 charge per turn. Switching between modes is an action. While in cruising flight mode, you ahve disadvantage to attacks and Dexterity saves, and attacks against you have advantage. a *forcepack can't lift you if you're encumberred.
 
 #### Haste Circuit (Magic; Usage: 1 charge/round; Capacity: 5)
 
