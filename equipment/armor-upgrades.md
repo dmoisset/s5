@@ -101,7 +101,7 @@ field’s color code. A suit of armor cannot support more than one force field u
 
 #### Forcepack (Hybrid; Usage: 2 charges/round; Capacity 100)
 
-A *forcepack* grants a fly speed of 60 feet. You can use this for cruising flight at a usage of 1 charge per minute, or for combat at 1 charge per turn. Switching between modes is an action. While in cruising flight mode, you ahve disadvantage to attacks and Dexterity saves, and attacks against you have advantage. a *forcepack can't lift you if you're encumberred.
+A *forcepack* grants a fly speed of 60 feet. You can use this for cruising flight at a usage of 1 charge per minute, or for combat at 1 charge per turn. Switching between modes is an action. While in cruising flight mode, you have disadvantage to attacks and Dexterity saves, and attacks against you have advantage. a *forcepack can't lift you if you're encumberred.
 
 #### Haste Circuit (Magic; Usage: 1 charge/round; Capacity: 5)
 

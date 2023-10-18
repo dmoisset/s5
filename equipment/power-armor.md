@@ -113,3 +113,31 @@ overburdened.
 **Weapon Slots** 1; **Upgrade Slots** 1; **Bulk** 20
 
 The battle harness is the basic powered armor frame used by infantry units in professional militaries.
+
+### Spider harness
+
+**Minimum Proficiency** +4; **Price** 19,500
+
+**AC Bonus:** 13 + Dex **Stealth** Disadvantage; **Speed** 25 feet, climb 25 feet
+
+**Strength** 18 (+4); **Damage** 1d10 P; **Size** Large (10-foot reach)
+
+**Capacity** 40; **Usage** 1/minute
+
+**Weapon Slots** 1; **Upgrade Slots** 2; **Bulk** 28
+
+This suspension harness has six arachnid legs. Each leg has a gravitic attraction device at the tip, allowing the armor to climb up walls and even walk across ceilings. The armor grants the wearer a climb speed of 25 feet. A spider harness also has powered arm braces that attach to the wearer’s arms, allowing the wearer to use weapons.
+
+### Flight Frame
+
+**Minimum Proficiency** +4; **Price** 27,100
+
+**AC Bonus:** 15 + Dex (max 2) **Stealth** Disadvantage; **Speed** 30 feet, fly 30 feet
+
+**Strength** 22 (+5); **Damage** 2d6 B; **Size** Huge (10-foot reach)
+
+**Capacity** 100; **Usage** 1/minute
+
+**Weapon Slots** 3; **Upgrade Slots** 4; **Bulk** 40
+
+This massive, sleek machine is shaped like a person and equipped with powerful thrusters built into the feet and attached to the back, giving it a fly speed.
