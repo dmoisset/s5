@@ -146,3 +146,4 @@ Numerous mild sedatives commonly available for purchase have legitimate medical 
 
 #### Stimulant
 Stimulants provide a quick burst of energy and are popular among soldiers on watch, though jitteriness is a common side effect. For 1 hour, you are immune to effects of sleep deprivation, and you get advantage on saving throws to prevent other sources of exhaustion. During this time, you get disadvantage on Dexterity based ability and skill checks.
+
