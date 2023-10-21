@@ -19,7 +19,7 @@ your friends.
 |7th|3|Martial Archetype feature|
 |8th|3|Ability Score Improvement|
 |9th|4|Indomitable (one use)|
-|10th|4|Martial Archetype feature|
+|10th|4|Martial Archetype feature, Additional Fighting Style|
 |11th|4|Extra Attack (2)|
 |12th|4|Ability Score Improvement|
 |13th|5|Indomitable (two uses)|
