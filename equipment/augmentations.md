@@ -216,7 +216,7 @@ Once used, the venom sac doesn’t refill until the next time you take a short o
 #### WildWise
 The soft purple fungus called wildwise attaches itself to your vocal cords and extends fine filaments into portions of your brain. It allows you to communicate in a general sense with beasts with an Intelligence score of 1 or 2. You can attempt Charisma (Persuasion) checks to influence such creatures as well as understand in very vague terms information they try to convey to you. The information they give you usually consists of simple concepts such as “danger,” “food,” or “that way.”
 
-## Minor Biotech
+### Minor Biotech
 
 The following augmentations require an 8 hour procedure at a health centre. Installation requires anaesthetics and medical control, during that period, but you can walk out by the end of the process with no risk or side-effects
 
@@ -230,6 +230,8 @@ This biotech modification replaces pigmentation cells in your skin. You can alte
 
 ### Moderate Biotech
 
+The following augmentations require an 12 hour procedure at a health centre. Installation requires anaesthetics and medical control, during that period, and you gain a level of exhaustion after surgery.
+
 |Name|Price|System|
 |----|----:|------|
 |Dragon gland, standard|19,125|Throat|
@@ -240,6 +242,8 @@ This works like a dragon gland, wyrmling, but the damage increases to 9d6
 
 ### Major Biotech
 
+The following augmentations require a 24-hour stay at a hospital. Installation requires anaesthetics and medical control, during that period, and you gain two levels of exhaustion after surgery.
+
 |Name|Price|System|
 |----|----:|------|
 |Dragon gland, wyrm|181,500|Throat|
@@ -249,6 +253,8 @@ This works like a dragon gland, wyrmling, but the damage increases to 9d6
 This works like a dragon gland, wyrmling, but the damage increases to 18d6
 
 ### Extensive Biotech
+
+The following augmentations require a 48-hour stay at a hospital. Installation requires anaesthetics and medical control, during that period, and you gain two levels of exhaustion after surgery, and take 3d12 damage directly to your hit points once the procedure is over.
 
 |Name|Price|System|
 |----|----:|------|
