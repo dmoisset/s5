@@ -193,14 +193,20 @@
 - [Animate Dead](spells/animate_dead.md)
 - [:five: Arcane Eye](spells/arcane_eye.md)
 - [:five: Banishment](spells/banishment.md)
+- Corrosive Haze
 - [Creation](spells/creation.md)
+- Destruction Protocol
 - [:five: Dimension Door](spells/dimension_door.md)
 - [:five: Fabricate](spells/fabricate.md)
 - [:five: Greater Invisibility](spells/greater_invisibility.md)
 - [:five: Holographic Terrain](spells/hallucinatory_terrain.md)
+- Overload Systems
 - [Passwall](spells/passwall.md)
+- Remove Radioactivity
 - [:five: Resilient Sphere](spells/resilient_sphere.md)
+- Rewire Flesh
 - [Seeming](spells/seeming.md)
+- Soothing Protocol
 - [:five: Stoneskin](spells/stoneskin.md)
 - [:five: Thermal Shield](spells/fire_shield.md)
 - [:five: Wall of Fire](spells/wall_of_fire.md)
