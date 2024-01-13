@@ -1,14 +1,14 @@
 ---
 name: Passwall
-level: 5
+level: 4
 school: transmutation
 classes: technomancer
 
 ---
 
-# :five: Passwall
+# Passwall
 
-_5th-level transmutation_ 
+_4th-level transmutation_ 
 
 **Casting Time:** 1 action    
 **Range:** 30 feet    

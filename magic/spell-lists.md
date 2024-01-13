@@ -192,11 +192,17 @@
 
 - [Animate Dead](spells/animate_dead.md)
 - [:five: Arcane Eye](spells/arcane_eye.md)
+- [:five: Banishment](spells/banishment.md)
 - [Creation](spells/creation.md)
 - [:five: Dimension Door](spells/dimension_door.md)
+- [:five: Fabricate](spells/fabricate.md)
 - [:five: Greater Invisibility](spells/greater_invisibility.md)
 - [:five: Holographic Terrain](spells/hallucinatory_terrain.md)
+- [Passwall](spells/passwall.md)
 - [:five: Resilient Sphere](spells/resilient_sphere.md)
+- [Seeming](spells/seeming.md)
+- [:five: Stoneskin](spells/stoneskin.md)
+- [:five: Thermal Shield](spells/fire_shield.md)
 - [:five: Wall of Fire](spells/wall_of_fire.md)
 
 ## 5th Level
@@ -204,7 +210,6 @@
 - [:five: Break Enchantment](spells/dispel_evil_and_good.md)
 - [:five: Contact Other Plane](spells/contact_other_plane.md)
 - [:five: Mislead](spells/mislead.md)
-- [:five: Passwall](spells/passwall.md)
 - [Planar Binding](spells/planar_binding.md)
 - [:five: Telekinesis](spells/telekinesis.md)
 - [Teleport](spells/teleport.md)
