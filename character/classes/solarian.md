@@ -184,7 +184,7 @@ When you are attuned or fully attuned, you can see 1 hour into the future (inste
 
 ### Blazing Orbit:eight_spoked_asterisk:
 
-As a bonus action, you gain protection against opportunity attacks, and any attack against you during your turn gets disadvantage. You can leave a trail of flames in every square you pass through after enabling this ability. The flames last until the beginning of your next round and deal 2d6 fire damage to anyone who moves into them. You can’t move through another creature’s space while doing this. If you use blazing orbit again, any flames you previously created with it go out. The damage from the flames increases by 1d6 at 8th level and every 2 levels thereafter.
+As a bonus action, you gain resistance against damage from opportunity attacks, and any attack against you during your turn gets disadvantage. You can leave a trail of flames in every square you pass through after enabling this ability. The flames last until the beginning of your next round and deal 2d6 fire damage to anyone who moves into them. You can’t move through another creature’s space while doing this. If you use blazing orbit again, any flames you previously created with it go out. The damage from the flames increases by 1d6 at 8th level and every 2 levels thereafter.
 
 When you are attuned or fully attuned, any creature damaged by the flames also gains the burning condition (1d6 fire damage).
 
@@ -254,7 +254,7 @@ The following revelations can only be chosen when you’re at least 14th level
 
 As a bonus action, you can create a minor shield of compressed gravity waves, granting you a +1 bonus to your AC. The shield lasts until the beginning of your next turn or until you leave graviton mode.
 
-When you are attuned or fully attuned, as a move action, you can create a disk of massive gravitational energies that is capable of deflecting incoming attacks. The shield extends over one edge of your space (you choose which one). The shield provides cover against attacks coming from its far side, but not against attacks originating from the side you’re on. If you move, you can reposition your shield as part of your movement, moving it to a different edge of your space. You must use one of your hands to direct and maintain an active gravity shield. You cannot use this version of the gravity shield at the same time you use this revelation to gain a circumstance bonus to your AC. This gravity shield also lasts until the beginning of your next turn or until you leave graviton mode.
+When you are attuned or fully attuned, as a bonus action, you can create a disk of massive gravitational energies that is capable of deflecting incoming attacks. The shield extends over one edge of your space (you choose which one). The shield provides three-quarters cover against attacks coming from its far side, but not against attacks originating from the side you’re on. If you move, you can reposition your shield as part of your movement, moving it to a different edge of your space. You must use one of your hands to direct and maintain an active gravity shield. You cannot use this version of the gravity shield at the same time you use this revelation to gain a bonus to your AC. This gravity shield also lasts until the beginning of your next turn or until you leave graviton mode.
 
 ### Sunbolt :eight_spoked_asterisk:
 
