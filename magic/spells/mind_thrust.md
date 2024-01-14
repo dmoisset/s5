@@ -1,17 +1,24 @@
 ---
 name: Mind Thrust
-level: 0
+level: 2
 school: divination
 classes: mystic
 ---
 
 # Mind Thrust
+
 _Divination cantrip_ 
 
 **Casting Time:** 1 action   
-**Range:** 60ft.   
-**Duration:** Instantaneous
+**Range:** 90ft.   
+**Target:** A creature you can see within range
+**Duration:** 1 round
 
-You divine the most vulnerable portion of your opponent’s mind and overload it with a glut of psychic information. The target, a creature you can see in range, must succeed an Intelligence saving throw or take 1d10 psychic damage. This spell has no effect on non-intelligent creatures (Intelligence score of 2 or less).
+You divine the most vulnerable portion of your opponent’s mind and overload it with a barrage of psychic noise.
+The target must make an Intelligence saving throw. If it fails, it takes 3d6 psychic damage,
+and is overwhelmed until the end of its next turn. While the spell is active the target
+gains the staggered condition and can't use reactions until the end of its next turn.
+On a successful save, the target takes half the damage and no further effects.
 
-This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+**At Higher Levels.** When you cast this spell using a 3rd level spell slot or higher, 
+the damage increases by 1d6 per spell level above 2nd.

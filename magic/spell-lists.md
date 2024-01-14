@@ -8,7 +8,7 @@
 - [Grave Words](spells/grave_words.md)
 - [:five: Mending](spells/mending.md)
 - [:five: Message](spells/message.md)
-- [Mind Thrust](spells/mind_thrust.md)
+- [Mind Lash](spells/mind_lash.md)
 - [:five: Minor Illusion](spells/minor_illusion.md)
 - [:five: Psychokinetic Hand](spells/mage_hand.md)
 - [:five: Spare the Dying](spells/spare_the_dying.md)
@@ -31,6 +31,7 @@
 - [Lesser Confusion](spells/lesser_confusion.md)
 - [Life Bubble](spells/life_bubble.md)
 - [Mind Link](spells/mind_link.md)
+- [Mind Thrust](spells/mind_thrust.md)
 - [Reflecting Armor](spells/reflecting_armor.md)
 - [Wisp Ally](spells/wisp_ally.md)
 
