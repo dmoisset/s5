@@ -68,11 +68,18 @@
 ## 4th Level
 
 - [Animate Dead](spells/animate_dead.md)
+- [:five: Banishment](spells/banishment.md)
+- [:five: Blight](spells/blight.md)
 - [:five: Confusion](spells/confusion.md)
+- Cosmic Eddy
 - [:five:Death Ward](spells/death_ward.md)
+- Discern Lies
 - [Divinationᴿ](spells/divination.md)
+- Enervation
 - [:five: Hold Monster](spells/hold_monster.md)
 - [Reincarnate](spells/reincarnate.md)
+- [Remove Radioactivity](spells/remove_radioactivity.md)
+- [:five: Resistant Armor](spells/stoneskin.md)
 - [:five: Telepathic Bond](spells/telepathic_bond.md)
 
 ## 5th Level
@@ -81,7 +88,7 @@
 - [:five: Commune with Nature](spells/commune_with_nature.md)
 - [:five: Contact Other Plane](spells/contact_other_plane.md)
 - [:five: Dominate Person](spells/dominate_person.md)
-- [Greater Restoration](spells/greater_restoration.md)
+- [Greater Restorationᴿ](spells/greater_restoration.md)
 - [Mass Mystic Cure](spells/mass_cure_wounds.md)
 - [Modify Memory](spells/modify_memory.md)
 - [Planar Binding](spells/planar_binding.md)
@@ -207,7 +214,7 @@
 - [Rewire Flesh](spells/rewire_flesh.md)
 - [Seeming](spells/seeming.md)
 - [Soothing Protocol](spells/soothing_protocol.md)
-- [:five: Stoneskin](spells/stoneskin.md)
+- [:five: Resistant Armor](spells/stoneskin.md)
 - [:five: Thermal Shield](spells/fire_shield.md)
 - [:five: Wall of Fire](spells/wall_of_fire.md)
 
