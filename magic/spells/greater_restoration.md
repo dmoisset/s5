@@ -5,7 +5,7 @@ school: abjuration
 classes: mystic
 ---
 
-# Greater Restoration
+# Greater Restorationᴿ
 
 _5th-level abjuration_ 
 
@@ -19,3 +19,5 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 * One curse, including the target's attunement to a cursed magic item 
 * Any reduction to one of the target's ability scores
 * One effect reducing the target's hit point maximum 
+
+Casting this spells requires spending 1 RP.
