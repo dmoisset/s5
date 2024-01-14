@@ -706,8 +706,8 @@ A weapon with this special property creates a spiraling cyclone of gravitons tha
 
 |Weapon|Type|Range|Speed|Damage|PCU|Cost (BP)|Special Properties|
 |------|:--:|:---:|----:|:----:|--:|--------:|------------------|
-|Chain Cannon|Direct-Fire|Short|—|6d4|15|15|Ripper|
-|Coilgun|Direct-Fire|Long|—|4d4|10|6|—|
+|Chain Cannon|Direct-Fire|Short|—|6d4|15|10|Ripper|
+|Coilgun|Direct-Fire|Long|—|4d4|10|10|—|
 |Flak Thrower|Direct-Fire|Short|—|3d4|10|5|Point (+2)|
 |Gyrolaser|Direct-Fire|Short|—|1d8|10|3|Broad Arc|
 |Laser Net|Direct-Fire|Short|—|2d6|10|9|Point (+4)|
@@ -715,11 +715,11 @@ A weapon with this special property creates a spiraling cyclone of gravitons tha
 |Light Laser Cannon|Direct-Fire|Short|—|2d4|5|2|—|
 |Light Particle Cannon|Direct-Fire|Medium|—|3d6|10|10|—|
 |Light Plasma Cannon|Direct-Fire|Short|—|2d12|10|12|—|
-|High Explosive Missile Launcher|Tracking|Long|12|4d8|10|4|Limited Fire 5|
+|High Explosive Missile Launcher|Tracking|Long|12|4d8|10|14|Limited Fire 5|
 |Light Plasma Torpedo Launcher|Tracking|Long|14|3d8|5|5|Limited Fire 5|
-|Light Torpedo Launcher|Tracking|Long|16|2d8|5|4|—|
-|Micromissile Battery|Tracking|Long|10|2d6|10|3|Array, Limited Fire 5|
-|Tactical Nuclear Missile Launcher|Tracking|Long|10|5d8|10|5|Irradiate (low), Limited Fire 5|
+|Light Torpedo Launcher|Tracking|Long|16|2d8|5|11|—|
+|Micromissile Battery|Tracking|Long|10|2d6|10|5|Array, Limited Fire 5|
+|Tactical Nuclear Missile Launcher|Tracking|Long|10|5d8|10|18|Irradiate (low), Limited Fire 5|
 
 ### Heavy Weapons
 
@@ -727,41 +727,42 @@ A weapon with this special property creates a spiraling cyclone of gravitons tha
 |------|:--:|:---:|----:|:----:|--:|--------:|------------------|
 |Graser|Direct-Fire|Short|—|7d10|40|35|Irradiate (medium)|
 |Gravity Gun|Direct-Fire|Medium|—|6d6|40|30|Tractor Beam|
-|Heavy EMP Cannon|Direct-Fire|Medium|—|Special|30|24|EMP|
+|Heavy EMP Cannon|Direct-Fire|Medium|—|Special|30|12|EMP|
 |Heavy Laser Array|Direct-Fire|Short|—|6d4|15|10|Array|
-|Heavy Laser Cannon|Direct-Fire|Medium|—|4d8|10|8|—|
-|Heavy Laser Net|Direct-Fire|Short|—|5d6|15|12|Point (+6)|
+|Heavy Laser Cannon|Direct-Fire|Medium|—|4d8|10|15|—|
+|Heavy Laser Net|Direct-Fire|Short|—|5d6|15|15|Point (+6)|
 |Maser|Direct-Fire|Long|—|6d10|35|22|—|
-|Particle Beam|Direct-Fire|Long|—|8d6|25|15|—|
+|Particle Beam|Direct-Fire|Long|—|8d6|25|20|—|
 |Persistent Particle Beam|Direct-Fire|Long|—|10d6|40|25|—|
 |Plasma Cannon|Direct-Fire|Medium|—|5d12|30|20|—|
 |Railgun|Direct-Fire|Long|—|8d4|20|15|—|
-|Twin Laser|Direct-Fire|Long|—|5d8|15|12|—|
+|Twin Laser|Direct-Fire|Long|—|5d8|15|18|—|
 |X-Laser Cannon|Direct-Fire|Long|—|8d6|40|35|Line|
-|Heavy Antimatter Missile Launcher|Tracking|Long|8|10d10|15|12|Limited Fire 5|
-|Heavy Nuclear Missile Launcher|Tracking|Long|10|10d8|15|10|Irradiate (medium), Limited Fire 5|
-|Heavy Plasma Torpedo Launcher|Tracking|Long|12|5d10|10|10|Limited Fire 5|
-|Heavy Torpedo Launcher|Tracking|Long|14|5d8|10|8|Limited Fire 5|
+|Heavy Antimatter Missile Launcher|Tracking|Long|8|10d10|15|35|Limited Fire 5|
+|Heavy Nuclear Missile Launcher|Tracking|Long|10|10d8|15|35|Irradiate (medium), Limited Fire 5|
+|Heavy Plasma Torpedo Launcher|Tracking|Long|12|5d10|10|18|Limited Fire 5|
+|Heavy Torpedo Launcher|Tracking|Long|14|5d8|10|16|Limited Fire 5|
 
 ### Capital Weapons
 
 |Weapon|Type|Range|Speed|Damage|PCU|Cost (BP)|Special Properties|
 |------|:--:|:---:|----:|:----:|--:|--------:|------------------|
 |Gravity Cannon|Direct-Fire|Long|—|2d6 × 10|40|50|Tractor Beam|
-|Mass Driver|Direct-Fire|Long|—|2d6 × 10|25|25|—|
+|Mass Driver|Direct-Fire|Long|—|2d6 × 10|25|30|—|
 |Particle Beam Cannon|Direct-Fire|Long|—|3d4 × 10|30|30|—|
 |Persistent Particle Beam Cannon|Direct-Fire|Long|—|2d10 × 10|50|40|—|
-|Super EMP Cannon|Direct-Fire|Long|—|Special|45|45|EMP|
+|Super EMP Cannon|Direct-Fire|Long|—|Special|45|18|EMP|
 |Super Plasma Cannon|Direct-Fire|Medium|—|3d6 × 10|45|35|—|
-|Supergraser|Direct-Fire|Medium|—|2d8 × 10|50|60|Irradiate (high)|
+|Super X-laser-cannon|Direct-Fire|Long|—|3d4 × 10|50|45|Line|
+|Supergraser|Direct-Fire|Medium|—|2d8 × 10|50|35|Irradiate (high)|
 |Superlaser|Direct-Fire|Long|—|2d4 × 10|20|20|—|
 |Supermaser|Direct-Fire|Long|—|2d8 × 10|40|35|—|
 |Vortex Cannon|Direct-Fire|Medium|—|2d12 × 10|55|75|Vortex|
-|Antimatter Mega-Missile Launcher|Tracking|Long|6|4d10 × 10|15|25|Limited Fire 5|
-|Hellfire Torpedo Launcher|Tracking|Long|8|2d10 × 10|10|25|Limited Fire 5|
-|Nuclear Mega-Missile Launcher|Tracking|Long|8|4d8 × 10|15|20|Limited Fire 5|
-|Quantum Missile Launcher|Tracking|Long|12|2d8 × 10|15|20|Limited Fire 5, Quantum|
-|Solar Torpedo Launcher|Tracking|Long|10|2d6 × 10|10|20|Limited Fire 5|
+|Antimatter Mega-Missile Launcher|Tracking|Long|6|4d10 × 10|15|70|Limited Fire 5|
+|Hellfire Torpedo Launcher|Tracking|Long|8|2d10 × 10|10|40|Limited Fire 5|
+|Nuclear Mega-Missile Launcher|Tracking|Long|8|4d8 × 10|15|60|Limited Fire 5|
+|Quantum Missile Launcher|Tracking|Long|12|2d8 × 10|15|35|Limited Fire 5, Quantum|
+|Solar Torpedo Launcher|Tracking|Long|10|2d6 × 10|10|25|Limited Fire 5|
 
 
 ### Linking Weapons
