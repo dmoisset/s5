@@ -11,7 +11,7 @@ _4th-level evocation_
 
 **Casting Time:** 1 action    
 **Range:** 60 feet    
-**Target:** A 5-foot sphere
+**Target:** A 5-foot sphere    
 **Duration:** Concentration, up to 1 minute
 
 A 5-foot cloud of acid-resistant nanites continually converts nearby water vapor into deadly acid. The cloud can share space with a creature and lasts for the duration or until you cast the spell again. As a bonus actions on turns after casting the spell, you can move the cloud up to 30 feet or until it enters a space containing a creature. When the cloud enters a space with a creature, or if the cloud is created there, or if a creature end its turn within the cloud, the creature takes 4d8 acid damage unless it succeeds a Constitution saving throw.
