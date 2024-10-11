@@ -411,3 +411,8 @@ A solarian is able to use a crystal only if their proficiency bonus is equal or 
 |Graviton crystal, lesser|+4|24000|+2d6|Knockdown|
 |Photon crystal, lesser|+4|25100|+2d6 F|Burn 1d6|
 |W-boson crystal, lesser|+4|26200|+2d6|Bleed 2d6|
+|Gluon crystal, lesser|+4|30800|+2d6|Severe Wound|
+|Graviton crystal, standard|+5|69900|+3d6|Knockdown|
+|Photon crystal, standard|+5|71200|+3d6 F|Burn 2d6|
+|W-boson crystal, standard|+5|81300|+3d6|Bleed 3d6|
+|Gluon crystal, standard|+5|94200|+3d6|Severe Wound|
