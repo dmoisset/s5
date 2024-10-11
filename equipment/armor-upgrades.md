@@ -23,7 +23,7 @@ Upgrades are fitted into the armor upgrade slots. A few upgrades use more than o
 |Targeting Computer|+2|2250|1|Any|--|
 |Tensile Reinforcement|+2|150|1|Any|--|
 |Deflective Reinforcement|+3|7500|1|Any|1|
-|Electrostatic Field, Mk 1|+3|3000|1|Any|--|
+|Electrostatic Field, mk 1|+3|3000|1|Any|--|
 |Filtered Rebreather|+3|4600|1|Any|1|
 |Force Field (purple)|+3|4550|2|Any|L|
 |Force Field (black)|+3|10500|2|Any|L|
@@ -33,12 +33,18 @@ Upgrades are fitted into the armor upgrade slots. A few upgrades use more than o
 |Phase Shield|+3|4325|1|Hvy, Powered|1|
 |Sonic Dampener|+3|7150|1|Any|L|
 |Thermal Capacitor, mk 1|+3|3600|1|Any|--|
-|Electrostatic Field, Mk 2|+4|13000|1|Any|--|
+|Electrostatic Field, mk 2|+4|13000|1|Any|--|
 |Forcepack|+4|13100|1|Lt, Hvy|1|
 |Force Field (white)|+4|20000|2|Any|L|
 |Electrostatic Field, Mk 3|+4|35000|1|Any|--|
 |Force Field (gray)|+4|40000|2|Any|L|
 |Thermal Capacitor, mk 2|+4|36250|1|Any|--|
+|Spell Reflector, mk 1|+5|47950|1|Any|1|
+|Force Field (green)|+5|80000|2|Any|L|
+|Titan Shield|+5|75000|1|Powered|2|
+|Thermal capacitor, mk 3|+5|120000|1|Any|--|
+|Force Field (red)|+5|180000|2|Any|L|
+
 
 #### Automated Loader
 
@@ -143,6 +149,14 @@ environmental protection. This doesn’t provide any bonus to saves against the 
 
 This device muffles the incidental sounds you make, and sonic attacks lose power in your vicinity. You gain sonic resistance and your armor doesn't inflict disadvantage on Dexterity (Stealth) checks.
 
+#### Spell Reflector
+
+You can activate the spell reflactor as a reaction when targeted by a spell that targets you as a creature (This doesn't apply to effects that affect you indirectly or an area you are in). The spell is reflected on its caster as if the caster had been its target. The type of spell reflector determines the highest level of spell slot it can reflect. A spell reflector can not be used until the person who used it last takes a long rest.
+
+A Mk 1 spell reflector can reflect a spell cast using a 4th level slot or slower.
+
+A Mk 2 spell reflector can reflect a spell cast using a 6th level slot or slower.
+
 #### Targeting Computer
 
 This targeting computer helps you compensate for poor visibility conditions. In heavily obscured areas you are still aware of 
@@ -152,6 +166,14 @@ which squares within 5 feet of you are used by enemies.
 
 When treating your armor as an object for the purpose of damaging it directly, it’s considered to have +2 to AC and 
 resistance to all damage. This doesn’t affect your AC while wearing the armor.
+
+#### Titan Shield (Usage: 10 charges/round; Capacity: 40)
+
+This emitter generates a wide, unidirectional energy shield that protects against incoming attacks. You can activate or deactivate the shield as a bonus action. When you activate it, choose one edge of your space. The shield extends along three continuous edges in a straight line centered on the chosen edge. The shield provides 3/4 cover against attacks coming from the far side of the shield but not against attacks originating from the side you’re on.
+
+The shield stays in place, unless you spend a bonus action to reposition it on an edge of your new location. You can also spend a bonus action to reorient the shield without leaving your space.
+
+This upgrade can be installed only in powered armor.
 
 #### Thermal Capacitor
 
